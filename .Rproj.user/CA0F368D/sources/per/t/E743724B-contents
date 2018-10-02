@@ -1,0 +1,22 @@
+library(tidyverse)
+
+# Opening file
+auto <- read.table(file.choose())
+head(auto)
+
+# Giving column names
+newnames <- c("mpg", "cylinders", "displacement", "horsepower", "weight",
+              "acceleration", "model_year", "origin", "car name")
+names(auto) <- newnames
+
+# Removing unknown values 
+auto <- subset(auto, horsepower != "?")
+
+# Changing variables
+auto$horsepower <- as.numeric(auto$horsepower)
+auto$origin <- as.factor(auto$origin)
+ind.horsepower <- auto$horsepower >= 50
+
+# Adjusting variables
+mass <- auto$weight / 1000
+

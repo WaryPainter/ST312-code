@@ -1,0 +1,36 @@
+# Grouping USA and Europe
+auto$origin1 <- as.factor(ifelse(auto$origin == 3, 2, 1))
+
+# Grouping Europe and Japan
+auto$origin2 <- as.factor(ifelse(auto$origin == 1, 1, 2))
+
+# Grouping cylinders
+auto$cylinders_grouped <- as.factor(replace(auto$cylinders, auto$cylinders < 6, 4))
+auto$cylinders <- as.factor(auto$cylinders)
+
+# Grouping years
+auto$grouped_years <- as.factor(ifelse(auto$model_year < 76, "70-75", "75-82"))
+
+
+# Linear models
+reg <-lm(log(mpg) ~  horsepower + ind.horsepower + origin + acceleration + cylinders_grouped + mass + log(displacement), auto)
+summary(reg)
+anova(reg)
+
+
+
+
+
+
+
+s <- step(reg)      
+
+regaic <- lm(log(mpg) ~ horsepower + ind.horsepower + acceleration + cylinders_grouped + mass , auto)
+summary(regaic)
+
+regnolog <- lm(mpg ~  horsepower + ind.horsepower + mass + origin + log(acceleration) + cylinders + log(displacement), auto)
+summary(regnolog)
+step(regnolog)
+
+regaicnolog <- lm(mpg ~  horsepower + ind.horsepower + origin + log(acceleration) + cylinders + log(displacement), auto)
+summary(regaicnolog)

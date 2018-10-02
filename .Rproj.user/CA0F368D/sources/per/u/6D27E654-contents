@@ -1,0 +1,9 @@
+yearmeans <- auto %>%
+             group_by(model_year) %>%
+             summarise(mean = mean(mpg))
+
+
+
+regyear <- lm(mpg ~ factor(grouped_years1), auto)
+anova(regyear)
+summary(regyear)

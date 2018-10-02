@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519591881985.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3549184923",
+    "id" : "E743724B",
+    "lastKnownWriteTime" : 1520120584,
+    "last_content_update" : 1520120584247,
+    "path" : "~/ST300/ST300 code.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "17,39",
+        "scrollLine" : "0",
+        "tempName" : "Untitled4"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519923248781.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1807889902",
+    "id" : "1336FA16",
+    "lastKnownWriteTime" : 1520120584,
+    "last_content_update" : 1520120584387,
+    "path" : "~/ST300/Variable selection.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "15,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

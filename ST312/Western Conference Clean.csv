@@ -1,0 +1,1231 @@
+"","X1","Team","G","Date","X3","Opponent","X5","X6","Tm","Opp","W","L","Streak","Dates"
+"1",1,"Golden State Warriors",1,"Tue Oct 25 2016","vs","San Antonio Spurs","L",NA,100,129,0,1,"L 1",2016-10-25
+"2",2,"Golden State Warriors",2,"Fri Oct 28 2016","@","New Orleans Pelicans","W",NA,122,114,1,1,"W 1",2016-10-28
+"3",3,"Golden State Warriors",3,"Sun Oct 30 2016","@","Phoenix Suns","W",NA,106,100,2,1,"W 2",2016-10-30
+"4",4,"Golden State Warriors",4,"Tue Nov 1 2016","@","Portland Trail Blazers","W",NA,127,104,3,1,"W 3",2016-11-01
+"5",5,"Golden State Warriors",5,"Thu Nov 3 2016","vs","Oklahoma City Thunder","W",NA,122,96,4,1,"W 4",2016-11-03
+"6",6,"Golden State Warriors",6,"Fri Nov 4 2016","@","Los Angeles Lakers","L",NA,97,117,4,2,"L 1",2016-11-04
+"7",7,"Golden State Warriors",7,"Mon Nov 7 2016","vs","New Orleans Pelicans","W",NA,116,106,5,2,"W 1",2016-11-07
+"8",8,"Golden State Warriors",8,"Wed Nov 9 2016","vs","Dallas Mavericks","W",NA,116,95,6,2,"W 2",2016-11-09
+"9",9,"Golden State Warriors",9,"Thu Nov 10 2016","@","Denver Nuggets","W",NA,125,101,7,2,"W 3",2016-11-10
+"10",10,"Golden State Warriors",10,"Sun Nov 13 2016","vs","Phoenix Suns","W",NA,133,120,8,2,"W 4",2016-11-13
+"11",11,"Golden State Warriors",11,"Wed Nov 16 2016","@","Toronto Raptors","W",NA,127,121,9,2,"W 5",2016-11-16
+"12",12,"Golden State Warriors",12,"Fri Nov 18 2016","@","Boston Celtics","W",NA,104,88,10,2,"W 6",2016-11-18
+"13",13,"Golden State Warriors",13,"Sat Nov 19 2016","@","Milwaukee Bucks","W",NA,124,121,11,2,"W 7",2016-11-19
+"14",14,"Golden State Warriors",14,"Mon Nov 21 2016","@","Indiana Pacers","W",NA,120,83,12,2,"W 8",2016-11-21
+"15",15,"Golden State Warriors",15,"Wed Nov 23 2016","vs","Los Angeles Lakers","W",NA,149,106,13,2,"W 9",2016-11-23
+"16",16,"Golden State Warriors",16,"Fri Nov 25 2016","@","Los Angeles Lakers","W",NA,109,85,14,2,"W 10",2016-11-25
+"17",17,"Golden State Warriors",17,"Sat Nov 26 2016","vs","Minnesota Timberwolves","W",NA,115,102,15,2,"W 11",2016-11-26
+"18",18,"Golden State Warriors",18,"Mon Nov 28 2016","vs","Atlanta Hawks","W",NA,105,100,16,2,"W 12",2016-11-28
+"19",19,"Golden State Warriors",19,"Thu Dec 1 2016","vs","Houston Rockets","L","2OT",127,132,16,3,"L 1",2016-12-01
+"20",20,"Golden State Warriors",20,"Sat Dec 3 2016","vs","Phoenix Suns","W",NA,138,109,17,3,"W 1",2016-12-03
+"21",21,"Golden State Warriors",21,"Mon Dec 5 2016","vs","Indiana Pacers","W",NA,142,106,18,3,"W 2",2016-12-05
+"22",22,"Golden State Warriors",22,"Wed Dec 7 2016","@","Los Angeles Clippers","W",NA,115,98,19,3,"W 3",2016-12-07
+"23",23,"Golden State Warriors",23,"Thu Dec 8 2016","@","Utah Jazz","W",NA,106,99,20,3,"W 4",2016-12-08
+"24",24,"Golden State Warriors",24,"Sat Dec 10 2016","@","Memphis Grizzlies","L",NA,89,110,20,4,"L 1",2016-12-10
+"25",25,"Golden State Warriors",25,"Sun Dec 11 2016","@","Minnesota Timberwolves","W",NA,116,108,21,4,"W 1",2016-12-11
+"26",26,"Golden State Warriors",26,"Tue Dec 13 2016","@","New Orleans Pelicans","W",NA,113,109,22,4,"W 2",2016-12-13
+"27",27,"Golden State Warriors",27,"Thu Dec 15 2016","vs","New York Knicks","W",NA,103,90,23,4,"W 3",2016-12-15
+"28",28,"Golden State Warriors",28,"Sat Dec 17 2016","vs","Portland Trail Blazers","W",NA,135,90,24,4,"W 4",2016-12-17
+"29",29,"Golden State Warriors",29,"Tue Dec 20 2016","vs","Utah Jazz","W",NA,104,74,25,4,"W 5",2016-12-20
+"30",30,"Golden State Warriors",30,"Thu Dec 22 2016","@","Brooklyn Nets","W",NA,117,101,26,4,"W 6",2016-12-22
+"31",31,"Golden State Warriors",31,"Fri Dec 23 2016","@","Detroit Pistons","W",NA,119,113,27,4,"W 7",2016-12-23
+"32",32,"Golden State Warriors",32,"Sun Dec 25 2016","@","Cleveland Cavaliers","L",NA,108,109,27,5,"L 1",2016-12-25
+"33",33,"Golden State Warriors",33,"Wed Dec 28 2016","vs","Toronto Raptors","W",NA,121,111,28,5,"W 1",2016-12-28
+"34",34,"Golden State Warriors",34,"Fri Dec 30 2016","vs","Dallas Mavericks","W",NA,108,99,29,5,"W 2",2016-12-30
+"35",35,"Golden State Warriors",35,"Mon Jan 2 2017","vs","Denver Nuggets","W",NA,127,119,30,5,"W 3",2017-01-02
+"36",36,"Golden State Warriors",36,"Wed Jan 4 2017","vs","Portland Trail Blazers","W",NA,125,117,31,5,"W 4",2017-01-04
+"37",37,"Golden State Warriors",37,"Fri Jan 6 2017","vs","Memphis Grizzlies","L","OT",119,128,31,6,"L 1",2017-01-06
+"38",38,"Golden State Warriors",38,"Sun Jan 8 2017","@","Sacramento Kings","W",NA,117,106,32,6,"W 1",2017-01-08
+"39",39,"Golden State Warriors",39,"Tue Jan 10 2017","vs","Miami Heat","W",NA,107,95,33,6,"W 2",2017-01-10
+"40",40,"Golden State Warriors",40,"Thu Jan 12 2017","vs","Detroit Pistons","W",NA,127,107,34,6,"W 3",2017-01-12
+"41",41,"Golden State Warriors",41,"Mon Jan 16 2017","vs","Cleveland Cavaliers","W",NA,126,91,35,6,"W 4",2017-01-16
+"42",42,"Golden State Warriors",42,"Wed Jan 18 2017","vs","Oklahoma City Thunder","W",NA,121,100,36,6,"W 5",2017-01-18
+"43",43,"Golden State Warriors",43,"Fri Jan 20 2017","@","Houston Rockets","W",NA,125,108,37,6,"W 6",2017-01-20
+"44",44,"Golden State Warriors",44,"Sun Jan 22 2017","@","Orlando Magic","W",NA,118,98,38,6,"W 7",2017-01-22
+"45",45,"Golden State Warriors",45,"Mon Jan 23 2017","@","Miami Heat","L",NA,102,105,38,7,"L 1",2017-01-23
+"46",46,"Golden State Warriors",46,"Wed Jan 25 2017","@","Charlotte Hornets","W",NA,113,103,39,7,"W 1",2017-01-25
+"47",47,"Golden State Warriors",47,"Sat Jan 28 2017","vs","Los Angeles Clippers","W",NA,144,98,40,7,"W 2",2017-01-28
+"48",48,"Golden State Warriors",48,"Sun Jan 29 2017","@","Portland Trail Blazers","W",NA,113,111,41,7,"W 3",2017-01-29
+"49",49,"Golden State Warriors",49,"Wed Feb 1 2017","vs","Charlotte Hornets","W",NA,126,111,42,7,"W 4",2017-02-01
+"50",50,"Golden State Warriors",50,"Thu Feb 2 2017","@","Los Angeles Clippers","W",NA,133,120,43,7,"W 5",2017-02-02
+"51",51,"Golden State Warriors",51,"Sat Feb 4 2017","@","Sacramento Kings","L","OT",106,109,43,8,"L 1",2017-02-04
+"52",52,"Golden State Warriors",52,"Wed Feb 8 2017","vs","Chicago Bulls","W",NA,123,92,44,8,"W 1",2017-02-08
+"53",53,"Golden State Warriors",53,"Fri Feb 10 2017","@","Memphis Grizzlies","W",NA,122,107,45,8,"W 2",2017-02-10
+"54",54,"Golden State Warriors",54,"Sat Feb 11 2017","@","Oklahoma City Thunder","W",NA,130,114,46,8,"W 3",2017-02-11
+"55",55,"Golden State Warriors",55,"Mon Feb 13 2017","@","Denver Nuggets","L",NA,110,132,46,9,"L 1",2017-02-13
+"56",56,"Golden State Warriors",56,"Wed Feb 15 2017","vs","Sacramento Kings","W",NA,109,86,47,9,"W 1",2017-02-15
+"57",57,"Golden State Warriors",57,"Thu Feb 23 2017","vs","Los Angeles Clippers","W",NA,123,113,48,9,"W 2",2017-02-23
+"58",58,"Golden State Warriors",58,"Sat Feb 25 2017","vs","Brooklyn Nets","W",NA,112,95,49,9,"W 3",2017-02-25
+"59",59,"Golden State Warriors",59,"Mon Feb 27 2017","@","Philadelphia 76ers","W",NA,119,108,50,9,"W 4",2017-02-27
+"60",60,"Golden State Warriors",60,"Tue Feb 28 2017","@","Washington Wizards","L",NA,108,112,50,10,"L 1",2017-02-28
+"61",61,"Golden State Warriors",61,"Thu Mar 2 2017","@","Chicago Bulls","L",NA,87,94,50,11,"L 2",2017-03-02
+"62",62,"Golden State Warriors",62,"Sun Mar 5 2017","@","New York Knicks","W",NA,112,105,51,11,"W 1",2017-03-05
+"63",63,"Golden State Warriors",63,"Mon Mar 6 2017","@","Atlanta Hawks","W",NA,119,111,52,11,"W 2",2017-03-06
+"64",64,"Golden State Warriors",64,"Wed Mar 8 2017","vs","Boston Celtics","L",NA,86,99,52,12,"L 1",2017-03-08
+"65",65,"Golden State Warriors",65,"Fri Mar 10 2017","@","Minnesota Timberwolves","L",NA,102,103,52,13,"L 2",2017-03-10
+"66",66,"Golden State Warriors",66,"Sat Mar 11 2017","@","San Antonio Spurs","L",NA,85,107,52,14,"L 3",2017-03-11
+"67",67,"Golden State Warriors",67,"Tue Mar 14 2017","vs","Philadelphia 76ers","W",NA,106,104,53,14,"W 1",2017-03-14
+"68",68,"Golden State Warriors",68,"Thu Mar 16 2017","vs","Orlando Magic","W",NA,122,92,54,14,"W 2",2017-03-16
+"69",69,"Golden State Warriors",69,"Sat Mar 18 2017","vs","Milwaukee Bucks","W",NA,117,92,55,14,"W 3",2017-03-18
+"70",70,"Golden State Warriors",70,"Mon Mar 20 2017","@","Oklahoma City Thunder","W",NA,111,95,56,14,"W 4",2017-03-20
+"71",71,"Golden State Warriors",71,"Tue Mar 21 2017","@","Dallas Mavericks","W",NA,112,87,57,14,"W 5",2017-03-21
+"72",72,"Golden State Warriors",72,"Fri Mar 24 2017","vs","Sacramento Kings","W",NA,114,100,58,14,"W 6",2017-03-24
+"73",73,"Golden State Warriors",73,"Sun Mar 26 2017","vs","Memphis Grizzlies","W",NA,106,94,59,14,"W 7",2017-03-26
+"74",74,"Golden State Warriors",74,"Tue Mar 28 2017","@","Houston Rockets","W",NA,113,106,60,14,"W 8",2017-03-28
+"75",75,"Golden State Warriors",75,"Wed Mar 29 2017","@","San Antonio Spurs","W",NA,110,98,61,14,"W 9",2017-03-29
+"76",76,"Golden State Warriors",76,"Fri Mar 31 2017","vs","Houston Rockets","W",NA,107,98,62,14,"W 10",2017-03-31
+"77",77,"Golden State Warriors",77,"Sun Apr 2 2017","vs","Washington Wizards","W",NA,139,115,63,14,"W 11",2017-04-02
+"78",78,"Golden State Warriors",78,"Tue Apr 4 2017","vs","Minnesota Timberwolves","W",NA,121,107,64,14,"W 12",2017-04-04
+"79",79,"Golden State Warriors",79,"Wed Apr 5 2017","@","Phoenix Suns","W",NA,120,111,65,14,"W 13",2017-04-05
+"80",80,"Golden State Warriors",80,"Sat Apr 8 2017","vs","New Orleans Pelicans","W",NA,123,101,66,14,"W 14",2017-04-08
+"81",81,"Golden State Warriors",81,"Mon Apr 10 2017","vs","Utah Jazz","L",NA,99,105,66,15,"L 1",2017-04-10
+"82",82,"Golden State Warriors",82,"Wed Apr 12 2017","vs","Los Angeles Lakers","W",NA,109,94,67,15,"W 1",2017-04-12
+"83",83,"San Antonio Spurs",1,"Tue Oct 25 2016","@","Golden State Warriors","W",NA,129,100,1,0,"W 1",2016-10-25
+"84",84,"San Antonio Spurs",2,"Thu Oct 27 2016","@","Sacramento Kings","W",NA,102,94,2,0,"W 2",2016-10-27
+"85",85,"San Antonio Spurs",3,"Sat Oct 29 2016","vs","New Orleans Pelicans","W",NA,98,79,3,0,"W 3",2016-10-29
+"86",86,"San Antonio Spurs",4,"Sun Oct 30 2016","@","Miami Heat","W",NA,106,99,4,0,"W 4",2016-10-30
+"87",87,"San Antonio Spurs",5,"Tue Nov 1 2016","vs","Utah Jazz","L",NA,91,106,4,1,"L 1",2016-11-01
+"88",88,"San Antonio Spurs",6,"Fri Nov 4 2016","@","Utah Jazz","W",NA,100,86,5,1,"W 1",2016-11-04
+"89",89,"San Antonio Spurs",7,"Sat Nov 5 2016","vs","Los Angeles Clippers","L",NA,92,116,5,2,"L 1",2016-11-05
+"90",90,"San Antonio Spurs",8,"Wed Nov 9 2016","vs","Houston Rockets","L",NA,99,101,5,3,"L 2",2016-11-09
+"91",91,"San Antonio Spurs",9,"Fri Nov 11 2016","vs","Detroit Pistons","W",NA,96,86,6,3,"W 1",2016-11-11
+"92",92,"San Antonio Spurs",10,"Sat Nov 12 2016","@","Houston Rockets","W",NA,106,100,7,3,"W 2",2016-11-12
+"93",93,"San Antonio Spurs",11,"Mon Nov 14 2016","vs","Miami Heat","W",NA,94,90,8,3,"W 3",2016-11-14
+"94",94,"San Antonio Spurs",12,"Wed Nov 16 2016","@","Sacramento Kings","W",NA,110,105,9,3,"W 4",2016-11-16
+"95",95,"San Antonio Spurs",13,"Fri Nov 18 2016","@","Los Angeles Lakers","W",NA,116,107,10,3,"W 5",2016-11-18
+"96",96,"San Antonio Spurs",14,"Mon Nov 21 2016","vs","Dallas Mavericks","W",NA,96,91,11,3,"W 6",2016-11-21
+"97",97,"San Antonio Spurs",15,"Wed Nov 23 2016","@","Charlotte Hornets","W",NA,119,114,12,3,"W 7",2016-11-23
+"98",98,"San Antonio Spurs",16,"Fri Nov 25 2016","@","Boston Celtics","W",NA,109,103,13,3,"W 8",2016-11-25
+"99",99,"San Antonio Spurs",17,"Sat Nov 26 2016","@","Washington Wizards","W",NA,112,100,14,3,"W 9",2016-11-26
+"100",100,"San Antonio Spurs",18,"Tue Nov 29 2016","vs","Orlando Magic","L",NA,83,95,14,4,"L 1",2016-11-29
+"101",101,"San Antonio Spurs",19,"Wed Nov 30 2016","@","Dallas Mavericks","W",NA,94,87,15,4,"W 1",2016-11-30
+"102",102,"San Antonio Spurs",20,"Fri Dec 2 2016","vs","Washington Wizards","W",NA,107,105,16,4,"W 2",2016-12-02
+"103",103,"San Antonio Spurs",21,"Mon Dec 5 2016","@","Milwaukee Bucks","W",NA,97,96,17,4,"W 3",2016-12-05
+"104",104,"San Antonio Spurs",22,"Tue Dec 6 2016","@","Minnesota Timberwolves","W",NA,105,91,18,4,"W 4",2016-12-06
+"105",105,"San Antonio Spurs",23,"Thu Dec 8 2016","@","Chicago Bulls","L",NA,91,95,18,5,"L 1",2016-12-08
+"106",106,"San Antonio Spurs",24,"Sat Dec 10 2016","vs","Brooklyn Nets","W",NA,130,101,19,5,"W 1",2016-12-10
+"107",107,"San Antonio Spurs",25,"Wed Dec 14 2016","vs","Boston Celtics","W",NA,108,101,20,5,"W 2",2016-12-14
+"108",108,"San Antonio Spurs",26,"Thu Dec 15 2016","@","Phoenix Suns","W",NA,107,92,21,5,"W 3",2016-12-15
+"109",109,"San Antonio Spurs",27,"Sun Dec 18 2016","vs","New Orleans Pelicans","W",NA,113,100,22,5,"W 4",2016-12-18
+"110",110,"San Antonio Spurs",28,"Tue Dec 20 2016","@","Houston Rockets","W",NA,102,100,23,5,"W 5",2016-12-20
+"111",111,"San Antonio Spurs",29,"Thu Dec 22 2016","@","Los Angeles Clippers","L",NA,101,106,23,6,"L 1",2016-12-22
+"112",112,"San Antonio Spurs",30,"Fri Dec 23 2016","@","Portland Trail Blazers","W",NA,110,90,24,6,"W 1",2016-12-23
+"113",113,"San Antonio Spurs",31,"Sun Dec 25 2016","vs","Chicago Bulls","W",NA,119,100,25,6,"W 2",2016-12-25
+"114",114,"San Antonio Spurs",32,"Wed Dec 28 2016","vs","Phoenix Suns","W",NA,119,98,26,6,"W 3",2016-12-28
+"115",115,"San Antonio Spurs",33,"Fri Dec 30 2016","vs","Portland Trail Blazers","W",NA,110,94,27,6,"W 4",2016-12-30
+"116",116,"San Antonio Spurs",34,"Sun Jan 1 2017","@","Atlanta Hawks","L","OT",112,114,27,7,"L 1",2017-01-01
+"117",117,"San Antonio Spurs",35,"Tue Jan 3 2017","vs","Toronto Raptors","W",NA,110,82,28,7,"W 1",2017-01-03
+"118",118,"San Antonio Spurs",36,"Thu Jan 5 2017","@","Denver Nuggets","W",NA,127,99,29,7,"W 2",2017-01-05
+"119",119,"San Antonio Spurs",37,"Sat Jan 7 2017","vs","Charlotte Hornets","W",NA,102,85,30,7,"W 3",2017-01-07
+"120",120,"San Antonio Spurs",38,"Tue Jan 10 2017","vs","Milwaukee Bucks","L",NA,107,109,30,8,"L 1",2017-01-10
+"121",121,"San Antonio Spurs",39,"Thu Jan 12 2017","vs","Los Angeles Lakers","W",NA,134,94,31,8,"W 1",2017-01-12
+"122",122,"San Antonio Spurs",40,"Sat Jan 14 2017","@","Phoenix Suns","L",NA,105,108,31,9,"L 1",2017-01-14
+"123",123,"San Antonio Spurs",41,"Tue Jan 17 2017","vs","Minnesota Timberwolves","W",NA,122,114,32,9,"W 1",2017-01-17
+"124",124,"San Antonio Spurs",42,"Thu Jan 19 2017","vs","Denver Nuggets","W",NA,118,104,33,9,"W 2",2017-01-19
+"125",125,"San Antonio Spurs",43,"Sat Jan 21 2017","@","Cleveland Cavaliers","W","OT",118,115,34,9,"W 3",2017-01-21
+"126",126,"San Antonio Spurs",44,"Mon Jan 23 2017","@","Brooklyn Nets","W",NA,112,86,35,9,"W 4",2017-01-23
+"127",127,"San Antonio Spurs",45,"Tue Jan 24 2017","@","Toronto Raptors","W",NA,108,106,36,9,"W 5",2017-01-24
+"128",128,"San Antonio Spurs",46,"Fri Jan 27 2017","@","New Orleans Pelicans","L",NA,103,119,36,10,"L 1",2017-01-27
+"129",129,"San Antonio Spurs",47,"Sun Jan 29 2017","vs","Dallas Mavericks","L",NA,101,105,36,11,"L 2",2017-01-29
+"130",130,"San Antonio Spurs",48,"Tue Jan 31 2017","vs","Oklahoma City Thunder","W",NA,108,94,37,11,"W 1",2017-01-31
+"131",131,"San Antonio Spurs",49,"Thu Feb 2 2017","vs","Philadelphia 76ers","W",NA,102,86,38,11,"W 2",2017-02-02
+"132",132,"San Antonio Spurs",50,"Sat Feb 4 2017","vs","Denver Nuggets","W",NA,121,97,39,11,"W 3",2017-02-04
+"133",133,"San Antonio Spurs",51,"Mon Feb 6 2017","@","Memphis Grizzlies","L",NA,74,89,39,12,"L 1",2017-02-06
+"134",134,"San Antonio Spurs",52,"Wed Feb 8 2017","@","Philadelphia 76ers","W",NA,111,103,40,12,"W 1",2017-02-08
+"135",135,"San Antonio Spurs",53,"Fri Feb 10 2017","@","Detroit Pistons","W",NA,103,92,41,12,"W 2",2017-02-10
+"136",136,"San Antonio Spurs",54,"Sun Feb 12 2017","@","New York Knicks","L",NA,90,94,41,13,"L 1",2017-02-12
+"137",137,"San Antonio Spurs",55,"Mon Feb 13 2017","@","Indiana Pacers","W",NA,110,106,42,13,"W 1",2017-02-13
+"138",138,"San Antonio Spurs",56,"Wed Feb 15 2017","@","Orlando Magic","W",NA,107,79,43,13,"W 2",2017-02-15
+"139",139,"San Antonio Spurs",57,"Fri Feb 24 2017","@","Los Angeles Clippers","W",NA,105,97,44,13,"W 3",2017-02-24
+"140",140,"San Antonio Spurs",58,"Sun Feb 26 2017","@","Los Angeles Lakers","W",NA,119,98,45,13,"W 4",2017-02-26
+"141",141,"San Antonio Spurs",59,"Wed Mar 1 2017","vs","Indiana Pacers","W",NA,100,99,46,13,"W 5",2017-03-01
+"142",142,"San Antonio Spurs",60,"Fri Mar 3 2017","@","New Orleans Pelicans","W","OT",101,98,47,13,"W 6",2017-03-03
+"143",143,"San Antonio Spurs",61,"Sat Mar 4 2017","vs","Minnesota Timberwolves","W","OT",97,90,48,13,"W 7",2017-03-04
+"144",144,"San Antonio Spurs",62,"Mon Mar 6 2017","vs","Houston Rockets","W",NA,112,110,49,13,"W 8",2017-03-06
+"145",145,"San Antonio Spurs",63,"Wed Mar 8 2017","vs","Sacramento Kings","W",NA,114,104,50,13,"W 9",2017-03-08
+"146",146,"San Antonio Spurs",64,"Thu Mar 9 2017","@","Oklahoma City Thunder","L",NA,92,102,50,14,"L 1",2017-03-09
+"147",147,"San Antonio Spurs",65,"Sat Mar 11 2017","vs","Golden State Warriors","W",NA,107,85,51,14,"W 1",2017-03-11
+"148",148,"San Antonio Spurs",66,"Mon Mar 13 2017","vs","Atlanta Hawks","W",NA,107,99,52,14,"W 2",2017-03-13
+"149",149,"San Antonio Spurs",67,"Wed Mar 15 2017","vs","Portland Trail Blazers","L",NA,106,110,52,15,"L 1",2017-03-15
+"150",150,"San Antonio Spurs",68,"Sat Mar 18 2017","@","Memphis Grizzlies","L",NA,96,104,52,16,"L 2",2017-03-18
+"151",151,"San Antonio Spurs",69,"Sun Mar 19 2017","vs","Sacramento Kings","W",NA,118,102,53,16,"W 1",2017-03-19
+"152",152,"San Antonio Spurs",70,"Tue Mar 21 2017","@","Minnesota Timberwolves","W",NA,100,93,54,16,"W 2",2017-03-21
+"153",153,"San Antonio Spurs",71,"Thu Mar 23 2017","vs","Memphis Grizzlies","W",NA,97,90,55,16,"W 3",2017-03-23
+"154",154,"San Antonio Spurs",72,"Sat Mar 25 2017","vs","New York Knicks","W",NA,106,98,56,16,"W 4",2017-03-25
+"155",155,"San Antonio Spurs",73,"Mon Mar 27 2017","vs","Cleveland Cavaliers","W",NA,103,74,57,16,"W 5",2017-03-27
+"156",156,"San Antonio Spurs",74,"Wed Mar 29 2017","vs","Golden State Warriors","L",NA,98,110,57,17,"L 1",2017-03-29
+"157",157,"San Antonio Spurs",75,"Fri Mar 31 2017","@","Oklahoma City Thunder","W",NA,100,95,58,17,"W 1",2017-03-31
+"158",158,"San Antonio Spurs",76,"Sun Apr 2 2017","vs","Utah Jazz","W",NA,109,103,59,17,"W 2",2017-04-02
+"159",159,"San Antonio Spurs",77,"Tue Apr 4 2017","vs","Memphis Grizzlies","W","OT",95,89,60,17,"W 3",2017-04-04
+"160",160,"San Antonio Spurs",78,"Wed Apr 5 2017","vs","Los Angeles Lakers","L",NA,95,102,60,18,"L 1",2017-04-05
+"161",161,"San Antonio Spurs",79,"Fri Apr 7 2017","@","Dallas Mavericks","W",NA,102,89,61,18,"W 1",2017-04-07
+"162",162,"San Antonio Spurs",80,"Sat Apr 8 2017","vs","Los Angeles Clippers","L",NA,87,98,61,19,"L 1",2017-04-08
+"163",163,"San Antonio Spurs",81,"Mon Apr 10 2017","@","Portland Trail Blazers","L",NA,98,99,61,20,"L 2",2017-04-10
+"164",164,"San Antonio Spurs",82,"Wed Apr 12 2017","@","Utah Jazz","L",NA,97,101,61,21,"L 3",2017-04-12
+"165",165,"Houston Rockets",1,"Wed Oct 26 2016","@","Los Angeles Lakers","L",NA,114,120,0,1,"L 1",2016-10-26
+"166",166,"Houston Rockets",2,"Fri Oct 28 2016","@","Dallas Mavericks","W",NA,106,98,1,1,"W 1",2016-10-28
+"167",167,"Houston Rockets",3,"Sun Oct 30 2016","vs","Dallas Mavericks","W",NA,93,92,2,1,"W 2",2016-10-30
+"168",168,"Houston Rockets",4,"Tue Nov 1 2016","@","Cleveland Cavaliers","L",NA,120,128,2,2,"L 1",2016-11-01
+"169",169,"Houston Rockets",5,"Wed Nov 2 2016","@","New York Knicks","W",NA,118,99,3,2,"W 1",2016-11-02
+"170",170,"Houston Rockets",6,"Sat Nov 5 2016","@","Atlanta Hawks","L",NA,97,112,3,3,"L 1",2016-11-05
+"171",171,"Houston Rockets",7,"Mon Nov 7 2016","@","Washington Wizards","W",NA,114,106,4,3,"W 1",2016-11-07
+"172",172,"Houston Rockets",8,"Wed Nov 9 2016","@","San Antonio Spurs","W",NA,101,99,5,3,"W 2",2016-11-09
+"173",173,"Houston Rockets",9,"Sat Nov 12 2016","vs","San Antonio Spurs","L",NA,100,106,5,4,"L 1",2016-11-12
+"174",174,"Houston Rockets",10,"Mon Nov 14 2016","vs","Philadelphia 76ers","W",NA,115,88,6,4,"W 1",2016-11-14
+"175",175,"Houston Rockets",11,"Wed Nov 16 2016","@","Oklahoma City Thunder","L",NA,103,105,6,5,"L 1",2016-11-16
+"176",176,"Houston Rockets",12,"Thu Nov 17 2016","vs","Portland Trail Blazers","W",NA,126,109,7,5,"W 1",2016-11-17
+"177",177,"Houston Rockets",13,"Sat Nov 19 2016","vs","Utah Jazz","W",NA,111,102,8,5,"W 2",2016-11-19
+"178",178,"Houston Rockets",14,"Mon Nov 21 2016","@","Detroit Pistons","W",NA,99,96,9,5,"W 3",2016-11-21
+"179",179,"Houston Rockets",15,"Wed Nov 23 2016","vs","Toronto Raptors","L",NA,102,115,9,6,"L 1",2016-11-23
+"180",180,"Houston Rockets",16,"Fri Nov 25 2016","@","Sacramento Kings","W",NA,117,104,10,6,"W 1",2016-11-25
+"181",181,"Houston Rockets",17,"Sun Nov 27 2016","@","Portland Trail Blazers","W",NA,130,114,11,6,"W 2",2016-11-27
+"182",182,"Houston Rockets",18,"Tue Nov 29 2016","@","Utah Jazz","L",NA,101,120,11,7,"L 1",2016-11-29
+"183",183,"Houston Rockets",19,"Thu Dec 1 2016","@","Golden State Warriors","W","2OT",132,127,12,7,"W 1",2016-12-01
+"184",184,"Houston Rockets",20,"Fri Dec 2 2016","@","Denver Nuggets","W",NA,128,110,13,7,"W 2",2016-12-02
+"185",185,"Houston Rockets",21,"Mon Dec 5 2016","vs","Boston Celtics","W",NA,107,106,14,7,"W 3",2016-12-05
+"186",186,"Houston Rockets",22,"Wed Dec 7 2016","vs","Los Angeles Lakers","W",NA,134,95,15,7,"W 4",2016-12-07
+"187",187,"Houston Rockets",23,"Fri Dec 9 2016","@","Oklahoma City Thunder","W",NA,102,99,16,7,"W 5",2016-12-09
+"188",188,"Houston Rockets",24,"Sat Dec 10 2016","vs","Dallas Mavericks","W",NA,109,87,17,7,"W 6",2016-12-10
+"189",189,"Houston Rockets",25,"Mon Dec 12 2016","vs","Brooklyn Nets","W",NA,122,118,18,7,"W 7",2016-12-12
+"190",190,"Houston Rockets",26,"Wed Dec 14 2016","vs","Sacramento Kings","W",NA,132,98,19,7,"W 8",2016-12-14
+"191",191,"Houston Rockets",27,"Fri Dec 16 2016","vs","New Orleans Pelicans","W",NA,122,100,20,7,"W 9",2016-12-16
+"192",192,"Houston Rockets",28,"Sat Dec 17 2016","@","Minnesota Timberwolves","W","OT",111,109,21,7,"W 10",2016-12-17
+"193",193,"Houston Rockets",29,"Tue Dec 20 2016","vs","San Antonio Spurs","L",NA,100,102,21,8,"L 1",2016-12-20
+"194",194,"Houston Rockets",30,"Wed Dec 21 2016","@","Phoenix Suns","W",NA,125,111,22,8,"W 1",2016-12-21
+"195",195,"Houston Rockets",31,"Fri Dec 23 2016","@","Memphis Grizzlies","L",NA,109,115,22,9,"L 1",2016-12-23
+"196",196,"Houston Rockets",32,"Mon Dec 26 2016","vs","Phoenix Suns","W",NA,131,115,23,9,"W 1",2016-12-26
+"197",197,"Houston Rockets",33,"Tue Dec 27 2016","@","Dallas Mavericks","W",NA,123,107,24,9,"W 2",2016-12-27
+"198",198,"Houston Rockets",34,"Fri Dec 30 2016","vs","Los Angeles Clippers","W",NA,140,116,25,9,"W 3",2016-12-30
+"199",199,"Houston Rockets",35,"Sat Dec 31 2016","vs","New York Knicks","W",NA,129,122,26,9,"W 4",2016-12-31
+"200",200,"Houston Rockets",36,"Mon Jan 2 2017","vs","Washington Wizards","W",NA,101,91,27,9,"W 5",2017-01-02
+"201",201,"Houston Rockets",37,"Thu Jan 5 2017","vs","Oklahoma City Thunder","W",NA,118,116,28,9,"W 6",2017-01-05
+"202",202,"Houston Rockets",38,"Fri Jan 6 2017","@","Orlando Magic","W",NA,100,93,29,9,"W 7",2017-01-06
+"203",203,"Houston Rockets",39,"Sun Jan 8 2017","@","Toronto Raptors","W",NA,129,122,30,9,"W 8",2017-01-08
+"204",204,"Houston Rockets",40,"Tue Jan 10 2017","vs","Charlotte Hornets","W",NA,121,114,31,9,"W 9",2017-01-10
+"205",205,"Houston Rockets",41,"Wed Jan 11 2017","@","Minnesota Timberwolves","L",NA,105,119,31,10,"L 1",2017-01-11
+"206",206,"Houston Rockets",42,"Fri Jan 13 2017","vs","Memphis Grizzlies","L",NA,105,110,31,11,"L 2",2017-01-13
+"207",207,"Houston Rockets",43,"Sun Jan 15 2017","@","Brooklyn Nets","W",NA,137,112,32,11,"W 1",2017-01-15
+"208",208,"Houston Rockets",44,"Tue Jan 17 2017","@","Miami Heat","L",NA,103,109,32,12,"L 1",2017-01-17
+"209",209,"Houston Rockets",45,"Wed Jan 18 2017","vs","Milwaukee Bucks","W",NA,111,92,33,12,"W 1",2017-01-18
+"210",210,"Houston Rockets",46,"Fri Jan 20 2017","vs","Golden State Warriors","L",NA,108,125,33,13,"L 1",2017-01-20
+"211",211,"Houston Rockets",47,"Sat Jan 21 2017","@","Memphis Grizzlies","W",NA,119,95,34,13,"W 1",2017-01-21
+"212",212,"Houston Rockets",48,"Mon Jan 23 2017","@","Milwaukee Bucks","L",NA,114,127,34,14,"L 1",2017-01-23
+"213",213,"Houston Rockets",49,"Wed Jan 25 2017","@","Boston Celtics","L",NA,109,120,34,15,"L 2",2017-01-25
+"214",214,"Houston Rockets",50,"Fri Jan 27 2017","@","Philadelphia 76ers","W",NA,123,118,35,15,"W 1",2017-01-27
+"215",215,"Houston Rockets",51,"Sun Jan 29 2017","@","Indiana Pacers","L",NA,101,120,35,16,"L 1",2017-01-29
+"216",216,"Houston Rockets",52,"Tue Jan 31 2017","vs","Sacramento Kings","W",NA,105,83,36,16,"W 1",2017-01-31
+"217",217,"Houston Rockets",53,"Thu Feb 2 2017","vs","Atlanta Hawks","L",NA,108,113,36,17,"L 1",2017-02-02
+"218",218,"Houston Rockets",54,"Fri Feb 3 2017","vs","Chicago Bulls","W","OT",121,117,37,17,"W 1",2017-02-03
+"219",219,"Houston Rockets",55,"Tue Feb 7 2017","vs","Orlando Magic","W",NA,128,104,38,17,"W 2",2017-02-07
+"220",220,"Houston Rockets",56,"Thu Feb 9 2017","@","Charlotte Hornets","W",NA,107,95,39,17,"W 3",2017-02-09
+"221",221,"Houston Rockets",57,"Sat Feb 11 2017","vs","Phoenix Suns","W",NA,133,102,40,17,"W 4",2017-02-11
+"222",222,"Houston Rockets",58,"Wed Feb 15 2017","vs","Miami Heat","L",NA,109,117,40,18,"L 1",2017-02-15
+"223",223,"Houston Rockets",59,"Thu Feb 23 2017","@","New Orleans Pelicans","W",NA,129,99,41,18,"W 1",2017-02-23
+"224",224,"Houston Rockets",60,"Sat Feb 25 2017","vs","Minnesota Timberwolves","W",NA,142,130,42,18,"W 2",2017-02-25
+"225",225,"Houston Rockets",61,"Mon Feb 27 2017","vs","Indiana Pacers","L",NA,108,117,42,19,"L 1",2017-02-27
+"226",226,"Houston Rockets",62,"Wed Mar 1 2017","@","Los Angeles Clippers","W",NA,122,103,43,19,"W 1",2017-03-01
+"227",227,"Houston Rockets",63,"Sat Mar 4 2017","vs","Memphis Grizzlies","W",NA,123,108,44,19,"W 2",2017-03-04
+"228",228,"Houston Rockets",64,"Mon Mar 6 2017","@","San Antonio Spurs","L",NA,110,112,44,20,"L 1",2017-03-06
+"229",229,"Houston Rockets",65,"Wed Mar 8 2017","vs","Utah Jazz","L",NA,108,115,44,21,"L 2",2017-03-08
+"230",230,"Houston Rockets",66,"Fri Mar 10 2017","@","Chicago Bulls","W",NA,115,94,45,21,"W 1",2017-03-10
+"231",231,"Houston Rockets",67,"Sun Mar 12 2017","vs","Cleveland Cavaliers","W",NA,117,112,46,21,"W 2",2017-03-12
+"232",232,"Houston Rockets",68,"Wed Mar 15 2017","vs","Los Angeles Lakers","W",NA,139,100,47,21,"W 3",2017-03-15
+"233",233,"Houston Rockets",69,"Fri Mar 17 2017","@","New Orleans Pelicans","L",NA,112,128,47,22,"L 1",2017-03-17
+"234",234,"Houston Rockets",70,"Sat Mar 18 2017","@","Denver Nuggets","W",NA,109,105,48,22,"W 1",2017-03-18
+"235",235,"Houston Rockets",71,"Mon Mar 20 2017","vs","Denver Nuggets","W",NA,125,124,49,22,"W 2",2017-03-20
+"236",236,"Houston Rockets",72,"Fri Mar 24 2017","vs","New Orleans Pelicans","W",NA,117,107,50,22,"W 3",2017-03-24
+"237",237,"Houston Rockets",73,"Sun Mar 26 2017","vs","Oklahoma City Thunder","W",NA,137,125,51,22,"W 4",2017-03-26
+"238",238,"Houston Rockets",74,"Tue Mar 28 2017","vs","Golden State Warriors","L",NA,106,113,51,23,"L 1",2017-03-28
+"239",239,"Houston Rockets",75,"Thu Mar 30 2017","@","Portland Trail Blazers","L",NA,107,117,51,24,"L 2",2017-03-30
+"240",240,"Houston Rockets",76,"Fri Mar 31 2017","@","Golden State Warriors","L",NA,98,107,51,25,"L 3",2017-03-31
+"241",241,"Houston Rockets",77,"Sun Apr 2 2017","@","Phoenix Suns","W",NA,123,116,52,25,"W 1",2017-04-02
+"242",242,"Houston Rockets",78,"Wed Apr 5 2017","vs","Denver Nuggets","W",NA,110,104,53,25,"W 2",2017-04-05
+"243",243,"Houston Rockets",79,"Fri Apr 7 2017","vs","Detroit Pistons","L",NA,109,114,53,26,"L 1",2017-04-07
+"244",244,"Houston Rockets",80,"Sun Apr 9 2017","@","Sacramento Kings","W",NA,135,128,54,26,"W 1",2017-04-09
+"245",245,"Houston Rockets",81,"Mon Apr 10 2017","@","Los Angeles Clippers","L",NA,96,125,54,27,"L 1",2017-04-10
+"246",246,"Houston Rockets",82,"Wed Apr 12 2017","vs","Minnesota Timberwolves","W",NA,123,118,55,27,"W 1",2017-04-12
+"247",247,"Utah Jazz",1,"Tue Oct 25 2016","@","Portland Trail Blazers","L",NA,104,113,0,1,"L 1",2016-10-25
+"248",248,"Utah Jazz",2,"Fri Oct 28 2016","vs","Los Angeles Lakers","W",NA,96,89,1,1,"W 1",2016-10-28
+"249",249,"Utah Jazz",3,"Sun Oct 30 2016","@","Los Angeles Clippers","L",NA,75,88,1,2,"L 1",2016-10-30
+"250",250,"Utah Jazz",4,"Tue Nov 1 2016","@","San Antonio Spurs","W",NA,106,91,2,2,"W 1",2016-11-01
+"251",251,"Utah Jazz",5,"Wed Nov 2 2016","vs","Dallas Mavericks","W",NA,97,81,3,2,"W 2",2016-11-02
+"252",252,"Utah Jazz",6,"Fri Nov 4 2016","vs","San Antonio Spurs","L",NA,86,100,3,3,"L 1",2016-11-04
+"253",253,"Utah Jazz",7,"Sun Nov 6 2016","@","New York Knicks","W",NA,114,109,4,3,"W 1",2016-11-06
+"254",254,"Utah Jazz",8,"Mon Nov 7 2016","@","Philadelphia 76ers","W",NA,109,84,5,3,"W 2",2016-11-07
+"255",255,"Utah Jazz",9,"Wed Nov 9 2016","@","Charlotte Hornets","L",NA,98,104,5,4,"L 1",2016-11-09
+"256",256,"Utah Jazz",10,"Fri Nov 11 2016","@","Orlando Magic","W",NA,87,74,6,4,"W 1",2016-11-11
+"257",257,"Utah Jazz",11,"Sat Nov 12 2016","@","Miami Heat","W",NA,102,91,7,4,"W 2",2016-11-12
+"258",258,"Utah Jazz",12,"Mon Nov 14 2016","vs","Memphis Grizzlies","L",NA,96,102,7,5,"L 1",2016-11-14
+"259",259,"Utah Jazz",13,"Thu Nov 17 2016","vs","Chicago Bulls","L",NA,77,85,7,6,"L 2",2016-11-17
+"260",260,"Utah Jazz",14,"Sat Nov 19 2016","@","Houston Rockets","L",NA,102,111,7,7,"L 3",2016-11-19
+"261",261,"Utah Jazz",15,"Sun Nov 20 2016","@","Denver Nuggets","L",NA,91,105,7,8,"L 4",2016-11-20
+"262",262,"Utah Jazz",16,"Wed Nov 23 2016","vs","Denver Nuggets","W",NA,108,83,8,8,"W 1",2016-11-23
+"263",263,"Utah Jazz",17,"Fri Nov 25 2016","vs","Atlanta Hawks","W",NA,95,68,9,8,"W 2",2016-11-25
+"264",264,"Utah Jazz",18,"Mon Nov 28 2016","@","Minnesota Timberwolves","W",NA,112,103,10,8,"W 3",2016-11-28
+"265",265,"Utah Jazz",19,"Tue Nov 29 2016","vs","Houston Rockets","W",NA,120,101,11,8,"W 4",2016-11-29
+"266",266,"Utah Jazz",20,"Thu Dec 1 2016","vs","Miami Heat","L",NA,110,111,11,9,"L 1",2016-12-01
+"267",267,"Utah Jazz",21,"Sat Dec 3 2016","vs","Denver Nuggets","W",NA,105,98,12,9,"W 1",2016-12-03
+"268",268,"Utah Jazz",22,"Mon Dec 5 2016","@","Los Angeles Lakers","W",NA,107,101,13,9,"W 2",2016-12-05
+"269",269,"Utah Jazz",23,"Tue Dec 6 2016","vs","Phoenix Suns","W",NA,112,105,14,9,"W 3",2016-12-06
+"270",270,"Utah Jazz",24,"Thu Dec 8 2016","vs","Golden State Warriors","L",NA,99,106,14,10,"L 1",2016-12-08
+"271",271,"Utah Jazz",25,"Sat Dec 10 2016","vs","Sacramento Kings","W",NA,104,84,15,10,"W 1",2016-12-10
+"272",272,"Utah Jazz",26,"Wed Dec 14 2016","vs","Oklahoma City Thunder","W",NA,109,89,16,10,"W 2",2016-12-14
+"273",273,"Utah Jazz",27,"Fri Dec 16 2016","vs","Dallas Mavericks","W",NA,103,100,17,10,"W 3",2016-12-16
+"274",274,"Utah Jazz",28,"Sun Dec 18 2016","@","Memphis Grizzlies","W",NA,82,73,18,10,"W 4",2016-12-18
+"275",275,"Utah Jazz",29,"Tue Dec 20 2016","@","Golden State Warriors","L",NA,74,104,18,11,"L 1",2016-12-20
+"276",276,"Utah Jazz",30,"Wed Dec 21 2016","vs","Sacramento Kings","L",NA,93,94,18,12,"L 2",2016-12-21
+"277",277,"Utah Jazz",31,"Fri Dec 23 2016","vs","Toronto Raptors","L",NA,98,104,18,13,"L 3",2016-12-23
+"278",278,"Utah Jazz",32,"Tue Dec 27 2016","@","Los Angeles Lakers","W",NA,102,100,19,13,"W 1",2016-12-27
+"279",279,"Utah Jazz",33,"Thu Dec 29 2016","vs","Philadelphia 76ers","W",NA,100,83,20,13,"W 2",2016-12-29
+"280",280,"Utah Jazz",34,"Sat Dec 31 2016","vs","Phoenix Suns","W",NA,91,86,21,13,"W 3",2016-12-31
+"281",281,"Utah Jazz",35,"Mon Jan 2 2017","@","Brooklyn Nets","W",NA,101,89,22,13,"W 4",2017-01-02
+"282",282,"Utah Jazz",36,"Tue Jan 3 2017","@","Boston Celtics","L",NA,104,115,22,14,"L 1",2017-01-03
+"283",283,"Utah Jazz",37,"Thu Jan 5 2017","@","Toronto Raptors","L",NA,93,101,22,15,"L 2",2017-01-05
+"284",284,"Utah Jazz",38,"Sat Jan 7 2017","@","Minnesota Timberwolves","W",NA,94,92,23,15,"W 1",2017-01-07
+"285",285,"Utah Jazz",39,"Sun Jan 8 2017","@","Memphis Grizzlies","L",NA,79,88,23,16,"L 1",2017-01-08
+"286",286,"Utah Jazz",40,"Tue Jan 10 2017","vs","Cleveland Cavaliers","W",NA,100,92,24,16,"W 1",2017-01-10
+"287",287,"Utah Jazz",41,"Fri Jan 13 2017","vs","Detroit Pistons","W",NA,110,77,25,16,"W 2",2017-01-13
+"288",288,"Utah Jazz",42,"Sat Jan 14 2017","vs","Orlando Magic","W",NA,114,107,26,16,"W 3",2017-01-14
+"289",289,"Utah Jazz",43,"Mon Jan 16 2017","@","Phoenix Suns","W",NA,106,101,27,16,"W 4",2017-01-16
+"290",290,"Utah Jazz",44,"Fri Jan 20 2017","@","Dallas Mavericks","W","OT",112,107,28,16,"W 5",2017-01-20
+"291",291,"Utah Jazz",45,"Sat Jan 21 2017","vs","Indiana Pacers","W",NA,109,100,29,16,"W 6",2017-01-21
+"292",292,"Utah Jazz",46,"Mon Jan 23 2017","vs","Oklahoma City Thunder","L",NA,95,97,29,17,"L 1",2017-01-23
+"293",293,"Utah Jazz",47,"Tue Jan 24 2017","@","Denver Nuggets","L",NA,93,103,29,18,"L 2",2017-01-24
+"294",294,"Utah Jazz",48,"Thu Jan 26 2017","vs","Los Angeles Lakers","W",NA,96,88,30,18,"W 1",2017-01-26
+"295",295,"Utah Jazz",49,"Sat Jan 28 2017","vs","Memphis Grizzlies","L",NA,95,102,30,19,"L 1",2017-01-28
+"296",296,"Utah Jazz",50,"Wed Feb 1 2017","vs","Milwaukee Bucks","W",NA,104,88,31,19,"W 1",2017-02-01
+"297",297,"Utah Jazz",51,"Sat Feb 4 2017","vs","Charlotte Hornets","W",NA,105,98,32,19,"W 2",2017-02-04
+"298",298,"Utah Jazz",52,"Mon Feb 6 2017","@","Atlanta Hawks","W",NA,120,95,33,19,"W 3",2017-02-06
+"299",299,"Utah Jazz",53,"Wed Feb 8 2017","@","New Orleans Pelicans","W",NA,127,94,34,19,"W 4",2017-02-08
+"300",300,"Utah Jazz",54,"Thu Feb 9 2017","@","Dallas Mavericks","L","OT",105,112,34,20,"L 1",2017-02-09
+"301",301,"Utah Jazz",55,"Sat Feb 11 2017","vs","Boston Celtics","L",NA,104,112,34,21,"L 2",2017-02-11
+"302",302,"Utah Jazz",56,"Mon Feb 13 2017","vs","Los Angeles Clippers","L",NA,72,88,34,22,"L 3",2017-02-13
+"303",303,"Utah Jazz",57,"Wed Feb 15 2017","vs","Portland Trail Blazers","W",NA,111,88,35,22,"W 1",2017-02-15
+"304",304,"Utah Jazz",58,"Fri Feb 24 2017","@","Milwaukee Bucks","W",NA,109,95,36,22,"W 2",2017-02-24
+"305",305,"Utah Jazz",59,"Sun Feb 26 2017","@","Washington Wizards","W",NA,102,92,37,22,"W 3",2017-02-26
+"306",306,"Utah Jazz",60,"Tue Feb 28 2017","@","Oklahoma City Thunder","L",NA,106,109,37,23,"L 1",2017-02-28
+"307",307,"Utah Jazz",61,"Wed Mar 1 2017","vs","Minnesota Timberwolves","L",NA,80,107,37,24,"L 2",2017-03-01
+"308",308,"Utah Jazz",62,"Fri Mar 3 2017","vs","Brooklyn Nets","W",NA,112,97,38,24,"W 1",2017-03-03
+"309",309,"Utah Jazz",63,"Sun Mar 5 2017","@","Sacramento Kings","W","OT",110,109,39,24,"W 2",2017-03-05
+"310",310,"Utah Jazz",64,"Mon Mar 6 2017","vs","New Orleans Pelicans","W",NA,88,83,40,24,"W 3",2017-03-06
+"311",311,"Utah Jazz",65,"Wed Mar 8 2017","@","Houston Rockets","W",NA,115,108,41,24,"W 4",2017-03-08
+"312",312,"Utah Jazz",66,"Sat Mar 11 2017","@","Oklahoma City Thunder","L",NA,104,112,41,25,"L 1",2017-03-11
+"313",313,"Utah Jazz",67,"Mon Mar 13 2017","vs","Los Angeles Clippers","W",NA,114,108,42,25,"W 1",2017-03-13
+"314",314,"Utah Jazz",68,"Wed Mar 15 2017","@","Detroit Pistons","W",NA,97,83,43,25,"W 2",2017-03-15
+"315",315,"Utah Jazz",69,"Thu Mar 16 2017","@","Cleveland Cavaliers","L",NA,83,91,43,26,"L 1",2017-03-16
+"316",316,"Utah Jazz",70,"Sat Mar 18 2017","@","Chicago Bulls","L",NA,86,95,43,27,"L 2",2017-03-18
+"317",317,"Utah Jazz",71,"Mon Mar 20 2017","@","Indiana Pacers","L",NA,100,107,43,28,"L 3",2017-03-20
+"318",318,"Utah Jazz",72,"Wed Mar 22 2017","vs","New York Knicks","W",NA,108,101,44,28,"W 1",2017-03-22
+"319",319,"Utah Jazz",73,"Sat Mar 25 2017","@","Los Angeles Clippers","L",NA,95,108,44,29,"L 1",2017-03-25
+"320",320,"Utah Jazz",74,"Mon Mar 27 2017","vs","New Orleans Pelicans","W",NA,108,100,45,29,"W 1",2017-03-27
+"321",321,"Utah Jazz",75,"Wed Mar 29 2017","@","Sacramento Kings","W",NA,112,82,46,29,"W 2",2017-03-29
+"322",322,"Utah Jazz",76,"Fri Mar 31 2017","vs","Washington Wizards","W",NA,95,88,47,29,"W 3",2017-03-31
+"323",323,"Utah Jazz",77,"Sun Apr 2 2017","@","San Antonio Spurs","L",NA,103,109,47,30,"L 1",2017-04-02
+"324",324,"Utah Jazz",78,"Tue Apr 4 2017","vs","Portland Trail Blazers","W",NA,106,87,48,30,"W 1",2017-04-04
+"325",325,"Utah Jazz",79,"Fri Apr 7 2017","vs","Minnesota Timberwolves","W",NA,120,113,49,30,"W 2",2017-04-07
+"326",326,"Utah Jazz",80,"Sat Apr 8 2017","@","Portland Trail Blazers","L",NA,86,101,49,31,"L 1",2017-04-08
+"327",327,"Utah Jazz",81,"Mon Apr 10 2017","@","Golden State Warriors","W",NA,105,99,50,31,"W 1",2017-04-10
+"328",328,"Utah Jazz",82,"Wed Apr 12 2017","vs","San Antonio Spurs","W",NA,101,97,51,31,"W 2",2017-04-12
+"329",329,"Los Angeles Clippers",1,"Thu Oct 27 2016","@","Portland Trail Blazers","W",NA,114,106,1,0,"W 1",2016-10-27
+"330",330,"Los Angeles Clippers",2,"Sun Oct 30 2016","vs","Utah Jazz","W",NA,88,75,2,0,"W 2",2016-10-30
+"331",331,"Los Angeles Clippers",3,"Mon Oct 31 2016","vs","Phoenix Suns","W",NA,116,98,3,0,"W 3",2016-10-31
+"332",332,"Los Angeles Clippers",4,"Wed Nov 2 2016","vs","Oklahoma City Thunder","L",NA,83,85,3,1,"L 1",2016-11-02
+"333",333,"Los Angeles Clippers",5,"Fri Nov 4 2016","@","Memphis Grizzlies","W",NA,99,88,4,1,"W 1",2016-11-04
+"334",334,"Los Angeles Clippers",6,"Sat Nov 5 2016","@","San Antonio Spurs","W",NA,116,92,5,1,"W 2",2016-11-05
+"335",335,"Los Angeles Clippers",7,"Mon Nov 7 2016","vs","Detroit Pistons","W",NA,114,82,6,1,"W 3",2016-11-07
+"336",336,"Los Angeles Clippers",8,"Wed Nov 9 2016","vs","Portland Trail Blazers","W",NA,111,80,7,1,"W 4",2016-11-09
+"337",337,"Los Angeles Clippers",9,"Fri Nov 11 2016","@","Oklahoma City Thunder","W",NA,110,108,8,1,"W 5",2016-11-11
+"338",338,"Los Angeles Clippers",10,"Sat Nov 12 2016","@","Minnesota Timberwolves","W",NA,119,105,9,1,"W 6",2016-11-12
+"339",339,"Los Angeles Clippers",11,"Mon Nov 14 2016","vs","Brooklyn Nets","W",NA,127,95,10,1,"W 7",2016-11-14
+"340",340,"Los Angeles Clippers",12,"Wed Nov 16 2016","vs","Memphis Grizzlies","L",NA,107,111,10,2,"L 1",2016-11-16
+"341",341,"Los Angeles Clippers",13,"Fri Nov 18 2016","@","Sacramento Kings","W",NA,121,115,11,2,"W 1",2016-11-18
+"342",342,"Los Angeles Clippers",14,"Sat Nov 19 2016","vs","Chicago Bulls","W",NA,102,95,12,2,"W 2",2016-11-19
+"343",343,"Los Angeles Clippers",15,"Mon Nov 21 2016","vs","Toronto Raptors","W",NA,123,115,13,2,"W 3",2016-11-21
+"344",344,"Los Angeles Clippers",16,"Wed Nov 23 2016","@","Dallas Mavericks","W",NA,124,104,14,2,"W 4",2016-11-23
+"345",345,"Los Angeles Clippers",17,"Fri Nov 25 2016","@","Detroit Pistons","L",NA,97,108,14,3,"L 1",2016-11-25
+"346",346,"Los Angeles Clippers",18,"Sun Nov 27 2016","@","Indiana Pacers","L",NA,70,91,14,4,"L 2",2016-11-27
+"347",347,"Los Angeles Clippers",19,"Tue Nov 29 2016","@","Brooklyn Nets","L","2OT",122,127,14,5,"L 3",2016-11-29
+"348",348,"Los Angeles Clippers",20,"Thu Dec 1 2016","@","Cleveland Cavaliers","W",NA,113,94,15,5,"W 1",2016-12-01
+"349",349,"Los Angeles Clippers",21,"Fri Dec 2 2016","@","New Orleans Pelicans","W",NA,114,96,16,5,"W 2",2016-12-02
+"350",350,"Los Angeles Clippers",22,"Sun Dec 4 2016","vs","Indiana Pacers","L",NA,102,111,16,6,"L 1",2016-12-04
+"351",351,"Los Angeles Clippers",23,"Wed Dec 7 2016","vs","Golden State Warriors","L",NA,98,115,16,7,"L 2",2016-12-07
+"352",352,"Los Angeles Clippers",24,"Sat Dec 10 2016","vs","New Orleans Pelicans","W",NA,133,105,17,7,"W 1",2016-12-10
+"353",353,"Los Angeles Clippers",25,"Mon Dec 12 2016","vs","Portland Trail Blazers","W",NA,121,120,18,7,"W 2",2016-12-12
+"354",354,"Los Angeles Clippers",26,"Wed Dec 14 2016","@","Orlando Magic","W",NA,113,108,19,7,"W 3",2016-12-14
+"355",355,"Los Angeles Clippers",27,"Fri Dec 16 2016","@","Miami Heat","W",NA,102,98,20,7,"W 4",2016-12-16
+"356",356,"Los Angeles Clippers",28,"Sun Dec 18 2016","@","Washington Wizards","L",NA,110,117,20,8,"L 1",2016-12-18
+"357",357,"Los Angeles Clippers",29,"Tue Dec 20 2016","vs","Denver Nuggets","W",NA,119,102,21,8,"W 1",2016-12-20
+"358",358,"Los Angeles Clippers",30,"Thu Dec 22 2016","vs","San Antonio Spurs","W",NA,106,101,22,8,"W 2",2016-12-22
+"359",359,"Los Angeles Clippers",31,"Fri Dec 23 2016","vs","Dallas Mavericks","L",NA,88,90,22,9,"L 1",2016-12-23
+"360",360,"Los Angeles Clippers",32,"Sun Dec 25 2016","@","Los Angeles Lakers","L",NA,102,111,22,10,"L 2",2016-12-25
+"361",361,"Los Angeles Clippers",33,"Mon Dec 26 2016","vs","Denver Nuggets","L",NA,102,106,22,11,"L 3",2016-12-26
+"362",362,"Los Angeles Clippers",34,"Wed Dec 28 2016","@","New Orleans Pelicans","L",NA,98,102,22,12,"L 4",2016-12-28
+"363",363,"Los Angeles Clippers",35,"Fri Dec 30 2016","@","Houston Rockets","L",NA,116,140,22,13,"L 5",2016-12-30
+"364",364,"Los Angeles Clippers",36,"Sat Dec 31 2016","@","Oklahoma City Thunder","L",NA,88,114,22,14,"L 6",2016-12-31
+"365",365,"Los Angeles Clippers",37,"Mon Jan 2 2017","vs","Phoenix Suns","W",NA,109,98,23,14,"W 1",2017-01-02
+"366",366,"Los Angeles Clippers",38,"Wed Jan 4 2017","vs","Memphis Grizzlies","W",NA,115,106,24,14,"W 2",2017-01-04
+"367",367,"Los Angeles Clippers",39,"Fri Jan 6 2017","@","Sacramento Kings","W",NA,106,98,25,14,"W 3",2017-01-06
+"368",368,"Los Angeles Clippers",40,"Sun Jan 8 2017","vs","Miami Heat","W",NA,98,86,26,14,"W 4",2017-01-08
+"369",369,"Los Angeles Clippers",41,"Wed Jan 11 2017","vs","Orlando Magic","W",NA,105,96,27,14,"W 5",2017-01-11
+"370",370,"Los Angeles Clippers",42,"Sat Jan 14 2017","vs","Los Angeles Lakers","W",NA,113,97,28,14,"W 6",2017-01-14
+"371",371,"Los Angeles Clippers",43,"Mon Jan 16 2017","vs","Oklahoma City Thunder","W",NA,120,98,29,14,"W 7",2017-01-16
+"372",372,"Los Angeles Clippers",44,"Thu Jan 19 2017","vs","Minnesota Timberwolves","L",NA,101,104,29,15,"L 1",2017-01-19
+"373",373,"Los Angeles Clippers",45,"Sat Jan 21 2017","@","Denver Nuggets","L",NA,98,123,29,16,"L 2",2017-01-21
+"374",374,"Los Angeles Clippers",46,"Mon Jan 23 2017","@","Atlanta Hawks","W",NA,115,105,30,16,"W 1",2017-01-23
+"375",375,"Los Angeles Clippers",47,"Tue Jan 24 2017","@","Philadelphia 76ers","L",NA,110,121,30,17,"L 1",2017-01-24
+"376",376,"Los Angeles Clippers",48,"Sat Jan 28 2017","@","Golden State Warriors","L",NA,98,144,30,18,"L 2",2017-01-28
+"377",377,"Los Angeles Clippers",49,"Wed Feb 1 2017","@","Phoenix Suns","W",NA,124,114,31,18,"W 1",2017-02-01
+"378",378,"Los Angeles Clippers",50,"Thu Feb 2 2017","vs","Golden State Warriors","L",NA,120,133,31,19,"L 1",2017-02-02
+"379",379,"Los Angeles Clippers",51,"Sun Feb 5 2017","@","Boston Celtics","L",NA,102,107,31,20,"L 2",2017-02-05
+"380",380,"Los Angeles Clippers",52,"Mon Feb 6 2017","@","Toronto Raptors","L",NA,109,118,31,21,"L 3",2017-02-06
+"381",381,"Los Angeles Clippers",53,"Wed Feb 8 2017","@","New York Knicks","W",NA,119,115,32,21,"W 1",2017-02-08
+"382",382,"Los Angeles Clippers",54,"Sat Feb 11 2017","@","Charlotte Hornets","W",NA,107,102,33,21,"W 2",2017-02-11
+"383",383,"Los Angeles Clippers",55,"Mon Feb 13 2017","@","Utah Jazz","W",NA,88,72,34,21,"W 3",2017-02-13
+"384",384,"Los Angeles Clippers",56,"Wed Feb 15 2017","vs","Atlanta Hawks","W",NA,99,84,35,21,"W 4",2017-02-15
+"385",385,"Los Angeles Clippers",57,"Thu Feb 23 2017","@","Golden State Warriors","L",NA,113,123,35,22,"L 1",2017-02-23
+"386",386,"Los Angeles Clippers",58,"Fri Feb 24 2017","vs","San Antonio Spurs","L",NA,97,105,35,23,"L 2",2017-02-24
+"387",387,"Los Angeles Clippers",59,"Sun Feb 26 2017","vs","Charlotte Hornets","W","OT",124,121,36,23,"W 1",2017-02-26
+"388",388,"Los Angeles Clippers",60,"Wed Mar 1 2017","vs","Houston Rockets","L",NA,103,122,36,24,"L 1",2017-03-01
+"389",389,"Los Angeles Clippers",61,"Fri Mar 3 2017","@","Milwaukee Bucks","L",NA,101,112,36,25,"L 2",2017-03-03
+"390",390,"Los Angeles Clippers",62,"Sat Mar 4 2017","@","Chicago Bulls","W",NA,101,91,37,25,"W 1",2017-03-04
+"391",391,"Los Angeles Clippers",63,"Mon Mar 6 2017","vs","Boston Celtics","W",NA,116,102,38,25,"W 2",2017-03-06
+"392",392,"Los Angeles Clippers",64,"Wed Mar 8 2017","@","Minnesota Timberwolves","L",NA,91,107,38,26,"L 1",2017-03-08
+"393",393,"Los Angeles Clippers",65,"Thu Mar 9 2017","@","Memphis Grizzlies","W",NA,114,98,39,26,"W 1",2017-03-09
+"394",394,"Los Angeles Clippers",66,"Sat Mar 11 2017","vs","Philadelphia 76ers","W",NA,112,100,40,26,"W 2",2017-03-11
+"395",395,"Los Angeles Clippers",67,"Mon Mar 13 2017","@","Utah Jazz","L",NA,108,114,40,27,"L 1",2017-03-13
+"396",396,"Los Angeles Clippers",68,"Wed Mar 15 2017","vs","Milwaukee Bucks","L",NA,96,97,40,28,"L 2",2017-03-15
+"397",397,"Los Angeles Clippers",69,"Thu Mar 16 2017","@","Denver Nuggets","L",NA,114,129,40,29,"L 3",2017-03-16
+"398",398,"Los Angeles Clippers",70,"Sat Mar 18 2017","vs","Cleveland Cavaliers","W",NA,108,78,41,29,"W 1",2017-03-18
+"399",399,"Los Angeles Clippers",71,"Mon Mar 20 2017","vs","New York Knicks","W",NA,114,105,42,29,"W 2",2017-03-20
+"400",400,"Los Angeles Clippers",72,"Tue Mar 21 2017","@","Los Angeles Lakers","W",NA,133,109,43,29,"W 3",2017-03-21
+"401",401,"Los Angeles Clippers",73,"Thu Mar 23 2017","@","Dallas Mavericks","L",NA,95,97,43,30,"L 1",2017-03-23
+"402",402,"Los Angeles Clippers",74,"Sat Mar 25 2017","vs","Utah Jazz","W",NA,108,95,44,30,"W 1",2017-03-25
+"403",403,"Los Angeles Clippers",75,"Sun Mar 26 2017","vs","Sacramento Kings","L",NA,97,98,44,31,"L 1",2017-03-26
+"404",404,"Los Angeles Clippers",76,"Wed Mar 29 2017","vs","Washington Wizards","W",NA,133,124,45,31,"W 1",2017-03-29
+"405",405,"Los Angeles Clippers",77,"Thu Mar 30 2017","@","Phoenix Suns","W",NA,124,118,46,31,"W 2",2017-03-30
+"406",406,"Los Angeles Clippers",78,"Sat Apr 1 2017","vs","Los Angeles Lakers","W",NA,115,104,47,31,"W 3",2017-04-01
+"407",407,"Los Angeles Clippers",79,"Wed Apr 5 2017","vs","Dallas Mavericks","W",NA,112,101,48,31,"W 4",2017-04-05
+"408",408,"Los Angeles Clippers",80,"Sat Apr 8 2017","@","San Antonio Spurs","W",NA,98,87,49,31,"W 5",2017-04-08
+"409",409,"Los Angeles Clippers",81,"Mon Apr 10 2017","vs","Houston Rockets","W",NA,125,96,50,31,"W 6",2017-04-10
+"410",410,"Los Angeles Clippers",82,"Wed Apr 12 2017","vs","Sacramento Kings","W",NA,115,95,51,31,"W 7",2017-04-12
+"411",411,"Oklahoma City Thunder",1,"Wed Oct 26 2016","@","Philadelphia 76ers","W",NA,103,97,1,0,"W 1",2016-10-26
+"412",412,"Oklahoma City Thunder",2,"Fri Oct 28 2016","vs","Phoenix Suns","W","OT",113,110,2,0,"W 2",2016-10-28
+"413",413,"Oklahoma City Thunder",3,"Sun Oct 30 2016","vs","Los Angeles Lakers","W",NA,113,96,3,0,"W 3",2016-10-30
+"414",414,"Oklahoma City Thunder",4,"Wed Nov 2 2016","@","Los Angeles Clippers","W",NA,85,83,4,0,"W 4",2016-11-02
+"415",415,"Oklahoma City Thunder",5,"Thu Nov 3 2016","@","Golden State Warriors","L",NA,96,122,4,1,"L 1",2016-11-03
+"416",416,"Oklahoma City Thunder",6,"Sat Nov 5 2016","vs","Minnesota Timberwolves","W",NA,112,92,5,1,"W 1",2016-11-05
+"417",417,"Oklahoma City Thunder",7,"Mon Nov 7 2016","vs","Miami Heat","W",NA,97,85,6,1,"W 2",2016-11-07
+"418",418,"Oklahoma City Thunder",8,"Wed Nov 9 2016","vs","Toronto Raptors","L",NA,102,112,6,2,"L 1",2016-11-09
+"419",419,"Oklahoma City Thunder",9,"Fri Nov 11 2016","vs","Los Angeles Clippers","L",NA,108,110,6,3,"L 2",2016-11-11
+"420",420,"Oklahoma City Thunder",10,"Sun Nov 13 2016","vs","Orlando Magic","L",NA,117,119,6,4,"L 3",2016-11-13
+"421",421,"Oklahoma City Thunder",11,"Mon Nov 14 2016","@","Detroit Pistons","L",NA,88,104,6,5,"L 4",2016-11-14
+"422",422,"Oklahoma City Thunder",12,"Wed Nov 16 2016","vs","Houston Rockets","W",NA,105,103,7,5,"W 1",2016-11-16
+"423",423,"Oklahoma City Thunder",13,"Fri Nov 18 2016","vs","Brooklyn Nets","W",NA,124,105,8,5,"W 2",2016-11-18
+"424",424,"Oklahoma City Thunder",14,"Sun Nov 20 2016","vs","Indiana Pacers","L","OT",111,115,8,6,"L 1",2016-11-20
+"425",425,"Oklahoma City Thunder",15,"Tue Nov 22 2016","@","Los Angeles Lakers","L",NA,109,111,8,7,"L 2",2016-11-22
+"426",426,"Oklahoma City Thunder",16,"Wed Nov 23 2016","@","Sacramento Kings","L",NA,101,116,8,8,"L 3",2016-11-23
+"427",427,"Oklahoma City Thunder",17,"Fri Nov 25 2016","@","Denver Nuggets","W","OT",132,129,9,8,"W 1",2016-11-25
+"428",428,"Oklahoma City Thunder",18,"Sat Nov 26 2016","vs","Detroit Pistons","W",NA,106,88,10,8,"W 2",2016-11-26
+"429",429,"Oklahoma City Thunder",19,"Mon Nov 28 2016","@","New York Knicks","W",NA,112,103,11,8,"W 3",2016-11-28
+"430",430,"Oklahoma City Thunder",20,"Wed Nov 30 2016","vs","Washington Wizards","W","OT",126,115,12,8,"W 4",2016-11-30
+"431",431,"Oklahoma City Thunder",21,"Sun Dec 4 2016","vs","New Orleans Pelicans","W",NA,101,92,13,8,"W 5",2016-12-04
+"432",432,"Oklahoma City Thunder",22,"Mon Dec 5 2016","@","Atlanta Hawks","W",NA,102,99,14,8,"W 6",2016-12-05
+"433",433,"Oklahoma City Thunder",23,"Fri Dec 9 2016","vs","Houston Rockets","L",NA,99,102,14,9,"L 1",2016-12-09
+"434",434,"Oklahoma City Thunder",24,"Sun Dec 11 2016","vs","Boston Celtics","W",NA,99,96,15,9,"W 1",2016-12-11
+"435",435,"Oklahoma City Thunder",25,"Tue Dec 13 2016","@","Portland Trail Blazers","L",NA,95,114,15,10,"L 1",2016-12-13
+"436",436,"Oklahoma City Thunder",26,"Wed Dec 14 2016","@","Utah Jazz","L",NA,89,109,15,11,"L 2",2016-12-14
+"437",437,"Oklahoma City Thunder",27,"Sat Dec 17 2016","vs","Phoenix Suns","W",NA,114,101,16,11,"W 1",2016-12-17
+"438",438,"Oklahoma City Thunder",28,"Mon Dec 19 2016","vs","Atlanta Hawks","L",NA,108,110,16,12,"L 1",2016-12-19
+"439",439,"Oklahoma City Thunder",29,"Wed Dec 21 2016","@","New Orleans Pelicans","W",NA,121,110,17,12,"W 1",2016-12-21
+"440",440,"Oklahoma City Thunder",30,"Fri Dec 23 2016","@","Boston Celtics","W",NA,117,112,18,12,"W 2",2016-12-23
+"441",441,"Oklahoma City Thunder",31,"Sun Dec 25 2016","vs","Minnesota Timberwolves","W",NA,112,100,19,12,"W 3",2016-12-25
+"442",442,"Oklahoma City Thunder",32,"Tue Dec 27 2016","@","Miami Heat","W",NA,106,94,20,12,"W 4",2016-12-27
+"443",443,"Oklahoma City Thunder",33,"Thu Dec 29 2016","@","Memphis Grizzlies","L",NA,80,114,20,13,"L 1",2016-12-29
+"444",444,"Oklahoma City Thunder",34,"Sat Dec 31 2016","vs","Los Angeles Clippers","W",NA,114,88,21,13,"W 1",2016-12-31
+"445",445,"Oklahoma City Thunder",35,"Mon Jan 2 2017","@","Milwaukee Bucks","L",NA,94,98,21,14,"L 1",2017-01-02
+"446",446,"Oklahoma City Thunder",36,"Wed Jan 4 2017","@","Charlotte Hornets","L",NA,112,123,21,15,"L 2",2017-01-04
+"447",447,"Oklahoma City Thunder",37,"Thu Jan 5 2017","@","Houston Rockets","L",NA,116,118,21,16,"L 3",2017-01-05
+"448",448,"Oklahoma City Thunder",38,"Sat Jan 7 2017","vs","Denver Nuggets","W",NA,121,106,22,16,"W 1",2017-01-07
+"449",449,"Oklahoma City Thunder",39,"Mon Jan 9 2017","@","Chicago Bulls","W",NA,109,94,23,16,"W 2",2017-01-09
+"450",450,"Oklahoma City Thunder",40,"Wed Jan 11 2017","vs","Memphis Grizzlies","W",NA,103,95,24,16,"W 3",2017-01-11
+"451",451,"Oklahoma City Thunder",41,"Fri Jan 13 2017","@","Minnesota Timberwolves","L",NA,86,96,24,17,"L 1",2017-01-13
+"452",452,"Oklahoma City Thunder",42,"Sun Jan 15 2017","@","Sacramento Kings","W",NA,122,118,25,17,"W 1",2017-01-15
+"453",453,"Oklahoma City Thunder",43,"Mon Jan 16 2017","@","Los Angeles Clippers","L",NA,98,120,25,18,"L 1",2017-01-16
+"454",454,"Oklahoma City Thunder",44,"Wed Jan 18 2017","@","Golden State Warriors","L",NA,100,121,25,19,"L 2",2017-01-18
+"455",455,"Oklahoma City Thunder",45,"Mon Jan 23 2017","@","Utah Jazz","W",NA,97,95,26,19,"W 1",2017-01-23
+"456",456,"Oklahoma City Thunder",46,"Wed Jan 25 2017","@","New Orleans Pelicans","W",NA,114,105,27,19,"W 2",2017-01-25
+"457",457,"Oklahoma City Thunder",47,"Thu Jan 26 2017","vs","Dallas Mavericks","W",NA,109,98,28,19,"W 3",2017-01-26
+"458",458,"Oklahoma City Thunder",48,"Sun Jan 29 2017","@","Cleveland Cavaliers","L",NA,91,107,28,20,"L 1",2017-01-29
+"459",459,"Oklahoma City Thunder",49,"Tue Jan 31 2017","@","San Antonio Spurs","L",NA,94,108,28,21,"L 2",2017-01-31
+"460",460,"Oklahoma City Thunder",50,"Wed Feb 1 2017","vs","Chicago Bulls","L",NA,100,128,28,22,"L 3",2017-02-01
+"461",461,"Oklahoma City Thunder",51,"Fri Feb 3 2017","vs","Memphis Grizzlies","W",NA,114,102,29,22,"W 1",2017-02-03
+"462",462,"Oklahoma City Thunder",52,"Sun Feb 5 2017","vs","Portland Trail Blazers","W",NA,105,99,30,22,"W 2",2017-02-05
+"463",463,"Oklahoma City Thunder",53,"Mon Feb 6 2017","@","Indiana Pacers","L",NA,90,93,30,23,"L 1",2017-02-06
+"464",464,"Oklahoma City Thunder",54,"Thu Feb 9 2017","vs","Cleveland Cavaliers","W",NA,118,109,31,23,"W 1",2017-02-09
+"465",465,"Oklahoma City Thunder",55,"Sat Feb 11 2017","vs","Golden State Warriors","L",NA,114,130,31,24,"L 1",2017-02-11
+"466",466,"Oklahoma City Thunder",56,"Mon Feb 13 2017","@","Washington Wizards","L",NA,98,120,31,25,"L 2",2017-02-13
+"467",467,"Oklahoma City Thunder",57,"Wed Feb 15 2017","vs","New York Knicks","W",NA,116,105,32,25,"W 1",2017-02-15
+"468",468,"Oklahoma City Thunder",58,"Fri Feb 24 2017","vs","Los Angeles Lakers","W",NA,110,93,33,25,"W 2",2017-02-24
+"469",469,"Oklahoma City Thunder",59,"Sun Feb 26 2017","vs","New Orleans Pelicans","W",NA,118,110,34,25,"W 3",2017-02-26
+"470",470,"Oklahoma City Thunder",60,"Tue Feb 28 2017","vs","Utah Jazz","W",NA,109,106,35,25,"W 4",2017-02-28
+"471",471,"Oklahoma City Thunder",61,"Thu Mar 2 2017","@","Portland Trail Blazers","L",NA,109,114,35,26,"L 1",2017-03-02
+"472",472,"Oklahoma City Thunder",62,"Fri Mar 3 2017","@","Phoenix Suns","L",NA,111,118,35,27,"L 2",2017-03-03
+"473",473,"Oklahoma City Thunder",63,"Sun Mar 5 2017","@","Dallas Mavericks","L",NA,89,104,35,28,"L 3",2017-03-05
+"474",474,"Oklahoma City Thunder",64,"Tue Mar 7 2017","vs","Portland Trail Blazers","L",NA,121,126,35,29,"L 4",2017-03-07
+"475",475,"Oklahoma City Thunder",65,"Thu Mar 9 2017","vs","San Antonio Spurs","W",NA,102,92,36,29,"W 1",2017-03-09
+"476",476,"Oklahoma City Thunder",66,"Sat Mar 11 2017","vs","Utah Jazz","W",NA,112,104,37,29,"W 2",2017-03-11
+"477",477,"Oklahoma City Thunder",67,"Tue Mar 14 2017","@","Brooklyn Nets","W",NA,122,104,38,29,"W 3",2017-03-14
+"478",478,"Oklahoma City Thunder",68,"Thu Mar 16 2017","@","Toronto Raptors","W",NA,123,102,39,29,"W 4",2017-03-16
+"479",479,"Oklahoma City Thunder",69,"Sat Mar 18 2017","vs","Sacramento Kings","W",NA,110,94,40,29,"W 5",2017-03-18
+"480",480,"Oklahoma City Thunder",70,"Mon Mar 20 2017","vs","Golden State Warriors","L",NA,95,111,40,30,"L 1",2017-03-20
+"481",481,"Oklahoma City Thunder",71,"Wed Mar 22 2017","vs","Philadelphia 76ers","W",NA,122,97,41,30,"W 1",2017-03-22
+"482",482,"Oklahoma City Thunder",72,"Sun Mar 26 2017","@","Houston Rockets","L",NA,125,137,41,31,"L 1",2017-03-26
+"483",483,"Oklahoma City Thunder",73,"Mon Mar 27 2017","@","Dallas Mavericks","W",NA,92,91,42,31,"W 1",2017-03-27
+"484",484,"Oklahoma City Thunder",74,"Wed Mar 29 2017","@","Orlando Magic","W","OT",114,106,43,31,"W 2",2017-03-29
+"485",485,"Oklahoma City Thunder",75,"Fri Mar 31 2017","vs","San Antonio Spurs","L",NA,95,100,43,32,"L 1",2017-03-31
+"486",486,"Oklahoma City Thunder",76,"Sun Apr 2 2017","vs","Charlotte Hornets","L",NA,101,113,43,33,"L 2",2017-04-02
+"487",487,"Oklahoma City Thunder",77,"Tue Apr 4 2017","vs","Milwaukee Bucks","W",NA,110,79,44,33,"W 1",2017-04-04
+"488",488,"Oklahoma City Thunder",78,"Wed Apr 5 2017","@","Memphis Grizzlies","W",NA,103,100,45,33,"W 2",2017-04-05
+"489",489,"Oklahoma City Thunder",79,"Fri Apr 7 2017","@","Phoenix Suns","L",NA,99,120,45,34,"L 1",2017-04-07
+"490",490,"Oklahoma City Thunder",80,"Sun Apr 9 2017","@","Denver Nuggets","W",NA,106,105,46,34,"W 1",2017-04-09
+"491",491,"Oklahoma City Thunder",81,"Tue Apr 11 2017","@","Minnesota Timberwolves","W",NA,100,98,47,34,"W 2",2017-04-11
+"492",492,"Oklahoma City Thunder",82,"Wed Apr 12 2017","vs","Denver Nuggets","L",NA,105,111,47,35,"L 1",2017-04-12
+"493",493,"Memphis Grizzlies",1,"Wed Oct 26 2016","vs","Minnesota Timberwolves","W",NA,102,98,1,0,"W 1",2016-10-26
+"494",494,"Memphis Grizzlies",2,"Sat Oct 29 2016","@","New York Knicks","L",NA,104,111,1,1,"L 1",2016-10-29
+"495",495,"Memphis Grizzlies",3,"Sun Oct 30 2016","vs","Washington Wizards","W","OT",112,103,2,1,"W 1",2016-10-30
+"496",496,"Memphis Grizzlies",4,"Tue Nov 1 2016","@","Minnesota Timberwolves","L",NA,80,116,2,2,"L 1",2016-11-01
+"497",497,"Memphis Grizzlies",5,"Wed Nov 2 2016","vs","New Orleans Pelicans","W","OT",89,83,3,2,"W 1",2016-11-02
+"498",498,"Memphis Grizzlies",6,"Fri Nov 4 2016","vs","Los Angeles Clippers","L",NA,88,99,3,3,"L 1",2016-11-04
+"499",499,"Memphis Grizzlies",7,"Sun Nov 6 2016","vs","Portland Trail Blazers","L",NA,94,100,3,4,"L 2",2016-11-06
+"500",500,"Memphis Grizzlies",8,"Tue Nov 8 2016","vs","Denver Nuggets","W",NA,108,107,4,4,"W 1",2016-11-08
+"501",501,"Memphis Grizzlies",9,"Sat Nov 12 2016","@","Milwaukee Bucks","L",NA,96,106,4,5,"L 1",2016-11-12
+"502",502,"Memphis Grizzlies",10,"Mon Nov 14 2016","@","Utah Jazz","W",NA,102,96,5,5,"W 1",2016-11-14
+"503",503,"Memphis Grizzlies",11,"Wed Nov 16 2016","@","Los Angeles Clippers","W",NA,111,107,6,5,"W 2",2016-11-16
+"504",504,"Memphis Grizzlies",12,"Fri Nov 18 2016","@","Dallas Mavericks","W",NA,80,64,7,5,"W 3",2016-11-18
+"505",505,"Memphis Grizzlies",13,"Sat Nov 19 2016","vs","Minnesota Timberwolves","W",NA,93,71,8,5,"W 4",2016-11-19
+"506",506,"Memphis Grizzlies",14,"Mon Nov 21 2016","@","Charlotte Hornets","W",NA,105,90,9,5,"W 5",2016-11-21
+"507",507,"Memphis Grizzlies",15,"Wed Nov 23 2016","@","Philadelphia 76ers","W","2OT",104,99,10,5,"W 6",2016-11-23
+"508",508,"Memphis Grizzlies",16,"Fri Nov 25 2016","vs","Miami Heat","L",NA,81,90,10,6,"L 1",2016-11-25
+"509",509,"Memphis Grizzlies",17,"Sat Nov 26 2016","@","Miami Heat","W",NA,110,107,11,6,"W 1",2016-11-26
+"510",510,"Memphis Grizzlies",18,"Mon Nov 28 2016","vs","Charlotte Hornets","L",NA,85,104,11,7,"L 1",2016-11-28
+"511",511,"Memphis Grizzlies",19,"Wed Nov 30 2016","@","Toronto Raptors","L",NA,105,120,11,8,"L 2",2016-11-30
+"512",512,"Memphis Grizzlies",20,"Thu Dec 1 2016","vs","Orlando Magic","W",NA,95,94,12,8,"W 1",2016-12-01
+"513",513,"Memphis Grizzlies",21,"Sat Dec 3 2016","vs","Los Angeles Lakers","W",NA,103,100,13,8,"W 2",2016-12-03
+"514",514,"Memphis Grizzlies",22,"Mon Dec 5 2016","@","New Orleans Pelicans","W","2OT",110,108,14,8,"W 3",2016-12-05
+"515",515,"Memphis Grizzlies",23,"Tue Dec 6 2016","vs","Philadelphia 76ers","W",NA,96,91,15,8,"W 4",2016-12-06
+"516",516,"Memphis Grizzlies",24,"Thu Dec 8 2016","vs","Portland Trail Blazers","W",NA,88,86,16,8,"W 5",2016-12-08
+"517",517,"Memphis Grizzlies",25,"Sat Dec 10 2016","vs","Golden State Warriors","W",NA,110,89,17,8,"W 6",2016-12-10
+"518",518,"Memphis Grizzlies",26,"Tue Dec 13 2016","@","Cleveland Cavaliers","L",NA,86,103,17,9,"L 1",2016-12-13
+"519",519,"Memphis Grizzlies",27,"Wed Dec 14 2016","vs","Cleveland Cavaliers","W",NA,93,85,18,9,"W 1",2016-12-14
+"520",520,"Memphis Grizzlies",28,"Fri Dec 16 2016","vs","Sacramento Kings","L",NA,92,96,18,10,"L 1",2016-12-16
+"521",521,"Memphis Grizzlies",29,"Sun Dec 18 2016","vs","Utah Jazz","L",NA,73,82,18,11,"L 2",2016-12-18
+"522",522,"Memphis Grizzlies",30,"Tue Dec 20 2016","vs","Boston Celtics","L","OT",109,112,18,12,"L 3",2016-12-20
+"523",523,"Memphis Grizzlies",31,"Wed Dec 21 2016","@","Detroit Pistons","W",NA,98,86,19,12,"W 1",2016-12-21
+"524",524,"Memphis Grizzlies",32,"Fri Dec 23 2016","vs","Houston Rockets","W",NA,115,109,20,12,"W 2",2016-12-23
+"525",525,"Memphis Grizzlies",33,"Mon Dec 26 2016","@","Orlando Magic","L",NA,102,112,20,13,"L 1",2016-12-26
+"526",526,"Memphis Grizzlies",34,"Tue Dec 27 2016","@","Boston Celtics","L",NA,103,113,20,14,"L 2",2016-12-27
+"527",527,"Memphis Grizzlies",35,"Thu Dec 29 2016","vs","Oklahoma City Thunder","W",NA,114,80,21,14,"W 1",2016-12-29
+"528",528,"Memphis Grizzlies",36,"Sat Dec 31 2016","@","Sacramento Kings","W",NA,112,98,22,14,"W 2",2016-12-31
+"529",529,"Memphis Grizzlies",37,"Tue Jan 3 2017","@","Los Angeles Lakers","L",NA,102,116,22,15,"L 1",2017-01-03
+"530",530,"Memphis Grizzlies",38,"Wed Jan 4 2017","@","Los Angeles Clippers","L",NA,106,115,22,16,"L 2",2017-01-04
+"531",531,"Memphis Grizzlies",39,"Fri Jan 6 2017","@","Golden State Warriors","W","OT",128,119,23,16,"W 1",2017-01-06
+"532",532,"Memphis Grizzlies",40,"Sun Jan 8 2017","vs","Utah Jazz","W",NA,88,79,24,16,"W 2",2017-01-08
+"533",533,"Memphis Grizzlies",41,"Wed Jan 11 2017","@","Oklahoma City Thunder","L",NA,95,103,24,17,"L 1",2017-01-11
+"534",534,"Memphis Grizzlies",42,"Fri Jan 13 2017","@","Houston Rockets","W",NA,110,105,25,17,"W 1",2017-01-13
+"535",535,"Memphis Grizzlies",43,"Sun Jan 15 2017","vs","Chicago Bulls","L",NA,104,108,25,18,"L 1",2017-01-15
+"536",536,"Memphis Grizzlies",44,"Wed Jan 18 2017","@","Washington Wizards","L",NA,101,104,25,19,"L 2",2017-01-18
+"537",537,"Memphis Grizzlies",45,"Fri Jan 20 2017","vs","Sacramento Kings","W",NA,107,91,26,19,"W 1",2017-01-20
+"538",538,"Memphis Grizzlies",46,"Sat Jan 21 2017","vs","Houston Rockets","L",NA,95,119,26,20,"L 1",2017-01-21
+"539",539,"Memphis Grizzlies",47,"Wed Jan 25 2017","vs","Toronto Raptors","W",NA,101,99,27,20,"W 1",2017-01-25
+"540",540,"Memphis Grizzlies",48,"Fri Jan 27 2017","@","Portland Trail Blazers","L",NA,109,112,27,21,"L 1",2017-01-27
+"541",541,"Memphis Grizzlies",49,"Sat Jan 28 2017","@","Utah Jazz","W",NA,102,95,28,21,"W 1",2017-01-28
+"542",542,"Memphis Grizzlies",50,"Mon Jan 30 2017","@","Phoenix Suns","W",NA,115,96,29,21,"W 2",2017-01-30
+"543",543,"Memphis Grizzlies",51,"Wed Feb 1 2017","@","Denver Nuggets","W",NA,119,99,30,21,"W 3",2017-02-01
+"544",544,"Memphis Grizzlies",52,"Fri Feb 3 2017","@","Oklahoma City Thunder","L",NA,102,114,30,22,"L 1",2017-02-03
+"545",545,"Memphis Grizzlies",53,"Sat Feb 4 2017","@","Minnesota Timberwolves","W",NA,107,99,31,22,"W 1",2017-02-04
+"546",546,"Memphis Grizzlies",54,"Mon Feb 6 2017","vs","San Antonio Spurs","W",NA,89,74,32,22,"W 2",2017-02-06
+"547",547,"Memphis Grizzlies",55,"Wed Feb 8 2017","vs","Phoenix Suns","W",NA,110,91,33,22,"W 3",2017-02-08
+"548",548,"Memphis Grizzlies",56,"Fri Feb 10 2017","vs","Golden State Warriors","L",NA,107,122,33,23,"L 1",2017-02-10
+"549",549,"Memphis Grizzlies",57,"Mon Feb 13 2017","@","Brooklyn Nets","W",NA,112,103,34,23,"W 1",2017-02-13
+"550",550,"Memphis Grizzlies",58,"Wed Feb 15 2017","vs","New Orleans Pelicans","L",NA,91,95,34,24,"L 1",2017-02-15
+"551",551,"Memphis Grizzlies",59,"Fri Feb 24 2017","@","Indiana Pacers","L",NA,92,102,34,25,"L 2",2017-02-24
+"552",552,"Memphis Grizzlies",60,"Sun Feb 26 2017","@","Denver Nuggets","W",NA,105,98,35,25,"W 1",2017-02-26
+"553",553,"Memphis Grizzlies",61,"Tue Feb 28 2017","vs","Phoenix Suns","W",NA,130,112,36,25,"W 2",2017-02-28
+"554",554,"Memphis Grizzlies",62,"Fri Mar 3 2017","@","Dallas Mavericks","L",NA,100,104,36,26,"L 1",2017-03-03
+"555",555,"Memphis Grizzlies",63,"Sat Mar 4 2017","@","Houston Rockets","L",NA,108,123,36,27,"L 2",2017-03-04
+"556",556,"Memphis Grizzlies",64,"Mon Mar 6 2017","vs","Brooklyn Nets","L",NA,109,122,36,28,"L 3",2017-03-06
+"557",557,"Memphis Grizzlies",65,"Thu Mar 9 2017","vs","Los Angeles Clippers","L",NA,98,114,36,29,"L 4",2017-03-09
+"558",558,"Memphis Grizzlies",66,"Sat Mar 11 2017","vs","Atlanta Hawks","L",NA,90,107,36,30,"L 5",2017-03-11
+"559",559,"Memphis Grizzlies",67,"Mon Mar 13 2017","vs","Milwaukee Bucks","W",NA,113,93,37,30,"W 1",2017-03-13
+"560",560,"Memphis Grizzlies",68,"Wed Mar 15 2017","@","Chicago Bulls","W",NA,98,91,38,30,"W 2",2017-03-15
+"561",561,"Memphis Grizzlies",69,"Thu Mar 16 2017","@","Atlanta Hawks","W",NA,103,91,39,30,"W 3",2017-03-16
+"562",562,"Memphis Grizzlies",70,"Sat Mar 18 2017","vs","San Antonio Spurs","W",NA,104,96,40,30,"W 4",2017-03-18
+"563",563,"Memphis Grizzlies",71,"Tue Mar 21 2017","@","New Orleans Pelicans","L",NA,82,95,40,31,"L 1",2017-03-21
+"564",564,"Memphis Grizzlies",72,"Thu Mar 23 2017","@","San Antonio Spurs","L",NA,90,97,40,32,"L 2",2017-03-23
+"565",565,"Memphis Grizzlies",73,"Sun Mar 26 2017","@","Golden State Warriors","L",NA,94,106,40,33,"L 3",2017-03-26
+"566",566,"Memphis Grizzlies",74,"Mon Mar 27 2017","@","Sacramento Kings","L",NA,90,91,40,34,"L 4",2017-03-27
+"567",567,"Memphis Grizzlies",75,"Wed Mar 29 2017","vs","Indiana Pacers","W",NA,110,97,41,34,"W 1",2017-03-29
+"568",568,"Memphis Grizzlies",76,"Fri Mar 31 2017","vs","Dallas Mavericks","W",NA,99,90,42,34,"W 2",2017-03-31
+"569",569,"Memphis Grizzlies",77,"Sun Apr 2 2017","@","Los Angeles Lakers","L",NA,103,108,42,35,"L 1",2017-04-02
+"570",570,"Memphis Grizzlies",78,"Tue Apr 4 2017","@","San Antonio Spurs","L","OT",89,95,42,36,"L 2",2017-04-04
+"571",571,"Memphis Grizzlies",79,"Wed Apr 5 2017","vs","Oklahoma City Thunder","L",NA,100,103,42,37,"L 3",2017-04-05
+"572",572,"Memphis Grizzlies",80,"Fri Apr 7 2017","vs","New York Knicks","W",NA,101,88,43,37,"W 1",2017-04-07
+"573",573,"Memphis Grizzlies",81,"Sun Apr 9 2017","vs","Detroit Pistons","L",NA,90,103,43,38,"L 1",2017-04-09
+"574",574,"Memphis Grizzlies",82,"Wed Apr 12 2017","vs","Dallas Mavericks","L",NA,93,100,43,39,"L 2",2017-04-12
+"575",575,"Portland Trail Blazers",1,"Tue Oct 25 2016","vs","Utah Jazz","W",NA,113,104,1,0,"W 1",2016-10-25
+"576",576,"Portland Trail Blazers",2,"Thu Oct 27 2016","vs","Los Angeles Clippers","L",NA,106,114,1,1,"L 1",2016-10-27
+"577",577,"Portland Trail Blazers",3,"Sat Oct 29 2016","@","Denver Nuggets","W","OT",115,113,2,1,"W 1",2016-10-29
+"578",578,"Portland Trail Blazers",4,"Tue Nov 1 2016","vs","Golden State Warriors","L",NA,104,127,2,2,"L 1",2016-11-01
+"579",579,"Portland Trail Blazers",5,"Wed Nov 2 2016","@","Phoenix Suns","L","OT",115,118,2,3,"L 2",2016-11-02
+"580",580,"Portland Trail Blazers",6,"Fri Nov 4 2016","@","Dallas Mavericks","W",NA,105,95,3,3,"W 1",2016-11-04
+"581",581,"Portland Trail Blazers",7,"Sun Nov 6 2016","@","Memphis Grizzlies","W",NA,100,94,4,3,"W 2",2016-11-06
+"582",582,"Portland Trail Blazers",8,"Tue Nov 8 2016","vs","Phoenix Suns","W",NA,124,121,5,3,"W 3",2016-11-08
+"583",583,"Portland Trail Blazers",9,"Wed Nov 9 2016","@","Los Angeles Clippers","L",NA,80,111,5,4,"L 1",2016-11-09
+"584",584,"Portland Trail Blazers",10,"Fri Nov 11 2016","vs","Sacramento Kings","W","OT",122,120,6,4,"W 1",2016-11-11
+"585",585,"Portland Trail Blazers",11,"Sun Nov 13 2016","vs","Denver Nuggets","W",NA,112,105,7,4,"W 2",2016-11-13
+"586",586,"Portland Trail Blazers",12,"Tue Nov 15 2016","vs","Chicago Bulls","L",NA,88,113,7,5,"L 1",2016-11-15
+"587",587,"Portland Trail Blazers",13,"Thu Nov 17 2016","@","Houston Rockets","L",NA,109,126,7,6,"L 2",2016-11-17
+"588",588,"Portland Trail Blazers",14,"Fri Nov 18 2016","@","New Orleans Pelicans","L",NA,101,113,7,7,"L 3",2016-11-18
+"589",589,"Portland Trail Blazers",15,"Sun Nov 20 2016","@","Brooklyn Nets","W",NA,129,109,8,7,"W 1",2016-11-20
+"590",590,"Portland Trail Blazers",16,"Tue Nov 22 2016","@","New York Knicks","L",NA,103,107,8,8,"L 1",2016-11-22
+"591",591,"Portland Trail Blazers",17,"Wed Nov 23 2016","@","Cleveland Cavaliers","L",NA,125,137,8,9,"L 2",2016-11-23
+"592",592,"Portland Trail Blazers",18,"Fri Nov 25 2016","vs","New Orleans Pelicans","W",NA,119,104,9,9,"W 1",2016-11-25
+"593",593,"Portland Trail Blazers",19,"Sun Nov 27 2016","vs","Houston Rockets","L",NA,114,130,9,10,"L 1",2016-11-27
+"594",594,"Portland Trail Blazers",20,"Wed Nov 30 2016","vs","Indiana Pacers","W",NA,131,109,10,10,"W 1",2016-11-30
+"595",595,"Portland Trail Blazers",21,"Sat Dec 3 2016","vs","Miami Heat","W",NA,99,92,11,10,"W 2",2016-12-03
+"596",596,"Portland Trail Blazers",22,"Mon Dec 5 2016","@","Chicago Bulls","W",NA,112,110,12,10,"W 3",2016-12-05
+"597",597,"Portland Trail Blazers",23,"Wed Dec 7 2016","@","Milwaukee Bucks","L",NA,107,115,12,11,"L 1",2016-12-07
+"598",598,"Portland Trail Blazers",24,"Thu Dec 8 2016","@","Memphis Grizzlies","L",NA,86,88,12,12,"L 2",2016-12-08
+"599",599,"Portland Trail Blazers",25,"Sat Dec 10 2016","@","Indiana Pacers","L",NA,111,118,12,13,"L 3",2016-12-10
+"600",600,"Portland Trail Blazers",26,"Mon Dec 12 2016","@","Los Angeles Clippers","L",NA,120,121,12,14,"L 4",2016-12-12
+"601",601,"Portland Trail Blazers",27,"Tue Dec 13 2016","vs","Oklahoma City Thunder","W",NA,114,95,13,14,"W 1",2016-12-13
+"602",602,"Portland Trail Blazers",28,"Thu Dec 15 2016","@","Denver Nuggets","L",NA,120,132,13,15,"L 1",2016-12-15
+"603",603,"Portland Trail Blazers",29,"Sat Dec 17 2016","@","Golden State Warriors","L",NA,90,135,13,16,"L 2",2016-12-17
+"604",604,"Portland Trail Blazers",30,"Tue Dec 20 2016","@","Sacramento Kings","L",NA,121,126,13,17,"L 3",2016-12-20
+"605",605,"Portland Trail Blazers",31,"Wed Dec 21 2016","vs","Dallas Mavericks","L",NA,95,96,13,18,"L 4",2016-12-21
+"606",606,"Portland Trail Blazers",32,"Fri Dec 23 2016","vs","San Antonio Spurs","L",NA,90,110,13,19,"L 5",2016-12-23
+"607",607,"Portland Trail Blazers",33,"Mon Dec 26 2016","vs","Toronto Raptors","L",NA,91,95,13,20,"L 6",2016-12-26
+"608",608,"Portland Trail Blazers",34,"Wed Dec 28 2016","vs","Sacramento Kings","W",NA,102,89,14,20,"W 1",2016-12-28
+"609",609,"Portland Trail Blazers",35,"Fri Dec 30 2016","@","San Antonio Spurs","L",NA,94,110,14,21,"L 1",2016-12-30
+"610",610,"Portland Trail Blazers",36,"Sun Jan 1 2017","@","Minnesota Timberwolves","W",NA,95,89,15,21,"W 1",2017-01-01
+"611",611,"Portland Trail Blazers",37,"Wed Jan 4 2017","@","Golden State Warriors","L",NA,117,125,15,22,"L 1",2017-01-04
+"612",612,"Portland Trail Blazers",38,"Thu Jan 5 2017","vs","Los Angeles Lakers","W",NA,118,109,16,22,"W 1",2017-01-05
+"613",613,"Portland Trail Blazers",39,"Sun Jan 8 2017","vs","Detroit Pistons","L","2OT",124,125,16,23,"L 1",2017-01-08
+"614",614,"Portland Trail Blazers",40,"Tue Jan 10 2017","@","Los Angeles Lakers","W",NA,108,87,17,23,"W 1",2017-01-10
+"615",615,"Portland Trail Blazers",41,"Wed Jan 11 2017","vs","Cleveland Cavaliers","W",NA,102,86,18,23,"W 2",2017-01-11
+"616",616,"Portland Trail Blazers",42,"Fri Jan 13 2017","vs","Orlando Magic","L",NA,109,115,18,24,"L 1",2017-01-13
+"617",617,"Portland Trail Blazers",43,"Mon Jan 16 2017","@","Washington Wizards","L",NA,101,120,18,25,"L 2",2017-01-16
+"618",618,"Portland Trail Blazers",44,"Wed Jan 18 2017","@","Charlotte Hornets","L",NA,85,107,18,26,"L 3",2017-01-18
+"619",619,"Portland Trail Blazers",45,"Fri Jan 20 2017","@","Philadelphia 76ers","L",NA,92,93,18,27,"L 4",2017-01-20
+"620",620,"Portland Trail Blazers",46,"Sat Jan 21 2017","@","Boston Celtics","W","OT",127,123,19,27,"W 1",2017-01-21
+"621",621,"Portland Trail Blazers",47,"Wed Jan 25 2017","vs","Los Angeles Lakers","W",NA,105,98,20,27,"W 2",2017-01-25
+"622",622,"Portland Trail Blazers",48,"Fri Jan 27 2017","vs","Memphis Grizzlies","W",NA,112,109,21,27,"W 3",2017-01-27
+"623",623,"Portland Trail Blazers",49,"Sun Jan 29 2017","vs","Golden State Warriors","L",NA,111,113,21,28,"L 1",2017-01-29
+"624",624,"Portland Trail Blazers",50,"Tue Jan 31 2017","vs","Charlotte Hornets","W",NA,115,98,22,28,"W 1",2017-01-31
+"625",625,"Portland Trail Blazers",51,"Fri Feb 3 2017","vs","Dallas Mavericks","L",NA,104,108,22,29,"L 1",2017-02-03
+"626",626,"Portland Trail Blazers",52,"Sun Feb 5 2017","@","Oklahoma City Thunder","L",NA,99,105,22,30,"L 2",2017-02-05
+"627",627,"Portland Trail Blazers",53,"Tue Feb 7 2017","@","Dallas Mavericks","W",NA,114,113,23,30,"W 1",2017-02-07
+"628",628,"Portland Trail Blazers",54,"Thu Feb 9 2017","vs","Boston Celtics","L",NA,111,120,23,31,"L 1",2017-02-09
+"629",629,"Portland Trail Blazers",55,"Mon Feb 13 2017","vs","Atlanta Hawks","L","OT",104,109,23,32,"L 2",2017-02-13
+"630",630,"Portland Trail Blazers",56,"Wed Feb 15 2017","@","Utah Jazz","L",NA,88,111,23,33,"L 3",2017-02-15
+"631",631,"Portland Trail Blazers",57,"Thu Feb 23 2017","@","Orlando Magic","W",NA,112,103,24,33,"W 1",2017-02-23
+"632",632,"Portland Trail Blazers",58,"Sun Feb 26 2017","@","Toronto Raptors","L",NA,106,112,24,34,"L 1",2017-02-26
+"633",633,"Portland Trail Blazers",59,"Tue Feb 28 2017","@","Detroit Pistons","L","OT",113,120,24,35,"L 2",2017-02-28
+"634",634,"Portland Trail Blazers",60,"Thu Mar 2 2017","vs","Oklahoma City Thunder","W",NA,114,109,25,35,"W 1",2017-03-02
+"635",635,"Portland Trail Blazers",61,"Sat Mar 4 2017","vs","Brooklyn Nets","W",NA,130,116,26,35,"W 2",2017-03-04
+"636",636,"Portland Trail Blazers",62,"Tue Mar 7 2017","@","Oklahoma City Thunder","W",NA,126,121,27,35,"W 3",2017-03-07
+"637",637,"Portland Trail Blazers",63,"Thu Mar 9 2017","vs","Philadelphia 76ers","W","OT",114,108,28,35,"W 4",2017-03-09
+"638",638,"Portland Trail Blazers",64,"Sat Mar 11 2017","vs","Washington Wizards","L","OT",124,125,28,36,"L 1",2017-03-11
+"639",639,"Portland Trail Blazers",65,"Sun Mar 12 2017","@","Phoenix Suns","W",NA,110,101,29,36,"W 1",2017-03-12
+"640",640,"Portland Trail Blazers",66,"Tue Mar 14 2017","@","New Orleans Pelicans","L",NA,77,100,29,37,"L 1",2017-03-14
+"641",641,"Portland Trail Blazers",67,"Wed Mar 15 2017","@","San Antonio Spurs","W",NA,110,106,30,37,"W 1",2017-03-15
+"642",642,"Portland Trail Blazers",68,"Sat Mar 18 2017","@","Atlanta Hawks","W",NA,113,97,31,37,"W 2",2017-03-18
+"643",643,"Portland Trail Blazers",69,"Sun Mar 19 2017","@","Miami Heat","W",NA,115,104,32,37,"W 3",2017-03-19
+"644",644,"Portland Trail Blazers",70,"Tue Mar 21 2017","vs","Milwaukee Bucks","L",NA,90,93,32,38,"L 1",2017-03-21
+"645",645,"Portland Trail Blazers",71,"Thu Mar 23 2017","vs","New York Knicks","W",NA,110,95,33,38,"W 1",2017-03-23
+"646",646,"Portland Trail Blazers",72,"Sat Mar 25 2017","vs","Minnesota Timberwolves","W",NA,112,100,34,38,"W 2",2017-03-25
+"647",647,"Portland Trail Blazers",73,"Sun Mar 26 2017","@","Los Angeles Lakers","W",NA,97,81,35,38,"W 3",2017-03-26
+"648",648,"Portland Trail Blazers",74,"Tue Mar 28 2017","vs","Denver Nuggets","W",NA,122,113,36,38,"W 4",2017-03-28
+"649",649,"Portland Trail Blazers",75,"Thu Mar 30 2017","vs","Houston Rockets","W",NA,117,107,37,38,"W 5",2017-03-30
+"650",650,"Portland Trail Blazers",76,"Sat Apr 1 2017","vs","Phoenix Suns","W",NA,130,117,38,38,"W 6",2017-04-01
+"651",651,"Portland Trail Blazers",77,"Mon Apr 3 2017","@","Minnesota Timberwolves","L",NA,109,110,38,39,"L 1",2017-04-03
+"652",652,"Portland Trail Blazers",78,"Tue Apr 4 2017","@","Utah Jazz","L",NA,87,106,38,40,"L 2",2017-04-04
+"653",653,"Portland Trail Blazers",79,"Thu Apr 6 2017","vs","Minnesota Timberwolves","W",NA,105,98,39,40,"W 1",2017-04-06
+"654",654,"Portland Trail Blazers",80,"Sat Apr 8 2017","vs","Utah Jazz","W",NA,101,86,40,40,"W 2",2017-04-08
+"655",655,"Portland Trail Blazers",81,"Mon Apr 10 2017","vs","San Antonio Spurs","W",NA,99,98,41,40,"W 3",2017-04-10
+"656",656,"Portland Trail Blazers",82,"Wed Apr 12 2017","vs","New Orleans Pelicans","L",NA,100,103,41,41,"L 1",2017-04-12
+"657",657,"Denver Nuggets",1,"Wed Oct 26 2016","@","New Orleans Pelicans","W",NA,107,102,1,0,"W 1",2016-10-26
+"658",658,"Denver Nuggets",2,"Sat Oct 29 2016","vs","Portland Trail Blazers","L","OT",113,115,1,1,"L 1",2016-10-29
+"659",659,"Denver Nuggets",3,"Mon Oct 31 2016","@","Toronto Raptors","L",NA,102,105,1,2,"L 2",2016-10-31
+"660",660,"Denver Nuggets",4,"Thu Nov 3 2016","@","Minnesota Timberwolves","W",NA,102,99,2,2,"W 1",2016-11-03
+"661",661,"Denver Nuggets",5,"Sat Nov 5 2016","@","Detroit Pistons","L",NA,86,103,2,3,"L 1",2016-11-05
+"662",662,"Denver Nuggets",6,"Sun Nov 6 2016","@","Boston Celtics","W",NA,123,107,3,3,"W 1",2016-11-06
+"663",663,"Denver Nuggets",7,"Tue Nov 8 2016","@","Memphis Grizzlies","L",NA,107,108,3,4,"L 1",2016-11-08
+"664",664,"Denver Nuggets",8,"Thu Nov 10 2016","vs","Golden State Warriors","L",NA,101,125,3,5,"L 2",2016-11-10
+"665",665,"Denver Nuggets",9,"Sat Nov 12 2016","vs","Detroit Pistons","L",NA,95,106,3,6,"L 3",2016-11-12
+"666",666,"Denver Nuggets",10,"Sun Nov 13 2016","@","Portland Trail Blazers","L",NA,105,112,3,7,"L 4",2016-11-13
+"667",667,"Denver Nuggets",11,"Wed Nov 16 2016","vs","Phoenix Suns","W",NA,120,104,4,7,"W 1",2016-11-16
+"668",668,"Denver Nuggets",12,"Fri Nov 18 2016","vs","Toronto Raptors","L","OT",111,113,4,8,"L 1",2016-11-18
+"669",669,"Denver Nuggets",13,"Sun Nov 20 2016","vs","Utah Jazz","W",NA,105,91,5,8,"W 1",2016-11-20
+"670",670,"Denver Nuggets",14,"Tue Nov 22 2016","vs","Chicago Bulls","W",NA,110,107,6,8,"W 2",2016-11-22
+"671",671,"Denver Nuggets",15,"Wed Nov 23 2016","@","Utah Jazz","L",NA,83,108,6,9,"L 1",2016-11-23
+"672",672,"Denver Nuggets",16,"Fri Nov 25 2016","vs","Oklahoma City Thunder","L","OT",129,132,6,10,"L 2",2016-11-25
+"673",673,"Denver Nuggets",17,"Sun Nov 27 2016","@","Phoenix Suns","W",NA,120,114,7,10,"W 1",2016-11-27
+"674",674,"Denver Nuggets",18,"Wed Nov 30 2016","vs","Miami Heat","L",NA,98,106,7,11,"L 1",2016-11-30
+"675",675,"Denver Nuggets",19,"Fri Dec 2 2016","vs","Houston Rockets","L",NA,110,128,7,12,"L 2",2016-12-02
+"676",676,"Denver Nuggets",20,"Sat Dec 3 2016","@","Utah Jazz","L",NA,98,105,7,13,"L 3",2016-12-03
+"677",677,"Denver Nuggets",21,"Mon Dec 5 2016","@","Philadelphia 76ers","W",NA,106,98,8,13,"W 1",2016-12-05
+"678",678,"Denver Nuggets",22,"Wed Dec 7 2016","@","Brooklyn Nets","L",NA,111,116,8,14,"L 1",2016-12-07
+"679",679,"Denver Nuggets",23,"Thu Dec 8 2016","@","Washington Wizards","L",NA,85,92,8,15,"L 2",2016-12-08
+"680",680,"Denver Nuggets",24,"Sat Dec 10 2016","@","Orlando Magic","W",NA,121,113,9,15,"W 1",2016-12-10
+"681",681,"Denver Nuggets",25,"Mon Dec 12 2016","@","Dallas Mavericks","L",NA,92,112,9,16,"L 1",2016-12-12
+"682",682,"Denver Nuggets",26,"Thu Dec 15 2016","vs","Portland Trail Blazers","W",NA,132,120,10,16,"W 1",2016-12-15
+"683",683,"Denver Nuggets",27,"Sat Dec 17 2016","vs","New York Knicks","W",NA,127,114,11,16,"W 2",2016-12-17
+"684",684,"Denver Nuggets",28,"Mon Dec 19 2016","vs","Dallas Mavericks","W",NA,117,107,12,16,"W 3",2016-12-19
+"685",685,"Denver Nuggets",29,"Tue Dec 20 2016","@","Los Angeles Clippers","L",NA,102,119,12,17,"L 1",2016-12-20
+"686",686,"Denver Nuggets",30,"Fri Dec 23 2016","vs","Atlanta Hawks","L",NA,108,109,12,18,"L 2",2016-12-23
+"687",687,"Denver Nuggets",31,"Mon Dec 26 2016","@","Los Angeles Clippers","W",NA,106,102,13,18,"W 1",2016-12-26
+"688",688,"Denver Nuggets",32,"Wed Dec 28 2016","vs","Minnesota Timberwolves","W",NA,105,103,14,18,"W 2",2016-12-28
+"689",689,"Denver Nuggets",33,"Fri Dec 30 2016","vs","Philadelphia 76ers","L",NA,122,124,14,19,"L 1",2016-12-30
+"690",690,"Denver Nuggets",34,"Mon Jan 2 2017","@","Golden State Warriors","L",NA,119,127,14,20,"L 2",2017-01-02
+"691",691,"Denver Nuggets",35,"Tue Jan 3 2017","vs","Sacramento Kings","L",NA,113,120,14,21,"L 3",2017-01-03
+"692",692,"Denver Nuggets",36,"Thu Jan 5 2017","vs","San Antonio Spurs","L",NA,99,127,14,22,"L 4",2017-01-05
+"693",693,"Denver Nuggets",37,"Sat Jan 7 2017","@","Oklahoma City Thunder","L",NA,106,121,14,23,"L 5",2017-01-07
+"694",694,"Denver Nuggets",38,"Thu Jan 12 2017","vs","Indiana Pacers","W",NA,140,112,15,23,"W 1",2017-01-12
+"695",695,"Denver Nuggets",39,"Mon Jan 16 2017","vs","Orlando Magic","W",NA,125,112,16,23,"W 2",2017-01-16
+"696",696,"Denver Nuggets",40,"Tue Jan 17 2017","@","Los Angeles Lakers","W",NA,127,121,17,23,"W 3",2017-01-17
+"697",697,"Denver Nuggets",41,"Thu Jan 19 2017","@","San Antonio Spurs","L",NA,104,118,17,24,"L 1",2017-01-19
+"698",698,"Denver Nuggets",42,"Sat Jan 21 2017","vs","Los Angeles Clippers","W",NA,123,98,18,24,"W 1",2017-01-21
+"699",699,"Denver Nuggets",43,"Sun Jan 22 2017","@","Minnesota Timberwolves","L",NA,108,111,18,25,"L 1",2017-01-22
+"700",700,"Denver Nuggets",44,"Tue Jan 24 2017","vs","Utah Jazz","W",NA,103,93,19,25,"W 1",2017-01-24
+"701",701,"Denver Nuggets",45,"Thu Jan 26 2017","vs","Phoenix Suns","W",NA,127,120,20,25,"W 2",2017-01-26
+"702",702,"Denver Nuggets",46,"Sat Jan 28 2017","@","Phoenix Suns","W",NA,123,112,21,25,"W 3",2017-01-28
+"703",703,"Denver Nuggets",47,"Tue Jan 31 2017","@","Los Angeles Lakers","L",NA,116,120,21,26,"L 1",2017-01-31
+"704",704,"Denver Nuggets",48,"Wed Feb 1 2017","vs","Memphis Grizzlies","L",NA,99,119,21,27,"L 2",2017-02-01
+"705",705,"Denver Nuggets",49,"Fri Feb 3 2017","vs","Milwaukee Bucks","W",NA,121,117,22,27,"W 1",2017-02-03
+"706",706,"Denver Nuggets",50,"Sat Feb 4 2017","@","San Antonio Spurs","L",NA,97,121,22,28,"L 1",2017-02-04
+"707",707,"Denver Nuggets",51,"Mon Feb 6 2017","vs","Dallas Mavericks","W",NA,110,87,23,28,"W 1",2017-02-06
+"708",708,"Denver Nuggets",52,"Wed Feb 8 2017","@","Atlanta Hawks","L",NA,106,117,23,29,"L 1",2017-02-08
+"709",709,"Denver Nuggets",53,"Fri Feb 10 2017","@","New York Knicks","W",NA,131,123,24,29,"W 1",2017-02-10
+"710",710,"Denver Nuggets",54,"Sat Feb 11 2017","@","Cleveland Cavaliers","L",NA,109,125,24,30,"L 1",2017-02-11
+"711",711,"Denver Nuggets",55,"Mon Feb 13 2017","vs","Golden State Warriors","W",NA,132,110,25,30,"W 1",2017-02-13
+"712",712,"Denver Nuggets",56,"Wed Feb 15 2017","vs","Minnesota Timberwolves","L",NA,99,112,25,31,"L 1",2017-02-15
+"713",713,"Denver Nuggets",57,"Thu Feb 23 2017","@","Sacramento Kings","L",NA,100,116,25,32,"L 2",2017-02-23
+"714",714,"Denver Nuggets",58,"Fri Feb 24 2017","vs","Brooklyn Nets","W",NA,129,109,26,32,"W 1",2017-02-24
+"715",715,"Denver Nuggets",59,"Sun Feb 26 2017","vs","Memphis Grizzlies","L",NA,98,105,26,33,"L 1",2017-02-26
+"716",716,"Denver Nuggets",60,"Tue Feb 28 2017","@","Chicago Bulls","W",NA,125,107,27,33,"W 1",2017-02-28
+"717",717,"Denver Nuggets",61,"Wed Mar 1 2017","@","Milwaukee Bucks","W",NA,110,98,28,33,"W 2",2017-03-01
+"718",718,"Denver Nuggets",62,"Sat Mar 4 2017","vs","Charlotte Hornets","L",NA,102,112,28,34,"L 1",2017-03-04
+"719",719,"Denver Nuggets",63,"Mon Mar 6 2017","vs","Sacramento Kings","W",NA,108,96,29,34,"W 1",2017-03-06
+"720",720,"Denver Nuggets",64,"Wed Mar 8 2017","vs","Washington Wizards","L",NA,113,123,29,35,"L 1",2017-03-08
+"721",721,"Denver Nuggets",65,"Fri Mar 10 2017","vs","Boston Celtics","W",NA,119,99,30,35,"W 1",2017-03-10
+"722",722,"Denver Nuggets",66,"Sat Mar 11 2017","@","Sacramento Kings","W",NA,105,92,31,35,"W 2",2017-03-11
+"723",723,"Denver Nuggets",67,"Mon Mar 13 2017","vs","Los Angeles Lakers","W",NA,129,101,32,35,"W 3",2017-03-13
+"724",724,"Denver Nuggets",68,"Thu Mar 16 2017","vs","Los Angeles Clippers","W",NA,129,114,33,35,"W 4",2017-03-16
+"725",725,"Denver Nuggets",69,"Sat Mar 18 2017","vs","Houston Rockets","L",NA,105,109,33,36,"L 1",2017-03-18
+"726",726,"Denver Nuggets",70,"Mon Mar 20 2017","@","Houston Rockets","L",NA,124,125,33,37,"L 2",2017-03-20
+"727",727,"Denver Nuggets",71,"Wed Mar 22 2017","vs","Cleveland Cavaliers","W",NA,126,113,34,37,"W 1",2017-03-22
+"728",728,"Denver Nuggets",72,"Fri Mar 24 2017","@","Indiana Pacers","W",NA,125,117,35,37,"W 2",2017-03-24
+"729",729,"Denver Nuggets",73,"Sun Mar 26 2017","vs","New Orleans Pelicans","L",NA,90,115,35,38,"L 1",2017-03-26
+"730",730,"Denver Nuggets",74,"Tue Mar 28 2017","@","Portland Trail Blazers","L",NA,113,122,35,39,"L 2",2017-03-28
+"731",731,"Denver Nuggets",75,"Fri Mar 31 2017","@","Charlotte Hornets","L",NA,114,122,35,40,"L 3",2017-03-31
+"732",732,"Denver Nuggets",76,"Sun Apr 2 2017","@","Miami Heat","W",NA,116,113,36,40,"W 1",2017-04-02
+"733",733,"Denver Nuggets",77,"Tue Apr 4 2017","@","New Orleans Pelicans","W",NA,134,131,37,40,"W 2",2017-04-04
+"734",734,"Denver Nuggets",78,"Wed Apr 5 2017","@","Houston Rockets","L",NA,104,110,37,41,"L 1",2017-04-05
+"735",735,"Denver Nuggets",79,"Fri Apr 7 2017","vs","New Orleans Pelicans","W",NA,122,106,38,41,"W 1",2017-04-07
+"736",736,"Denver Nuggets",80,"Sun Apr 9 2017","vs","Oklahoma City Thunder","L",NA,105,106,38,42,"L 1",2017-04-09
+"737",737,"Denver Nuggets",81,"Tue Apr 11 2017","@","Dallas Mavericks","W",NA,109,91,39,42,"W 1",2017-04-11
+"738",738,"Denver Nuggets",82,"Wed Apr 12 2017","@","Oklahoma City Thunder","W",NA,111,105,40,42,"W 2",2017-04-12
+"739",739,"New Orleans Pelicans",1,"Wed Oct 26 2016","vs","Denver Nuggets","L",NA,102,107,0,1,"L 1",2016-10-26
+"740",740,"New Orleans Pelicans",2,"Fri Oct 28 2016","vs","Golden State Warriors","L",NA,114,122,0,2,"L 2",2016-10-28
+"741",741,"New Orleans Pelicans",3,"Sat Oct 29 2016","@","San Antonio Spurs","L",NA,79,98,0,3,"L 3",2016-10-29
+"742",742,"New Orleans Pelicans",4,"Tue Nov 1 2016","vs","Milwaukee Bucks","L",NA,113,117,0,4,"L 4",2016-11-01
+"743",743,"New Orleans Pelicans",5,"Wed Nov 2 2016","@","Memphis Grizzlies","L","OT",83,89,0,5,"L 5",2016-11-02
+"744",744,"New Orleans Pelicans",6,"Fri Nov 4 2016","vs","Phoenix Suns","L","OT",111,112,0,6,"L 6",2016-11-04
+"745",745,"New Orleans Pelicans",7,"Mon Nov 7 2016","@","Golden State Warriors","L",NA,106,116,0,7,"L 7",2016-11-07
+"746",746,"New Orleans Pelicans",8,"Tue Nov 8 2016","@","Sacramento Kings","L",NA,94,102,0,8,"L 8",2016-11-08
+"747",747,"New Orleans Pelicans",9,"Thu Nov 10 2016","@","Milwaukee Bucks","W",NA,112,106,1,8,"W 1",2016-11-10
+"748",748,"New Orleans Pelicans",10,"Sat Nov 12 2016","vs","Los Angeles Lakers","L",NA,99,126,1,9,"L 1",2016-11-12
+"749",749,"New Orleans Pelicans",11,"Mon Nov 14 2016","vs","Boston Celtics","W",NA,106,105,2,9,"W 1",2016-11-14
+"750",750,"New Orleans Pelicans",12,"Wed Nov 16 2016","@","Orlando Magic","L",NA,82,89,2,10,"L 1",2016-11-16
+"751",751,"New Orleans Pelicans",13,"Fri Nov 18 2016","vs","Portland Trail Blazers","W",NA,113,101,3,10,"W 1",2016-11-18
+"752",752,"New Orleans Pelicans",14,"Sat Nov 19 2016","vs","Charlotte Hornets","W","OT",121,116,4,10,"W 2",2016-11-19
+"753",753,"New Orleans Pelicans",15,"Tue Nov 22 2016","@","Atlanta Hawks","W",NA,112,94,5,10,"W 3",2016-11-22
+"754",754,"New Orleans Pelicans",16,"Wed Nov 23 2016","vs","Minnesota Timberwolves","W",NA,117,96,6,10,"W 4",2016-11-23
+"755",755,"New Orleans Pelicans",17,"Fri Nov 25 2016","@","Portland Trail Blazers","L",NA,104,119,6,11,"L 1",2016-11-25
+"756",756,"New Orleans Pelicans",18,"Sun Nov 27 2016","@","Dallas Mavericks","L",NA,81,91,6,12,"L 2",2016-11-27
+"757",757,"New Orleans Pelicans",19,"Tue Nov 29 2016","vs","Los Angeles Lakers","W",NA,105,88,7,12,"W 1",2016-11-29
+"758",758,"New Orleans Pelicans",20,"Fri Dec 2 2016","vs","Los Angeles Clippers","L",NA,96,114,7,13,"L 1",2016-12-02
+"759",759,"New Orleans Pelicans",21,"Sun Dec 4 2016","@","Oklahoma City Thunder","L",NA,92,101,7,14,"L 2",2016-12-04
+"760",760,"New Orleans Pelicans",22,"Mon Dec 5 2016","vs","Memphis Grizzlies","L","2OT",108,110,7,15,"L 3",2016-12-05
+"761",761,"New Orleans Pelicans",23,"Thu Dec 8 2016","vs","Philadelphia 76ers","L",NA,88,99,7,16,"L 4",2016-12-08
+"762",762,"New Orleans Pelicans",24,"Sat Dec 10 2016","@","Los Angeles Clippers","L",NA,105,133,7,17,"L 5",2016-12-10
+"763",763,"New Orleans Pelicans",25,"Sun Dec 11 2016","@","Phoenix Suns","W","OT",120,119,8,17,"W 1",2016-12-11
+"764",764,"New Orleans Pelicans",26,"Tue Dec 13 2016","vs","Golden State Warriors","L",NA,109,113,8,18,"L 1",2016-12-13
+"765",765,"New Orleans Pelicans",27,"Thu Dec 15 2016","vs","Indiana Pacers","W",NA,102,95,9,18,"W 1",2016-12-15
+"766",766,"New Orleans Pelicans",28,"Fri Dec 16 2016","@","Houston Rockets","L",NA,100,122,9,19,"L 1",2016-12-16
+"767",767,"New Orleans Pelicans",29,"Sun Dec 18 2016","@","San Antonio Spurs","L",NA,100,113,9,20,"L 2",2016-12-18
+"768",768,"New Orleans Pelicans",30,"Tue Dec 20 2016","@","Philadelphia 76ers","W",NA,108,93,10,20,"W 1",2016-12-20
+"769",769,"New Orleans Pelicans",31,"Wed Dec 21 2016","vs","Oklahoma City Thunder","L",NA,110,121,10,21,"L 1",2016-12-21
+"770",770,"New Orleans Pelicans",32,"Fri Dec 23 2016","vs","Miami Heat","W",NA,91,87,11,21,"W 1",2016-12-23
+"771",771,"New Orleans Pelicans",33,"Mon Dec 26 2016","vs","Dallas Mavericks","W",NA,111,104,12,21,"W 2",2016-12-26
+"772",772,"New Orleans Pelicans",34,"Wed Dec 28 2016","vs","Los Angeles Clippers","W",NA,102,98,13,21,"W 3",2016-12-28
+"773",773,"New Orleans Pelicans",35,"Fri Dec 30 2016","vs","New York Knicks","W",NA,104,92,14,21,"W 4",2016-12-30
+"774",774,"New Orleans Pelicans",36,"Mon Jan 2 2017","@","Cleveland Cavaliers","L",NA,82,90,14,22,"L 1",2017-01-02
+"775",775,"New Orleans Pelicans",37,"Thu Jan 5 2017","vs","Atlanta Hawks","L",NA,94,99,14,23,"L 2",2017-01-05
+"776",776,"New Orleans Pelicans",38,"Sat Jan 7 2017","@","Boston Celtics","L",NA,108,117,14,24,"L 3",2017-01-07
+"777",777,"New Orleans Pelicans",39,"Mon Jan 9 2017","@","New York Knicks","W",NA,110,96,15,24,"W 1",2017-01-09
+"778",778,"New Orleans Pelicans",40,"Thu Jan 12 2017","@","Brooklyn Nets","W",NA,104,95,16,24,"W 2",2017-01-12
+"779",779,"New Orleans Pelicans",41,"Sat Jan 14 2017","@","Chicago Bulls","L",NA,99,107,16,25,"L 1",2017-01-14
+"780",780,"New Orleans Pelicans",42,"Mon Jan 16 2017","@","Indiana Pacers","L",NA,95,98,16,26,"L 2",2017-01-16
+"781",781,"New Orleans Pelicans",43,"Wed Jan 18 2017","vs","Orlando Magic","W",NA,118,98,17,26,"W 1",2017-01-18
+"782",782,"New Orleans Pelicans",44,"Fri Jan 20 2017","vs","Brooklyn Nets","L",NA,114,143,17,27,"L 1",2017-01-20
+"783",783,"New Orleans Pelicans",45,"Mon Jan 23 2017","vs","Cleveland Cavaliers","W",NA,124,122,18,27,"W 1",2017-01-23
+"784",784,"New Orleans Pelicans",46,"Wed Jan 25 2017","vs","Oklahoma City Thunder","L",NA,105,114,18,28,"L 1",2017-01-25
+"785",785,"New Orleans Pelicans",47,"Fri Jan 27 2017","vs","San Antonio Spurs","W",NA,119,103,19,28,"W 1",2017-01-27
+"786",786,"New Orleans Pelicans",48,"Sun Jan 29 2017","vs","Washington Wizards","L",NA,94,107,19,29,"L 1",2017-01-29
+"787",787,"New Orleans Pelicans",49,"Tue Jan 31 2017","@","Toronto Raptors","L","OT",106,108,19,30,"L 2",2017-01-31
+"788",788,"New Orleans Pelicans",50,"Wed Feb 1 2017","@","Detroit Pistons","L",NA,98,118,19,31,"L 3",2017-02-01
+"789",789,"New Orleans Pelicans",51,"Sat Feb 4 2017","@","Washington Wizards","L",NA,91,105,19,32,"L 4",2017-02-04
+"790",790,"New Orleans Pelicans",52,"Mon Feb 6 2017","vs","Phoenix Suns","W",NA,111,106,20,32,"W 1",2017-02-06
+"791",791,"New Orleans Pelicans",53,"Wed Feb 8 2017","vs","Utah Jazz","L",NA,94,127,20,33,"L 1",2017-02-08
+"792",792,"New Orleans Pelicans",54,"Fri Feb 10 2017","@","Minnesota Timberwolves","W",NA,122,106,21,33,"W 1",2017-02-10
+"793",793,"New Orleans Pelicans",55,"Sun Feb 12 2017","@","Sacramento Kings","L",NA,99,105,21,34,"L 1",2017-02-12
+"794",794,"New Orleans Pelicans",56,"Mon Feb 13 2017","@","Phoenix Suns","W",NA,110,108,22,34,"W 1",2017-02-13
+"795",795,"New Orleans Pelicans",57,"Wed Feb 15 2017","@","Memphis Grizzlies","W",NA,95,91,23,34,"W 2",2017-02-15
+"796",796,"New Orleans Pelicans",58,"Thu Feb 23 2017","vs","Houston Rockets","L",NA,99,129,23,35,"L 1",2017-02-23
+"797",797,"New Orleans Pelicans",59,"Sat Feb 25 2017","@","Dallas Mavericks","L",NA,83,96,23,36,"L 2",2017-02-25
+"798",798,"New Orleans Pelicans",60,"Sun Feb 26 2017","@","Oklahoma City Thunder","L",NA,110,118,23,37,"L 3",2017-02-26
+"799",799,"New Orleans Pelicans",61,"Wed Mar 1 2017","vs","Detroit Pistons","W",NA,109,86,24,37,"W 1",2017-03-01
+"800",800,"New Orleans Pelicans",62,"Fri Mar 3 2017","vs","San Antonio Spurs","L","OT",98,101,24,38,"L 1",2017-03-03
+"801",801,"New Orleans Pelicans",63,"Sun Mar 5 2017","@","Los Angeles Lakers","W",NA,105,97,25,38,"W 1",2017-03-05
+"802",802,"New Orleans Pelicans",64,"Mon Mar 6 2017","@","Utah Jazz","L",NA,83,88,25,39,"L 1",2017-03-06
+"803",803,"New Orleans Pelicans",65,"Wed Mar 8 2017","vs","Toronto Raptors","L",NA,87,94,25,40,"L 2",2017-03-08
+"804",804,"New Orleans Pelicans",66,"Sat Mar 11 2017","@","Charlotte Hornets","W","OT",125,122,26,40,"W 1",2017-03-11
+"805",805,"New Orleans Pelicans",67,"Tue Mar 14 2017","vs","Portland Trail Blazers","W",NA,100,77,27,40,"W 2",2017-03-14
+"806",806,"New Orleans Pelicans",68,"Wed Mar 15 2017","@","Miami Heat","L",NA,112,120,27,41,"L 1",2017-03-15
+"807",807,"New Orleans Pelicans",69,"Fri Mar 17 2017","vs","Houston Rockets","W",NA,128,112,28,41,"W 1",2017-03-17
+"808",808,"New Orleans Pelicans",70,"Sun Mar 19 2017","vs","Minnesota Timberwolves","W",NA,123,109,29,41,"W 2",2017-03-19
+"809",809,"New Orleans Pelicans",71,"Tue Mar 21 2017","vs","Memphis Grizzlies","W",NA,95,82,30,41,"W 3",2017-03-21
+"810",810,"New Orleans Pelicans",72,"Fri Mar 24 2017","@","Houston Rockets","L",NA,107,117,30,42,"L 1",2017-03-24
+"811",811,"New Orleans Pelicans",73,"Sun Mar 26 2017","@","Denver Nuggets","W",NA,115,90,31,42,"W 1",2017-03-26
+"812",812,"New Orleans Pelicans",74,"Mon Mar 27 2017","@","Utah Jazz","L",NA,100,108,31,43,"L 1",2017-03-27
+"813",813,"New Orleans Pelicans",75,"Wed Mar 29 2017","vs","Dallas Mavericks","W",NA,121,118,32,43,"W 1",2017-03-29
+"814",814,"New Orleans Pelicans",76,"Fri Mar 31 2017","vs","Sacramento Kings","W",NA,117,89,33,43,"W 2",2017-03-31
+"815",815,"New Orleans Pelicans",77,"Sun Apr 2 2017","vs","Chicago Bulls","L",NA,110,117,33,44,"L 1",2017-04-02
+"816",816,"New Orleans Pelicans",78,"Tue Apr 4 2017","vs","Denver Nuggets","L",NA,131,134,33,45,"L 2",2017-04-04
+"817",817,"New Orleans Pelicans",79,"Fri Apr 7 2017","@","Denver Nuggets","L",NA,106,122,33,46,"L 3",2017-04-07
+"818",818,"New Orleans Pelicans",80,"Sat Apr 8 2017","@","Golden State Warriors","L",NA,101,123,33,47,"L 4",2017-04-08
+"819",819,"New Orleans Pelicans",81,"Tue Apr 11 2017","@","Los Angeles Lakers","L",NA,96,108,33,48,"L 5",2017-04-11
+"820",820,"New Orleans Pelicans",82,"Wed Apr 12 2017","@","Portland Trail Blazers","W",NA,103,100,34,48,"W 1",2017-04-12
+"821",821,"Dallas Mavericks",1,"Wed Oct 26 2016","@","Indiana Pacers","L","OT",121,130,0,1,"L 1",2016-10-26
+"822",822,"Dallas Mavericks",2,"Fri Oct 28 2016","vs","Houston Rockets","L",NA,98,106,0,2,"L 2",2016-10-28
+"823",823,"Dallas Mavericks",3,"Sun Oct 30 2016","@","Houston Rockets","L",NA,92,93,0,3,"L 3",2016-10-30
+"824",824,"Dallas Mavericks",4,"Wed Nov 2 2016","@","Utah Jazz","L",NA,81,97,0,4,"L 4",2016-11-02
+"825",825,"Dallas Mavericks",5,"Fri Nov 4 2016","vs","Portland Trail Blazers","L",NA,95,105,0,5,"L 5",2016-11-04
+"826",826,"Dallas Mavericks",6,"Sun Nov 6 2016","vs","Milwaukee Bucks","W","OT",86,75,1,5,"W 1",2016-11-06
+"827",827,"Dallas Mavericks",7,"Tue Nov 8 2016","@","Los Angeles Lakers","W",NA,109,97,2,5,"W 2",2016-11-08
+"828",828,"Dallas Mavericks",8,"Wed Nov 9 2016","@","Golden State Warriors","L",NA,95,116,2,6,"L 1",2016-11-09
+"829",829,"Dallas Mavericks",9,"Mon Nov 14 2016","@","New York Knicks","L",NA,77,93,2,7,"L 2",2016-11-14
+"830",830,"Dallas Mavericks",10,"Wed Nov 16 2016","@","Boston Celtics","L",NA,83,90,2,8,"L 3",2016-11-16
+"831",831,"Dallas Mavericks",11,"Fri Nov 18 2016","vs","Memphis Grizzlies","L",NA,64,80,2,9,"L 4",2016-11-18
+"832",832,"Dallas Mavericks",12,"Sat Nov 19 2016","@","Orlando Magic","L",NA,87,95,2,10,"L 5",2016-11-19
+"833",833,"Dallas Mavericks",13,"Mon Nov 21 2016","@","San Antonio Spurs","L",NA,91,96,2,11,"L 6",2016-11-21
+"834",834,"Dallas Mavericks",14,"Wed Nov 23 2016","vs","Los Angeles Clippers","L",NA,104,124,2,12,"L 7",2016-11-23
+"835",835,"Dallas Mavericks",15,"Fri Nov 25 2016","@","Cleveland Cavaliers","L",NA,90,128,2,13,"L 8",2016-11-25
+"836",836,"Dallas Mavericks",16,"Sun Nov 27 2016","vs","New Orleans Pelicans","W",NA,91,81,3,13,"W 1",2016-11-27
+"837",837,"Dallas Mavericks",17,"Wed Nov 30 2016","vs","San Antonio Spurs","L",NA,87,94,3,14,"L 1",2016-11-30
+"838",838,"Dallas Mavericks",18,"Thu Dec 1 2016","@","Charlotte Hornets","L",NA,87,97,3,15,"L 2",2016-12-01
+"839",839,"Dallas Mavericks",19,"Sat Dec 3 2016","vs","Chicago Bulls","W",NA,107,82,4,15,"W 1",2016-12-03
+"840",840,"Dallas Mavericks",20,"Mon Dec 5 2016","vs","Charlotte Hornets","L",NA,101,109,4,16,"L 1",2016-12-05
+"841",841,"Dallas Mavericks",21,"Wed Dec 7 2016","vs","Sacramento Kings","L",NA,89,120,4,17,"L 2",2016-12-07
+"842",842,"Dallas Mavericks",22,"Fri Dec 9 2016","vs","Indiana Pacers","W",NA,111,103,5,17,"W 1",2016-12-09
+"843",843,"Dallas Mavericks",23,"Sat Dec 10 2016","@","Houston Rockets","L",NA,87,109,5,18,"L 1",2016-12-10
+"844",844,"Dallas Mavericks",24,"Mon Dec 12 2016","vs","Denver Nuggets","W",NA,112,92,6,18,"W 1",2016-12-12
+"845",845,"Dallas Mavericks",25,"Wed Dec 14 2016","vs","Detroit Pistons","L",NA,85,95,6,19,"L 1",2016-12-14
+"846",846,"Dallas Mavericks",26,"Fri Dec 16 2016","@","Utah Jazz","L",NA,100,103,6,20,"L 2",2016-12-16
+"847",847,"Dallas Mavericks",27,"Sun Dec 18 2016","vs","Sacramento Kings","W",NA,99,79,7,20,"W 1",2016-12-18
+"848",848,"Dallas Mavericks",28,"Mon Dec 19 2016","@","Denver Nuggets","L",NA,107,117,7,21,"L 1",2016-12-19
+"849",849,"Dallas Mavericks",29,"Wed Dec 21 2016","@","Portland Trail Blazers","W",NA,96,95,8,21,"W 1",2016-12-21
+"850",850,"Dallas Mavericks",30,"Fri Dec 23 2016","@","Los Angeles Clippers","W",NA,90,88,9,21,"W 2",2016-12-23
+"851",851,"Dallas Mavericks",31,"Mon Dec 26 2016","@","New Orleans Pelicans","L",NA,104,111,9,22,"L 1",2016-12-26
+"852",852,"Dallas Mavericks",32,"Tue Dec 27 2016","vs","Houston Rockets","L",NA,107,123,9,23,"L 2",2016-12-27
+"853",853,"Dallas Mavericks",33,"Thu Dec 29 2016","@","Los Angeles Lakers","W",NA,101,89,10,23,"W 1",2016-12-29
+"854",854,"Dallas Mavericks",34,"Fri Dec 30 2016","@","Golden State Warriors","L",NA,99,108,10,24,"L 1",2016-12-30
+"855",855,"Dallas Mavericks",35,"Tue Jan 3 2017","vs","Washington Wizards","W",NA,113,105,11,24,"W 1",2017-01-03
+"856",856,"Dallas Mavericks",36,"Thu Jan 5 2017","vs","Phoenix Suns","L",NA,95,102,11,25,"L 1",2017-01-05
+"857",857,"Dallas Mavericks",37,"Sat Jan 7 2017","vs","Atlanta Hawks","L",NA,82,97,11,26,"L 2",2017-01-07
+"858",858,"Dallas Mavericks",38,"Mon Jan 9 2017","@","Minnesota Timberwolves","L",NA,92,101,11,27,"L 3",2017-01-09
+"859",859,"Dallas Mavericks",39,"Thu Jan 12 2017","@","Phoenix Suns","W",NA,113,108,12,27,"W 1",2017-01-12
+"860",860,"Dallas Mavericks",40,"Sun Jan 15 2017","vs","Minnesota Timberwolves","W",NA,98,87,13,27,"W 2",2017-01-15
+"861",861,"Dallas Mavericks",41,"Tue Jan 17 2017","@","Chicago Bulls","W",NA,99,98,14,27,"W 3",2017-01-17
+"862",862,"Dallas Mavericks",42,"Thu Jan 19 2017","@","Miami Heat","L",NA,95,99,14,28,"L 1",2017-01-19
+"863",863,"Dallas Mavericks",43,"Fri Jan 20 2017","vs","Utah Jazz","L","OT",107,112,14,29,"L 2",2017-01-20
+"864",864,"Dallas Mavericks",44,"Sun Jan 22 2017","vs","Los Angeles Lakers","W",NA,122,73,15,29,"W 1",2017-01-22
+"865",865,"Dallas Mavericks",45,"Wed Jan 25 2017","vs","New York Knicks","W",NA,103,95,16,29,"W 2",2017-01-25
+"866",866,"Dallas Mavericks",46,"Thu Jan 26 2017","@","Oklahoma City Thunder","L",NA,98,109,16,30,"L 1",2017-01-26
+"867",867,"Dallas Mavericks",47,"Sun Jan 29 2017","@","San Antonio Spurs","W",NA,105,101,17,30,"W 1",2017-01-29
+"868",868,"Dallas Mavericks",48,"Mon Jan 30 2017","vs","Cleveland Cavaliers","W",NA,104,97,18,30,"W 2",2017-01-30
+"869",869,"Dallas Mavericks",49,"Wed Feb 1 2017","vs","Philadelphia 76ers","W",NA,113,95,19,30,"W 3",2017-02-01
+"870",870,"Dallas Mavericks",50,"Fri Feb 3 2017","@","Portland Trail Blazers","W",NA,108,104,20,30,"W 4",2017-02-03
+"871",871,"Dallas Mavericks",51,"Mon Feb 6 2017","@","Denver Nuggets","L",NA,87,110,20,31,"L 1",2017-02-06
+"872",872,"Dallas Mavericks",52,"Tue Feb 7 2017","vs","Portland Trail Blazers","L",NA,113,114,20,32,"L 2",2017-02-07
+"873",873,"Dallas Mavericks",53,"Thu Feb 9 2017","vs","Utah Jazz","W","OT",112,105,21,32,"W 1",2017-02-09
+"874",874,"Dallas Mavericks",54,"Sat Feb 11 2017","vs","Orlando Magic","W",NA,112,80,22,32,"W 2",2017-02-11
+"875",875,"Dallas Mavericks",55,"Mon Feb 13 2017","vs","Boston Celtics","L",NA,98,111,22,33,"L 1",2017-02-13
+"876",876,"Dallas Mavericks",56,"Wed Feb 15 2017","@","Detroit Pistons","L",NA,91,98,22,34,"L 2",2017-02-15
+"877",877,"Dallas Mavericks",57,"Fri Feb 24 2017","@","Minnesota Timberwolves","L",NA,84,97,22,35,"L 3",2017-02-24
+"878",878,"Dallas Mavericks",58,"Sat Feb 25 2017","vs","New Orleans Pelicans","W",NA,96,83,23,35,"W 1",2017-02-25
+"879",879,"Dallas Mavericks",59,"Mon Feb 27 2017","vs","Miami Heat","W",NA,96,89,24,35,"W 2",2017-02-27
+"880",880,"Dallas Mavericks",60,"Wed Mar 1 2017","@","Atlanta Hawks","L",NA,95,100,24,36,"L 1",2017-03-01
+"881",881,"Dallas Mavericks",61,"Fri Mar 3 2017","vs","Memphis Grizzlies","W",NA,104,100,25,36,"W 1",2017-03-03
+"882",882,"Dallas Mavericks",62,"Sun Mar 5 2017","vs","Oklahoma City Thunder","W",NA,104,89,26,36,"W 2",2017-03-05
+"883",883,"Dallas Mavericks",63,"Tue Mar 7 2017","vs","Los Angeles Lakers","W",NA,122,111,27,36,"W 3",2017-03-07
+"884",884,"Dallas Mavericks",64,"Fri Mar 10 2017","vs","Brooklyn Nets","W",NA,105,96,28,36,"W 4",2017-03-10
+"885",885,"Dallas Mavericks",65,"Sat Mar 11 2017","vs","Phoenix Suns","L",NA,98,100,28,37,"L 1",2017-03-11
+"886",886,"Dallas Mavericks",66,"Mon Mar 13 2017","@","Toronto Raptors","L",NA,78,100,28,38,"L 2",2017-03-13
+"887",887,"Dallas Mavericks",67,"Wed Mar 15 2017","@","Washington Wizards","W",NA,112,107,29,38,"W 1",2017-03-15
+"888",888,"Dallas Mavericks",68,"Fri Mar 17 2017","@","Philadelphia 76ers","L",NA,74,116,29,39,"L 1",2017-03-17
+"889",889,"Dallas Mavericks",69,"Sun Mar 19 2017","@","Brooklyn Nets","W",NA,111,104,30,39,"W 1",2017-03-19
+"890",890,"Dallas Mavericks",70,"Tue Mar 21 2017","vs","Golden State Warriors","L",NA,87,112,30,40,"L 1",2017-03-21
+"891",891,"Dallas Mavericks",71,"Thu Mar 23 2017","vs","Los Angeles Clippers","W",NA,97,95,31,40,"W 1",2017-03-23
+"892",892,"Dallas Mavericks",72,"Sat Mar 25 2017","vs","Toronto Raptors","L",NA,86,94,31,41,"L 1",2017-03-25
+"893",893,"Dallas Mavericks",73,"Mon Mar 27 2017","vs","Oklahoma City Thunder","L",NA,91,92,31,42,"L 2",2017-03-27
+"894",894,"Dallas Mavericks",74,"Wed Mar 29 2017","@","New Orleans Pelicans","L",NA,118,121,31,43,"L 3",2017-03-29
+"895",895,"Dallas Mavericks",75,"Fri Mar 31 2017","@","Memphis Grizzlies","L",NA,90,99,31,44,"L 4",2017-03-31
+"896",896,"Dallas Mavericks",76,"Sun Apr 2 2017","@","Milwaukee Bucks","W",NA,109,105,32,44,"W 1",2017-04-02
+"897",897,"Dallas Mavericks",77,"Tue Apr 4 2017","@","Sacramento Kings","L",NA,87,98,32,45,"L 1",2017-04-04
+"898",898,"Dallas Mavericks",78,"Wed Apr 5 2017","@","Los Angeles Clippers","L",NA,101,112,32,46,"L 2",2017-04-05
+"899",899,"Dallas Mavericks",79,"Fri Apr 7 2017","vs","San Antonio Spurs","L",NA,89,102,32,47,"L 3",2017-04-07
+"900",900,"Dallas Mavericks",80,"Sun Apr 9 2017","@","Phoenix Suns","L",NA,111,124,32,48,"L 4",2017-04-09
+"901",901,"Dallas Mavericks",81,"Tue Apr 11 2017","vs","Denver Nuggets","L",NA,91,109,32,49,"L 5",2017-04-11
+"902",902,"Dallas Mavericks",82,"Wed Apr 12 2017","@","Memphis Grizzlies","W",NA,100,93,33,49,"W 1",2017-04-12
+"903",903,"Sacramento Kings",1,"Wed Oct 26 2016","@","Phoenix Suns","W",NA,113,94,1,0,"W 1",2016-10-26
+"904",904,"Sacramento Kings",2,"Thu Oct 27 2016","vs","San Antonio Spurs","L",NA,94,102,1,1,"L 1",2016-10-27
+"905",905,"Sacramento Kings",3,"Sat Oct 29 2016","vs","Minnesota Timberwolves","W",NA,106,103,2,1,"W 1",2016-10-29
+"906",906,"Sacramento Kings",4,"Mon Oct 31 2016","@","Atlanta Hawks","L",NA,95,106,2,2,"L 1",2016-10-31
+"907",907,"Sacramento Kings",5,"Tue Nov 1 2016","@","Miami Heat","L","OT",96,108,2,3,"L 2",2016-11-01
+"908",908,"Sacramento Kings",6,"Thu Nov 3 2016","@","Orlando Magic","L",NA,94,102,2,4,"L 3",2016-11-03
+"909",909,"Sacramento Kings",7,"Sat Nov 5 2016","@","Milwaukee Bucks","L",NA,91,117,2,5,"L 4",2016-11-05
+"910",910,"Sacramento Kings",8,"Sun Nov 6 2016","@","Toronto Raptors","W",NA,96,91,3,5,"W 1",2016-11-06
+"911",911,"Sacramento Kings",9,"Tue Nov 8 2016","vs","New Orleans Pelicans","W",NA,102,94,4,5,"W 2",2016-11-08
+"912",912,"Sacramento Kings",10,"Thu Nov 10 2016","vs","Los Angeles Lakers","L",NA,91,101,4,6,"L 1",2016-11-10
+"913",913,"Sacramento Kings",11,"Fri Nov 11 2016","@","Portland Trail Blazers","L","OT",120,122,4,7,"L 2",2016-11-11
+"914",914,"Sacramento Kings",12,"Wed Nov 16 2016","vs","San Antonio Spurs","L",NA,105,110,4,8,"L 3",2016-11-16
+"915",915,"Sacramento Kings",13,"Fri Nov 18 2016","vs","Los Angeles Clippers","L",NA,115,121,4,9,"L 4",2016-11-18
+"916",916,"Sacramento Kings",14,"Sun Nov 20 2016","vs","Toronto Raptors","W",NA,102,99,5,9,"W 1",2016-11-20
+"917",917,"Sacramento Kings",15,"Wed Nov 23 2016","vs","Oklahoma City Thunder","W",NA,116,101,6,9,"W 2",2016-11-23
+"918",918,"Sacramento Kings",16,"Fri Nov 25 2016","vs","Houston Rockets","L",NA,104,117,6,10,"L 1",2016-11-25
+"919",919,"Sacramento Kings",17,"Sun Nov 27 2016","@","Brooklyn Nets","W",NA,122,105,7,10,"W 1",2016-11-27
+"920",920,"Sacramento Kings",18,"Mon Nov 28 2016","@","Washington Wizards","L","OT",95,101,7,11,"L 1",2016-11-28
+"921",921,"Sacramento Kings",19,"Fri Dec 2 2016","@","Boston Celtics","L",NA,92,97,7,12,"L 2",2016-12-02
+"922",922,"Sacramento Kings",20,"Sun Dec 4 2016","@","New York Knicks","L",NA,98,106,7,13,"L 3",2016-12-04
+"923",923,"Sacramento Kings",21,"Wed Dec 7 2016","@","Dallas Mavericks","W",NA,120,89,8,13,"W 1",2016-12-07
+"924",924,"Sacramento Kings",22,"Fri Dec 9 2016","vs","New York Knicks","L",NA,100,103,8,14,"L 1",2016-12-09
+"925",925,"Sacramento Kings",23,"Sat Dec 10 2016","@","Utah Jazz","L",NA,84,104,8,15,"L 2",2016-12-10
+"926",926,"Sacramento Kings",24,"Mon Dec 12 2016","vs","Los Angeles Lakers","W",NA,116,92,9,15,"W 1",2016-12-12
+"927",927,"Sacramento Kings",25,"Wed Dec 14 2016","@","Houston Rockets","L",NA,98,132,9,16,"L 1",2016-12-14
+"928",928,"Sacramento Kings",26,"Fri Dec 16 2016","@","Memphis Grizzlies","W",NA,96,92,10,16,"W 1",2016-12-16
+"929",929,"Sacramento Kings",27,"Sun Dec 18 2016","@","Dallas Mavericks","L",NA,79,99,10,17,"L 1",2016-12-18
+"930",930,"Sacramento Kings",28,"Tue Dec 20 2016","vs","Portland Trail Blazers","W",NA,126,121,11,17,"W 1",2016-12-20
+"931",931,"Sacramento Kings",29,"Wed Dec 21 2016","@","Utah Jazz","W",NA,94,93,12,17,"W 2",2016-12-21
+"932",932,"Sacramento Kings",30,"Fri Dec 23 2016","@","Minnesota Timberwolves","W",NA,109,105,13,17,"W 3",2016-12-23
+"933",933,"Sacramento Kings",31,"Mon Dec 26 2016","vs","Philadelphia 76ers","W",NA,102,100,14,17,"W 4",2016-12-26
+"934",934,"Sacramento Kings",32,"Wed Dec 28 2016","@","Portland Trail Blazers","L",NA,89,102,14,18,"L 1",2016-12-28
+"935",935,"Sacramento Kings",33,"Sat Dec 31 2016","vs","Memphis Grizzlies","L",NA,98,112,14,19,"L 2",2016-12-31
+"936",936,"Sacramento Kings",34,"Tue Jan 3 2017","@","Denver Nuggets","W",NA,120,113,15,19,"W 1",2017-01-03
+"937",937,"Sacramento Kings",35,"Wed Jan 4 2017","vs","Miami Heat","L",NA,102,107,15,20,"L 1",2017-01-04
+"938",938,"Sacramento Kings",36,"Fri Jan 6 2017","vs","Los Angeles Clippers","L",NA,98,106,15,21,"L 2",2017-01-06
+"939",939,"Sacramento Kings",37,"Sun Jan 8 2017","vs","Golden State Warriors","L",NA,106,117,15,22,"L 3",2017-01-08
+"940",940,"Sacramento Kings",38,"Tue Jan 10 2017","vs","Detroit Pistons","W",NA,100,94,16,22,"W 1",2017-01-10
+"941",941,"Sacramento Kings",39,"Fri Jan 13 2017","vs","Cleveland Cavaliers","L",NA,108,120,16,23,"L 1",2017-01-13
+"942",942,"Sacramento Kings",40,"Sun Jan 15 2017","vs","Oklahoma City Thunder","L",NA,118,122,16,24,"L 2",2017-01-15
+"943",943,"Sacramento Kings",41,"Wed Jan 18 2017","vs","Indiana Pacers","L",NA,100,106,16,25,"L 3",2017-01-18
+"944",944,"Sacramento Kings",42,"Fri Jan 20 2017","@","Memphis Grizzlies","L",NA,91,107,16,26,"L 4",2017-01-20
+"945",945,"Sacramento Kings",43,"Sat Jan 21 2017","@","Chicago Bulls","L",NA,99,102,16,27,"L 5",2017-01-21
+"946",946,"Sacramento Kings",44,"Mon Jan 23 2017","@","Detroit Pistons","W",NA,109,104,17,27,"W 1",2017-01-23
+"947",947,"Sacramento Kings",45,"Wed Jan 25 2017","@","Cleveland Cavaliers","W","OT",116,112,18,27,"W 2",2017-01-25
+"948",948,"Sacramento Kings",46,"Fri Jan 27 2017","@","Indiana Pacers","L","OT",111,115,18,28,"L 1",2017-01-27
+"949",949,"Sacramento Kings",47,"Sat Jan 28 2017","@","Charlotte Hornets","W",NA,109,106,19,28,"W 1",2017-01-28
+"950",950,"Sacramento Kings",48,"Mon Jan 30 2017","@","Philadelphia 76ers","L",NA,119,122,19,29,"L 1",2017-01-30
+"951",951,"Sacramento Kings",49,"Tue Jan 31 2017","@","Houston Rockets","L",NA,83,105,19,30,"L 2",2017-01-31
+"952",952,"Sacramento Kings",50,"Fri Feb 3 2017","vs","Phoenix Suns","L",NA,103,105,19,31,"L 3",2017-02-03
+"953",953,"Sacramento Kings",51,"Sat Feb 4 2017","vs","Golden State Warriors","W","OT",109,106,20,31,"W 1",2017-02-04
+"954",954,"Sacramento Kings",52,"Mon Feb 6 2017","vs","Chicago Bulls","L",NA,107,112,20,32,"L 1",2017-02-06
+"955",955,"Sacramento Kings",53,"Wed Feb 8 2017","vs","Boston Celtics","W",NA,108,92,21,32,"W 1",2017-02-08
+"956",956,"Sacramento Kings",54,"Fri Feb 10 2017","vs","Atlanta Hawks","W",NA,108,107,22,32,"W 2",2017-02-10
+"957",957,"Sacramento Kings",55,"Sun Feb 12 2017","vs","New Orleans Pelicans","W",NA,105,99,23,32,"W 3",2017-02-12
+"958",958,"Sacramento Kings",56,"Tue Feb 14 2017","@","Los Angeles Lakers","W",NA,97,96,24,32,"W 4",2017-02-14
+"959",959,"Sacramento Kings",57,"Wed Feb 15 2017","@","Golden State Warriors","L",NA,86,109,24,33,"L 1",2017-02-15
+"960",960,"Sacramento Kings",58,"Thu Feb 23 2017","vs","Denver Nuggets","W",NA,116,100,25,33,"W 1",2017-02-23
+"961",961,"Sacramento Kings",59,"Sat Feb 25 2017","vs","Charlotte Hornets","L",NA,85,99,25,34,"L 1",2017-02-25
+"962",962,"Sacramento Kings",60,"Mon Feb 27 2017","vs","Minnesota Timberwolves","L",NA,88,102,25,35,"L 2",2017-02-27
+"963",963,"Sacramento Kings",61,"Wed Mar 1 2017","vs","Brooklyn Nets","L",NA,100,109,25,36,"L 3",2017-03-01
+"964",964,"Sacramento Kings",62,"Sun Mar 5 2017","vs","Utah Jazz","L","OT",109,110,25,37,"L 4",2017-03-05
+"965",965,"Sacramento Kings",63,"Mon Mar 6 2017","@","Denver Nuggets","L",NA,96,108,25,38,"L 5",2017-03-06
+"966",966,"Sacramento Kings",64,"Wed Mar 8 2017","@","San Antonio Spurs","L",NA,104,114,25,39,"L 6",2017-03-08
+"967",967,"Sacramento Kings",65,"Fri Mar 10 2017","vs","Washington Wizards","L","OT",122,130,25,40,"L 7",2017-03-10
+"968",968,"Sacramento Kings",66,"Sat Mar 11 2017","vs","Denver Nuggets","L",NA,92,105,25,41,"L 8",2017-03-11
+"969",969,"Sacramento Kings",67,"Mon Mar 13 2017","vs","Orlando Magic","W",NA,120,115,26,41,"W 1",2017-03-13
+"970",970,"Sacramento Kings",68,"Wed Mar 15 2017","@","Phoenix Suns","W",NA,107,101,27,41,"W 2",2017-03-15
+"971",971,"Sacramento Kings",69,"Sat Mar 18 2017","@","Oklahoma City Thunder","L",NA,94,110,27,42,"L 1",2017-03-18
+"972",972,"Sacramento Kings",70,"Sun Mar 19 2017","@","San Antonio Spurs","L",NA,102,118,27,43,"L 2",2017-03-19
+"973",973,"Sacramento Kings",71,"Wed Mar 22 2017","vs","Milwaukee Bucks","L",NA,98,116,27,44,"L 3",2017-03-22
+"974",974,"Sacramento Kings",72,"Fri Mar 24 2017","@","Golden State Warriors","L",NA,100,114,27,45,"L 4",2017-03-24
+"975",975,"Sacramento Kings",73,"Sun Mar 26 2017","@","Los Angeles Clippers","W",NA,98,97,28,45,"W 1",2017-03-26
+"976",976,"Sacramento Kings",74,"Mon Mar 27 2017","vs","Memphis Grizzlies","W",NA,91,90,29,45,"W 2",2017-03-27
+"977",977,"Sacramento Kings",75,"Wed Mar 29 2017","vs","Utah Jazz","L",NA,82,112,29,46,"L 1",2017-03-29
+"978",978,"Sacramento Kings",76,"Fri Mar 31 2017","@","New Orleans Pelicans","L",NA,89,117,29,47,"L 2",2017-03-31
+"979",979,"Sacramento Kings",77,"Sat Apr 1 2017","@","Minnesota Timberwolves","W",NA,123,117,30,47,"W 1",2017-04-01
+"980",980,"Sacramento Kings",78,"Tue Apr 4 2017","vs","Dallas Mavericks","W",NA,98,87,31,47,"W 2",2017-04-04
+"981",981,"Sacramento Kings",79,"Fri Apr 7 2017","@","Los Angeles Lakers","L",NA,94,98,31,48,"L 1",2017-04-07
+"982",982,"Sacramento Kings",80,"Sun Apr 9 2017","vs","Houston Rockets","L",NA,128,135,31,49,"L 2",2017-04-09
+"983",983,"Sacramento Kings",81,"Tue Apr 11 2017","vs","Phoenix Suns","W",NA,129,104,32,49,"W 1",2017-04-11
+"984",984,"Sacramento Kings",82,"Wed Apr 12 2017","@","Los Angeles Clippers","L",NA,95,115,32,50,"L 1",2017-04-12
+"985",985,"Minnesota Timberwolves",1,"Wed Oct 26 2016","@","Memphis Grizzlies","L",NA,98,102,0,1,"L 1",2016-10-26
+"986",986,"Minnesota Timberwolves",2,"Sat Oct 29 2016","@","Sacramento Kings","L",NA,103,106,0,2,"L 2",2016-10-29
+"987",987,"Minnesota Timberwolves",3,"Tue Nov 1 2016","vs","Memphis Grizzlies","W",NA,116,80,1,2,"W 1",2016-11-01
+"988",988,"Minnesota Timberwolves",4,"Thu Nov 3 2016","vs","Denver Nuggets","L",NA,99,102,1,3,"L 1",2016-11-03
+"989",989,"Minnesota Timberwolves",5,"Sat Nov 5 2016","@","Oklahoma City Thunder","L",NA,92,112,1,4,"L 2",2016-11-05
+"990",990,"Minnesota Timberwolves",6,"Tue Nov 8 2016","@","Brooklyn Nets","L",NA,110,119,1,5,"L 3",2016-11-08
+"991",991,"Minnesota Timberwolves",7,"Wed Nov 9 2016","@","Orlando Magic","W",NA,123,107,2,5,"W 1",2016-11-09
+"992",992,"Minnesota Timberwolves",8,"Sat Nov 12 2016","vs","Los Angeles Clippers","L",NA,105,119,2,6,"L 1",2016-11-12
+"993",993,"Minnesota Timberwolves",9,"Sun Nov 13 2016","vs","Los Angeles Lakers","W",NA,125,99,3,6,"W 1",2016-11-13
+"994",994,"Minnesota Timberwolves",10,"Tue Nov 15 2016","vs","Charlotte Hornets","L",NA,108,115,3,7,"L 1",2016-11-15
+"995",995,"Minnesota Timberwolves",11,"Thu Nov 17 2016","vs","Philadelphia 76ers","W",NA,110,86,4,7,"W 1",2016-11-17
+"996",996,"Minnesota Timberwolves",12,"Sat Nov 19 2016","@","Memphis Grizzlies","L",NA,71,93,4,8,"L 1",2016-11-19
+"997",997,"Minnesota Timberwolves",13,"Mon Nov 21 2016","vs","Boston Celtics","L",NA,93,99,4,9,"L 2",2016-11-21
+"998",998,"Minnesota Timberwolves",14,"Wed Nov 23 2016","@","New Orleans Pelicans","L",NA,96,117,4,10,"L 3",2016-11-23
+"999",999,"Minnesota Timberwolves",15,"Fri Nov 25 2016","@","Phoenix Suns","W",NA,98,85,5,10,"W 1",2016-11-25
+"1000",1000,"Minnesota Timberwolves",16,"Sat Nov 26 2016","@","Golden State Warriors","L",NA,102,115,5,11,"L 1",2016-11-26
+"1001",1001,"Minnesota Timberwolves",17,"Mon Nov 28 2016","vs","Utah Jazz","L",NA,103,112,5,12,"L 2",2016-11-28
+"1002",1002,"Minnesota Timberwolves",18,"Wed Nov 30 2016","vs","New York Knicks","L",NA,104,106,5,13,"L 3",2016-11-30
+"1003",1003,"Minnesota Timberwolves",19,"Fri Dec 2 2016","@","New York Knicks","L",NA,114,118,5,14,"L 4",2016-12-02
+"1004",1004,"Minnesota Timberwolves",20,"Sat Dec 3 2016","@","Charlotte Hornets","W","OT",125,120,6,14,"W 1",2016-12-03
+"1005",1005,"Minnesota Timberwolves",21,"Tue Dec 6 2016","vs","San Antonio Spurs","L",NA,91,105,6,15,"L 1",2016-12-06
+"1006",1006,"Minnesota Timberwolves",22,"Thu Dec 8 2016","@","Toronto Raptors","L",NA,110,124,6,16,"L 2",2016-12-08
+"1007",1007,"Minnesota Timberwolves",23,"Fri Dec 9 2016","vs","Detroit Pistons","L",NA,90,117,6,17,"L 3",2016-12-09
+"1008",1008,"Minnesota Timberwolves",24,"Sun Dec 11 2016","vs","Golden State Warriors","L",NA,108,116,6,18,"L 4",2016-12-11
+"1009",1009,"Minnesota Timberwolves",25,"Tue Dec 13 2016","@","Chicago Bulls","W",NA,99,94,7,18,"W 1",2016-12-13
+"1010",1010,"Minnesota Timberwolves",26,"Sat Dec 17 2016","vs","Houston Rockets","L","OT",109,111,7,19,"L 1",2016-12-17
+"1011",1011,"Minnesota Timberwolves",27,"Mon Dec 19 2016","vs","Phoenix Suns","W",NA,115,108,8,19,"W 1",2016-12-19
+"1012",1012,"Minnesota Timberwolves",28,"Wed Dec 21 2016","@","Atlanta Hawks","W",NA,92,84,9,19,"W 2",2016-12-21
+"1013",1013,"Minnesota Timberwolves",29,"Fri Dec 23 2016","vs","Sacramento Kings","L",NA,105,109,9,20,"L 1",2016-12-23
+"1014",1014,"Minnesota Timberwolves",30,"Sun Dec 25 2016","@","Oklahoma City Thunder","L",NA,100,112,9,21,"L 2",2016-12-25
+"1015",1015,"Minnesota Timberwolves",31,"Mon Dec 26 2016","vs","Atlanta Hawks","W",NA,104,90,10,21,"W 1",2016-12-26
+"1016",1016,"Minnesota Timberwolves",32,"Wed Dec 28 2016","@","Denver Nuggets","L",NA,103,105,10,22,"L 1",2016-12-28
+"1017",1017,"Minnesota Timberwolves",33,"Fri Dec 30 2016","vs","Milwaukee Bucks","W",NA,116,99,11,22,"W 1",2016-12-30
+"1018",1018,"Minnesota Timberwolves",34,"Sun Jan 1 2017","vs","Portland Trail Blazers","L",NA,89,95,11,23,"L 1",2017-01-01
+"1019",1019,"Minnesota Timberwolves",35,"Tue Jan 3 2017","@","Philadelphia 76ers","L",NA,91,93,11,24,"L 2",2017-01-03
+"1020",1020,"Minnesota Timberwolves",36,"Fri Jan 6 2017","@","Washington Wizards","L",NA,105,112,11,25,"L 3",2017-01-06
+"1021",1021,"Minnesota Timberwolves",37,"Sat Jan 7 2017","vs","Utah Jazz","L",NA,92,94,11,26,"L 4",2017-01-07
+"1022",1022,"Minnesota Timberwolves",38,"Mon Jan 9 2017","vs","Dallas Mavericks","W",NA,101,92,12,26,"W 1",2017-01-09
+"1023",1023,"Minnesota Timberwolves",39,"Wed Jan 11 2017","vs","Houston Rockets","W",NA,119,105,13,26,"W 2",2017-01-11
+"1024",1024,"Minnesota Timberwolves",40,"Fri Jan 13 2017","vs","Oklahoma City Thunder","W",NA,96,86,14,26,"W 3",2017-01-13
+"1025",1025,"Minnesota Timberwolves",41,"Sun Jan 15 2017","@","Dallas Mavericks","L",NA,87,98,14,27,"L 1",2017-01-15
+"1026",1026,"Minnesota Timberwolves",42,"Tue Jan 17 2017","@","San Antonio Spurs","L",NA,114,122,14,28,"L 2",2017-01-17
+"1027",1027,"Minnesota Timberwolves",43,"Thu Jan 19 2017","@","Los Angeles Clippers","W",NA,104,101,15,28,"W 1",2017-01-19
+"1028",1028,"Minnesota Timberwolves",44,"Sun Jan 22 2017","vs","Denver Nuggets","W",NA,111,108,16,28,"W 2",2017-01-22
+"1029",1029,"Minnesota Timberwolves",45,"Tue Jan 24 2017","@","Phoenix Suns","W",NA,112,111,17,28,"W 3",2017-01-24
+"1030",1030,"Minnesota Timberwolves",46,"Thu Jan 26 2017","vs","Indiana Pacers","L",NA,103,109,17,29,"L 1",2017-01-26
+"1031",1031,"Minnesota Timberwolves",47,"Sat Jan 28 2017","vs","Brooklyn Nets","W",NA,129,109,18,29,"W 1",2017-01-28
+"1032",1032,"Minnesota Timberwolves",48,"Mon Jan 30 2017","vs","Orlando Magic","W","OT",111,105,19,29,"W 2",2017-01-30
+"1033",1033,"Minnesota Timberwolves",49,"Wed Feb 1 2017","@","Cleveland Cavaliers","L",NA,97,125,19,30,"L 1",2017-02-01
+"1034",1034,"Minnesota Timberwolves",50,"Fri Feb 3 2017","@","Detroit Pistons","L",NA,108,116,19,31,"L 2",2017-02-03
+"1035",1035,"Minnesota Timberwolves",51,"Sat Feb 4 2017","vs","Memphis Grizzlies","L",NA,99,107,19,32,"L 3",2017-02-04
+"1036",1036,"Minnesota Timberwolves",52,"Mon Feb 6 2017","vs","Miami Heat","L",NA,113,115,19,33,"L 4",2017-02-06
+"1037",1037,"Minnesota Timberwolves",53,"Wed Feb 8 2017","vs","Toronto Raptors","W",NA,112,109,20,33,"W 1",2017-02-08
+"1038",1038,"Minnesota Timberwolves",54,"Fri Feb 10 2017","vs","New Orleans Pelicans","L",NA,106,122,20,34,"L 1",2017-02-10
+"1039",1039,"Minnesota Timberwolves",55,"Sun Feb 12 2017","vs","Chicago Bulls","W",NA,117,89,21,34,"W 1",2017-02-12
+"1040",1040,"Minnesota Timberwolves",56,"Tue Feb 14 2017","vs","Cleveland Cavaliers","L",NA,108,116,21,35,"L 1",2017-02-14
+"1041",1041,"Minnesota Timberwolves",57,"Wed Feb 15 2017","@","Denver Nuggets","W",NA,112,99,22,35,"W 1",2017-02-15
+"1042",1042,"Minnesota Timberwolves",58,"Fri Feb 24 2017","vs","Dallas Mavericks","W",NA,97,84,23,35,"W 2",2017-02-24
+"1043",1043,"Minnesota Timberwolves",59,"Sat Feb 25 2017","@","Houston Rockets","L",NA,130,142,23,36,"L 1",2017-02-25
+"1044",1044,"Minnesota Timberwolves",60,"Mon Feb 27 2017","@","Sacramento Kings","W",NA,102,88,24,36,"W 1",2017-02-27
+"1045",1045,"Minnesota Timberwolves",61,"Wed Mar 1 2017","@","Utah Jazz","W",NA,107,80,25,36,"W 2",2017-03-01
+"1046",1046,"Minnesota Timberwolves",62,"Sat Mar 4 2017","@","San Antonio Spurs","L","OT",90,97,25,37,"L 1",2017-03-04
+"1047",1047,"Minnesota Timberwolves",63,"Wed Mar 8 2017","vs","Los Angeles Clippers","W",NA,107,91,26,37,"W 1",2017-03-08
+"1048",1048,"Minnesota Timberwolves",64,"Fri Mar 10 2017","vs","Golden State Warriors","W",NA,103,102,27,37,"W 2",2017-03-10
+"1049",1049,"Minnesota Timberwolves",65,"Sat Mar 11 2017","@","Milwaukee Bucks","L",NA,95,102,27,38,"L 1",2017-03-11
+"1050",1050,"Minnesota Timberwolves",66,"Mon Mar 13 2017","vs","Washington Wizards","W",NA,119,104,28,38,"W 1",2017-03-13
+"1051",1051,"Minnesota Timberwolves",67,"Wed Mar 15 2017","@","Boston Celtics","L",NA,104,117,28,39,"L 1",2017-03-15
+"1052",1052,"Minnesota Timberwolves",68,"Fri Mar 17 2017","@","Miami Heat","L",NA,105,123,28,40,"L 2",2017-03-17
+"1053",1053,"Minnesota Timberwolves",69,"Sun Mar 19 2017","@","New Orleans Pelicans","L",NA,109,123,28,41,"L 3",2017-03-19
+"1054",1054,"Minnesota Timberwolves",70,"Tue Mar 21 2017","vs","San Antonio Spurs","L",NA,93,100,28,42,"L 4",2017-03-21
+"1055",1055,"Minnesota Timberwolves",71,"Fri Mar 24 2017","@","Los Angeles Lakers","L","OT",119,130,28,43,"L 5",2017-03-24
+"1056",1056,"Minnesota Timberwolves",72,"Sat Mar 25 2017","@","Portland Trail Blazers","L",NA,100,112,28,44,"L 6",2017-03-25
+"1057",1057,"Minnesota Timberwolves",73,"Tue Mar 28 2017","@","Indiana Pacers","W",NA,115,114,29,44,"W 1",2017-03-28
+"1058",1058,"Minnesota Timberwolves",74,"Thu Mar 30 2017","vs","Los Angeles Lakers","W",NA,119,104,30,44,"W 2",2017-03-30
+"1059",1059,"Minnesota Timberwolves",75,"Sat Apr 1 2017","vs","Sacramento Kings","L",NA,117,123,30,45,"L 1",2017-04-01
+"1060",1060,"Minnesota Timberwolves",76,"Mon Apr 3 2017","vs","Portland Trail Blazers","W",NA,110,109,31,45,"W 1",2017-04-03
+"1061",1061,"Minnesota Timberwolves",77,"Tue Apr 4 2017","@","Golden State Warriors","L",NA,107,121,31,46,"L 1",2017-04-04
+"1062",1062,"Minnesota Timberwolves",78,"Thu Apr 6 2017","@","Portland Trail Blazers","L",NA,98,105,31,47,"L 2",2017-04-06
+"1063",1063,"Minnesota Timberwolves",79,"Fri Apr 7 2017","@","Utah Jazz","L",NA,113,120,31,48,"L 3",2017-04-07
+"1064",1064,"Minnesota Timberwolves",80,"Sun Apr 9 2017","@","Los Angeles Lakers","L",NA,109,110,31,49,"L 4",2017-04-09
+"1065",1065,"Minnesota Timberwolves",81,"Tue Apr 11 2017","vs","Oklahoma City Thunder","L",NA,98,100,31,50,"L 5",2017-04-11
+"1066",1066,"Minnesota Timberwolves",82,"Wed Apr 12 2017","@","Houston Rockets","L",NA,118,123,31,51,"L 6",2017-04-12
+"1067",1067,"Los Angeles Lakers",1,"Wed Oct 26 2016","vs","Houston Rockets","W",NA,120,114,1,0,"W 1",2016-10-26
+"1068",1068,"Los Angeles Lakers",2,"Fri Oct 28 2016","@","Utah Jazz","L",NA,89,96,1,1,"L 1",2016-10-28
+"1069",1069,"Los Angeles Lakers",3,"Sun Oct 30 2016","@","Oklahoma City Thunder","L",NA,96,113,1,2,"L 2",2016-10-30
+"1070",1070,"Los Angeles Lakers",4,"Tue Nov 1 2016","@","Indiana Pacers","L",NA,108,115,1,3,"L 3",2016-11-01
+"1071",1071,"Los Angeles Lakers",5,"Wed Nov 2 2016","@","Atlanta Hawks","W",NA,123,116,2,3,"W 1",2016-11-02
+"1072",1072,"Los Angeles Lakers",6,"Fri Nov 4 2016","vs","Golden State Warriors","W",NA,117,97,3,3,"W 2",2016-11-04
+"1073",1073,"Los Angeles Lakers",7,"Sun Nov 6 2016","vs","Phoenix Suns","W",NA,119,108,4,3,"W 3",2016-11-06
+"1074",1074,"Los Angeles Lakers",8,"Tue Nov 8 2016","vs","Dallas Mavericks","L",NA,97,109,4,4,"L 1",2016-11-08
+"1075",1075,"Los Angeles Lakers",9,"Thu Nov 10 2016","@","Sacramento Kings","W",NA,101,91,5,4,"W 1",2016-11-10
+"1076",1076,"Los Angeles Lakers",10,"Sat Nov 12 2016","@","New Orleans Pelicans","W",NA,126,99,6,4,"W 2",2016-11-12
+"1077",1077,"Los Angeles Lakers",11,"Sun Nov 13 2016","@","Minnesota Timberwolves","L",NA,99,125,6,5,"L 1",2016-11-13
+"1078",1078,"Los Angeles Lakers",12,"Tue Nov 15 2016","vs","Brooklyn Nets","W",NA,125,118,7,5,"W 1",2016-11-15
+"1079",1079,"Los Angeles Lakers",13,"Fri Nov 18 2016","vs","San Antonio Spurs","L",NA,107,116,7,6,"L 1",2016-11-18
+"1080",1080,"Los Angeles Lakers",14,"Sun Nov 20 2016","vs","Chicago Bulls","L",NA,110,118,7,7,"L 2",2016-11-20
+"1081",1081,"Los Angeles Lakers",15,"Tue Nov 22 2016","vs","Oklahoma City Thunder","W",NA,111,109,8,7,"W 1",2016-11-22
+"1082",1082,"Los Angeles Lakers",16,"Wed Nov 23 2016","@","Golden State Warriors","L",NA,106,149,8,8,"L 1",2016-11-23
+"1083",1083,"Los Angeles Lakers",17,"Fri Nov 25 2016","vs","Golden State Warriors","L",NA,85,109,8,9,"L 2",2016-11-25
+"1084",1084,"Los Angeles Lakers",18,"Sun Nov 27 2016","vs","Atlanta Hawks","W",NA,109,94,9,9,"W 1",2016-11-27
+"1085",1085,"Los Angeles Lakers",19,"Tue Nov 29 2016","@","New Orleans Pelicans","L",NA,88,105,9,10,"L 1",2016-11-29
+"1086",1086,"Los Angeles Lakers",20,"Wed Nov 30 2016","@","Chicago Bulls","W",NA,96,90,10,10,"W 1",2016-11-30
+"1087",1087,"Los Angeles Lakers",21,"Fri Dec 2 2016","@","Toronto Raptors","L",NA,80,113,10,11,"L 1",2016-12-02
+"1088",1088,"Los Angeles Lakers",22,"Sat Dec 3 2016","@","Memphis Grizzlies","L",NA,100,103,10,12,"L 2",2016-12-03
+"1089",1089,"Los Angeles Lakers",23,"Mon Dec 5 2016","vs","Utah Jazz","L",NA,101,107,10,13,"L 3",2016-12-05
+"1090",1090,"Los Angeles Lakers",24,"Wed Dec 7 2016","@","Houston Rockets","L",NA,95,134,10,14,"L 4",2016-12-07
+"1091",1091,"Los Angeles Lakers",25,"Fri Dec 9 2016","vs","Phoenix Suns","L",NA,115,119,10,15,"L 5",2016-12-09
+"1092",1092,"Los Angeles Lakers",26,"Sun Dec 11 2016","vs","New York Knicks","L",NA,112,118,10,16,"L 6",2016-12-11
+"1093",1093,"Los Angeles Lakers",27,"Mon Dec 12 2016","@","Sacramento Kings","L",NA,92,116,10,17,"L 7",2016-12-12
+"1094",1094,"Los Angeles Lakers",28,"Wed Dec 14 2016","@","Brooklyn Nets","L",NA,97,107,10,18,"L 8",2016-12-14
+"1095",1095,"Los Angeles Lakers",29,"Fri Dec 16 2016","@","Philadelphia 76ers","W",NA,100,89,11,18,"W 1",2016-12-16
+"1096",1096,"Los Angeles Lakers",30,"Sat Dec 17 2016","@","Cleveland Cavaliers","L",NA,108,119,11,19,"L 1",2016-12-17
+"1097",1097,"Los Angeles Lakers",31,"Tue Dec 20 2016","@","Charlotte Hornets","L",NA,113,117,11,20,"L 2",2016-12-20
+"1098",1098,"Los Angeles Lakers",32,"Thu Dec 22 2016","@","Miami Heat","L",NA,107,115,11,21,"L 3",2016-12-22
+"1099",1099,"Los Angeles Lakers",33,"Fri Dec 23 2016","@","Orlando Magic","L",NA,90,109,11,22,"L 4",2016-12-23
+"1100",1100,"Los Angeles Lakers",34,"Sun Dec 25 2016","vs","Los Angeles Clippers","W",NA,111,102,12,22,"W 1",2016-12-25
+"1101",1101,"Los Angeles Lakers",35,"Tue Dec 27 2016","vs","Utah Jazz","L",NA,100,102,12,23,"L 1",2016-12-27
+"1102",1102,"Los Angeles Lakers",36,"Thu Dec 29 2016","vs","Dallas Mavericks","L",NA,89,101,12,24,"L 2",2016-12-29
+"1103",1103,"Los Angeles Lakers",37,"Sun Jan 1 2017","vs","Toronto Raptors","L",NA,114,123,12,25,"L 3",2017-01-01
+"1104",1104,"Los Angeles Lakers",38,"Tue Jan 3 2017","vs","Memphis Grizzlies","W",NA,116,102,13,25,"W 1",2017-01-03
+"1105",1105,"Los Angeles Lakers",39,"Thu Jan 5 2017","@","Portland Trail Blazers","L",NA,109,118,13,26,"L 1",2017-01-05
+"1106",1106,"Los Angeles Lakers",40,"Fri Jan 6 2017","vs","Miami Heat","W",NA,127,100,14,26,"W 1",2017-01-06
+"1107",1107,"Los Angeles Lakers",41,"Sun Jan 8 2017","vs","Orlando Magic","W",NA,111,95,15,26,"W 2",2017-01-08
+"1108",1108,"Los Angeles Lakers",42,"Tue Jan 10 2017","vs","Portland Trail Blazers","L",NA,87,108,15,27,"L 1",2017-01-10
+"1109",1109,"Los Angeles Lakers",43,"Thu Jan 12 2017","@","San Antonio Spurs","L",NA,94,134,15,28,"L 2",2017-01-12
+"1110",1110,"Los Angeles Lakers",44,"Sat Jan 14 2017","@","Los Angeles Clippers","L",NA,97,113,15,29,"L 3",2017-01-14
+"1111",1111,"Los Angeles Lakers",45,"Sun Jan 15 2017","vs","Detroit Pistons","L",NA,97,102,15,30,"L 4",2017-01-15
+"1112",1112,"Los Angeles Lakers",46,"Tue Jan 17 2017","vs","Denver Nuggets","L",NA,121,127,15,31,"L 5",2017-01-17
+"1113",1113,"Los Angeles Lakers",47,"Fri Jan 20 2017","vs","Indiana Pacers","W",NA,108,95,16,31,"W 1",2017-01-20
+"1114",1114,"Los Angeles Lakers",48,"Sun Jan 22 2017","@","Dallas Mavericks","L",NA,73,122,16,32,"L 1",2017-01-22
+"1115",1115,"Los Angeles Lakers",49,"Wed Jan 25 2017","@","Portland Trail Blazers","L",NA,98,105,16,33,"L 2",2017-01-25
+"1116",1116,"Los Angeles Lakers",50,"Thu Jan 26 2017","@","Utah Jazz","L",NA,88,96,16,34,"L 3",2017-01-26
+"1117",1117,"Los Angeles Lakers",51,"Tue Jan 31 2017","vs","Denver Nuggets","W",NA,120,116,17,34,"W 1",2017-01-31
+"1118",1118,"Los Angeles Lakers",52,"Thu Feb 2 2017","@","Washington Wizards","L",NA,108,116,17,35,"L 1",2017-02-02
+"1119",1119,"Los Angeles Lakers",53,"Fri Feb 3 2017","@","Boston Celtics","L",NA,107,113,17,36,"L 2",2017-02-03
+"1120",1120,"Los Angeles Lakers",54,"Mon Feb 6 2017","@","New York Knicks","W",NA,121,107,18,36,"W 1",2017-02-06
+"1121",1121,"Los Angeles Lakers",55,"Wed Feb 8 2017","@","Detroit Pistons","L",NA,102,121,18,37,"L 1",2017-02-08
+"1122",1122,"Los Angeles Lakers",56,"Fri Feb 10 2017","@","Milwaukee Bucks","W",NA,122,114,19,37,"W 1",2017-02-10
+"1123",1123,"Los Angeles Lakers",57,"Tue Feb 14 2017","vs","Sacramento Kings","L",NA,96,97,19,38,"L 1",2017-02-14
+"1124",1124,"Los Angeles Lakers",58,"Wed Feb 15 2017","@","Phoenix Suns","L",NA,101,137,19,39,"L 2",2017-02-15
+"1125",1125,"Los Angeles Lakers",59,"Fri Feb 24 2017","@","Oklahoma City Thunder","L",NA,93,110,19,40,"L 3",2017-02-24
+"1126",1126,"Los Angeles Lakers",60,"Sun Feb 26 2017","vs","San Antonio Spurs","L",NA,98,119,19,41,"L 4",2017-02-26
+"1127",1127,"Los Angeles Lakers",61,"Tue Feb 28 2017","vs","Charlotte Hornets","L",NA,104,109,19,42,"L 5",2017-02-28
+"1128",1128,"Los Angeles Lakers",62,"Fri Mar 3 2017","vs","Boston Celtics","L",NA,95,115,19,43,"L 6",2017-03-03
+"1129",1129,"Los Angeles Lakers",63,"Sun Mar 5 2017","vs","New Orleans Pelicans","L",NA,97,105,19,44,"L 7",2017-03-05
+"1130",1130,"Los Angeles Lakers",64,"Tue Mar 7 2017","@","Dallas Mavericks","L",NA,111,122,19,45,"L 8",2017-03-07
+"1131",1131,"Los Angeles Lakers",65,"Thu Mar 9 2017","@","Phoenix Suns","W",NA,122,110,20,45,"W 1",2017-03-09
+"1132",1132,"Los Angeles Lakers",66,"Sun Mar 12 2017","vs","Philadelphia 76ers","L",NA,116,118,20,46,"L 1",2017-03-12
+"1133",1133,"Los Angeles Lakers",67,"Mon Mar 13 2017","@","Denver Nuggets","L",NA,101,129,20,47,"L 2",2017-03-13
+"1134",1134,"Los Angeles Lakers",68,"Wed Mar 15 2017","@","Houston Rockets","L",NA,100,139,20,48,"L 3",2017-03-15
+"1135",1135,"Los Angeles Lakers",69,"Fri Mar 17 2017","vs","Milwaukee Bucks","L",NA,103,107,20,49,"L 4",2017-03-17
+"1136",1136,"Los Angeles Lakers",70,"Sun Mar 19 2017","vs","Cleveland Cavaliers","L",NA,120,125,20,50,"L 5",2017-03-19
+"1137",1137,"Los Angeles Lakers",71,"Tue Mar 21 2017","vs","Los Angeles Clippers","L",NA,109,133,20,51,"L 6",2017-03-21
+"1138",1138,"Los Angeles Lakers",72,"Fri Mar 24 2017","vs","Minnesota Timberwolves","W","OT",130,119,21,51,"W 1",2017-03-24
+"1139",1139,"Los Angeles Lakers",73,"Sun Mar 26 2017","vs","Portland Trail Blazers","L",NA,81,97,21,52,"L 1",2017-03-26
+"1140",1140,"Los Angeles Lakers",74,"Tue Mar 28 2017","vs","Washington Wizards","L",NA,108,119,21,53,"L 2",2017-03-28
+"1141",1141,"Los Angeles Lakers",75,"Thu Mar 30 2017","@","Minnesota Timberwolves","L",NA,104,119,21,54,"L 3",2017-03-30
+"1142",1142,"Los Angeles Lakers",76,"Sat Apr 1 2017","@","Los Angeles Clippers","L",NA,104,115,21,55,"L 4",2017-04-01
+"1143",1143,"Los Angeles Lakers",77,"Sun Apr 2 2017","vs","Memphis Grizzlies","W",NA,108,103,22,55,"W 1",2017-04-02
+"1144",1144,"Los Angeles Lakers",78,"Wed Apr 5 2017","@","San Antonio Spurs","W",NA,102,95,23,55,"W 2",2017-04-05
+"1145",1145,"Los Angeles Lakers",79,"Fri Apr 7 2017","vs","Sacramento Kings","W",NA,98,94,24,55,"W 3",2017-04-07
+"1146",1146,"Los Angeles Lakers",80,"Sun Apr 9 2017","vs","Minnesota Timberwolves","W",NA,110,109,25,55,"W 4",2017-04-09
+"1147",1147,"Los Angeles Lakers",81,"Tue Apr 11 2017","vs","New Orleans Pelicans","W",NA,108,96,26,55,"W 5",2017-04-11
+"1148",1148,"Los Angeles Lakers",82,"Wed Apr 12 2017","@","Golden State Warriors","L",NA,94,109,26,56,"L 1",2017-04-12
+"1149",1149,"Phoenix Suns",1,"Wed Oct 26 2016","vs","Sacramento Kings","L",NA,94,113,0,1,"L 1",2016-10-26
+"1150",1150,"Phoenix Suns",2,"Fri Oct 28 2016","@","Oklahoma City Thunder","L","OT",110,113,0,2,"L 2",2016-10-28
+"1151",1151,"Phoenix Suns",3,"Sun Oct 30 2016","vs","Golden State Warriors","L",NA,100,106,0,3,"L 3",2016-10-30
+"1152",1152,"Phoenix Suns",4,"Mon Oct 31 2016","@","Los Angeles Clippers","L",NA,98,116,0,4,"L 4",2016-10-31
+"1153",1153,"Phoenix Suns",5,"Wed Nov 2 2016","vs","Portland Trail Blazers","W","OT",118,115,1,4,"W 1",2016-11-02
+"1154",1154,"Phoenix Suns",6,"Fri Nov 4 2016","@","New Orleans Pelicans","W","OT",112,111,2,4,"W 2",2016-11-04
+"1155",1155,"Phoenix Suns",7,"Sun Nov 6 2016","@","Los Angeles Lakers","L",NA,108,119,2,5,"L 1",2016-11-06
+"1156",1156,"Phoenix Suns",8,"Tue Nov 8 2016","@","Portland Trail Blazers","L",NA,121,124,2,6,"L 2",2016-11-08
+"1157",1157,"Phoenix Suns",9,"Wed Nov 9 2016","vs","Detroit Pistons","W",NA,107,100,3,6,"W 1",2016-11-09
+"1158",1158,"Phoenix Suns",10,"Sat Nov 12 2016","vs","Brooklyn Nets","L",NA,104,122,3,7,"L 1",2016-11-12
+"1159",1159,"Phoenix Suns",11,"Sun Nov 13 2016","@","Golden State Warriors","L",NA,120,133,3,8,"L 2",2016-11-13
+"1160",1160,"Phoenix Suns",12,"Wed Nov 16 2016","@","Denver Nuggets","L",NA,104,120,3,9,"L 3",2016-11-16
+"1161",1161,"Phoenix Suns",13,"Fri Nov 18 2016","@","Indiana Pacers","W",NA,116,96,4,9,"W 1",2016-11-18
+"1162",1162,"Phoenix Suns",14,"Sat Nov 19 2016","@","Philadelphia 76ers","L",NA,105,120,4,10,"L 1",2016-11-19
+"1163",1163,"Phoenix Suns",15,"Mon Nov 21 2016","@","Washington Wizards","L",NA,101,106,4,11,"L 2",2016-11-21
+"1164",1164,"Phoenix Suns",16,"Wed Nov 23 2016","@","Orlando Magic","W",NA,92,87,5,11,"W 1",2016-11-23
+"1165",1165,"Phoenix Suns",17,"Fri Nov 25 2016","vs","Minnesota Timberwolves","L",NA,85,98,5,12,"L 1",2016-11-25
+"1166",1166,"Phoenix Suns",18,"Sun Nov 27 2016","vs","Denver Nuggets","L",NA,114,120,5,13,"L 2",2016-11-27
+"1167",1167,"Phoenix Suns",19,"Wed Nov 30 2016","vs","Atlanta Hawks","W",NA,109,107,6,13,"W 1",2016-11-30
+"1168",1168,"Phoenix Suns",20,"Sat Dec 3 2016","@","Golden State Warriors","L",NA,109,138,6,14,"L 1",2016-12-03
+"1169",1169,"Phoenix Suns",21,"Tue Dec 6 2016","@","Utah Jazz","L",NA,105,112,6,15,"L 2",2016-12-06
+"1170",1170,"Phoenix Suns",22,"Wed Dec 7 2016","vs","Indiana Pacers","L",NA,94,109,6,16,"L 3",2016-12-07
+"1171",1171,"Phoenix Suns",23,"Fri Dec 9 2016","@","Los Angeles Lakers","W",NA,119,115,7,16,"W 1",2016-12-09
+"1172",1172,"Phoenix Suns",24,"Sun Dec 11 2016","vs","New Orleans Pelicans","L","OT",119,120,7,17,"L 1",2016-12-11
+"1173",1173,"Phoenix Suns",25,"Tue Dec 13 2016","vs","New York Knicks","W","OT",113,111,8,17,"W 1",2016-12-13
+"1174",1174,"Phoenix Suns",26,"Thu Dec 15 2016","vs","San Antonio Spurs","L",NA,92,107,8,18,"L 1",2016-12-15
+"1175",1175,"Phoenix Suns",27,"Sat Dec 17 2016","@","Oklahoma City Thunder","L",NA,101,114,8,19,"L 2",2016-12-17
+"1176",1176,"Phoenix Suns",28,"Mon Dec 19 2016","@","Minnesota Timberwolves","L",NA,108,115,8,20,"L 3",2016-12-19
+"1177",1177,"Phoenix Suns",29,"Wed Dec 21 2016","vs","Houston Rockets","L",NA,111,125,8,21,"L 4",2016-12-21
+"1178",1178,"Phoenix Suns",30,"Fri Dec 23 2016","vs","Philadelphia 76ers","W",NA,123,116,9,21,"W 1",2016-12-23
+"1179",1179,"Phoenix Suns",31,"Mon Dec 26 2016","@","Houston Rockets","L",NA,115,131,9,22,"L 1",2016-12-26
+"1180",1180,"Phoenix Suns",32,"Wed Dec 28 2016","@","San Antonio Spurs","L",NA,98,119,9,23,"L 2",2016-12-28
+"1181",1181,"Phoenix Suns",33,"Thu Dec 29 2016","vs","Toronto Raptors","W",NA,99,91,10,23,"W 1",2016-12-29
+"1182",1182,"Phoenix Suns",34,"Sat Dec 31 2016","@","Utah Jazz","L",NA,86,91,10,24,"L 1",2016-12-31
+"1183",1183,"Phoenix Suns",35,"Mon Jan 2 2017","@","Los Angeles Clippers","L",NA,98,109,10,25,"L 2",2017-01-02
+"1184",1184,"Phoenix Suns",36,"Tue Jan 3 2017","vs","Miami Heat","W",NA,99,90,11,25,"W 1",2017-01-03
+"1185",1185,"Phoenix Suns",37,"Thu Jan 5 2017","@","Dallas Mavericks","W",NA,102,95,12,25,"W 2",2017-01-05
+"1186",1186,"Phoenix Suns",38,"Sun Jan 8 2017","vs","Cleveland Cavaliers","L",NA,116,120,12,26,"L 1",2017-01-08
+"1187",1187,"Phoenix Suns",39,"Thu Jan 12 2017","vs","Dallas Mavericks","L",NA,108,113,12,27,"L 2",2017-01-12
+"1188",1188,"Phoenix Suns",40,"Sat Jan 14 2017","vs","San Antonio Spurs","W",NA,108,105,13,27,"W 1",2017-01-14
+"1189",1189,"Phoenix Suns",41,"Mon Jan 16 2017","vs","Utah Jazz","L",NA,101,106,13,28,"L 1",2017-01-16
+"1190",1190,"Phoenix Suns",42,"Thu Jan 19 2017","@","Cleveland Cavaliers","L",NA,103,118,13,29,"L 2",2017-01-19
+"1191",1191,"Phoenix Suns",43,"Sat Jan 21 2017","@","New York Knicks","W",NA,107,105,14,29,"W 1",2017-01-21
+"1192",1192,"Phoenix Suns",44,"Sun Jan 22 2017","@","Toronto Raptors","W",NA,115,103,15,29,"W 2",2017-01-22
+"1193",1193,"Phoenix Suns",45,"Tue Jan 24 2017","vs","Minnesota Timberwolves","L",NA,111,112,15,30,"L 1",2017-01-24
+"1194",1194,"Phoenix Suns",46,"Thu Jan 26 2017","@","Denver Nuggets","L",NA,120,127,15,31,"L 2",2017-01-26
+"1195",1195,"Phoenix Suns",47,"Sat Jan 28 2017","vs","Denver Nuggets","L",NA,112,123,15,32,"L 3",2017-01-28
+"1196",1196,"Phoenix Suns",48,"Mon Jan 30 2017","vs","Memphis Grizzlies","L",NA,96,115,15,33,"L 4",2017-01-30
+"1197",1197,"Phoenix Suns",49,"Wed Feb 1 2017","vs","Los Angeles Clippers","L",NA,114,124,15,34,"L 5",2017-02-01
+"1198",1198,"Phoenix Suns",50,"Fri Feb 3 2017","@","Sacramento Kings","W",NA,105,103,16,34,"W 1",2017-02-03
+"1199",1199,"Phoenix Suns",51,"Sat Feb 4 2017","vs","Milwaukee Bucks","L",NA,112,137,16,35,"L 1",2017-02-04
+"1200",1200,"Phoenix Suns",52,"Mon Feb 6 2017","@","New Orleans Pelicans","L",NA,106,111,16,36,"L 2",2017-02-06
+"1201",1201,"Phoenix Suns",53,"Wed Feb 8 2017","@","Memphis Grizzlies","L",NA,91,110,16,37,"L 3",2017-02-08
+"1202",1202,"Phoenix Suns",54,"Fri Feb 10 2017","vs","Chicago Bulls","W",NA,115,97,17,37,"W 1",2017-02-10
+"1203",1203,"Phoenix Suns",55,"Sat Feb 11 2017","@","Houston Rockets","L",NA,102,133,17,38,"L 1",2017-02-11
+"1204",1204,"Phoenix Suns",56,"Mon Feb 13 2017","vs","New Orleans Pelicans","L",NA,108,110,17,39,"L 2",2017-02-13
+"1205",1205,"Phoenix Suns",57,"Wed Feb 15 2017","vs","Los Angeles Lakers","W",NA,137,101,18,39,"W 1",2017-02-15
+"1206",1206,"Phoenix Suns",58,"Fri Feb 24 2017","@","Chicago Bulls","L","OT",121,128,18,40,"L 1",2017-02-24
+"1207",1207,"Phoenix Suns",59,"Sun Feb 26 2017","@","Milwaukee Bucks","L",NA,96,100,18,41,"L 2",2017-02-26
+"1208",1208,"Phoenix Suns",60,"Tue Feb 28 2017","@","Memphis Grizzlies","L",NA,112,130,18,42,"L 3",2017-02-28
+"1209",1209,"Phoenix Suns",61,"Thu Mar 2 2017","vs","Charlotte Hornets","W",NA,120,103,19,42,"W 1",2017-03-02
+"1210",1210,"Phoenix Suns",62,"Fri Mar 3 2017","vs","Oklahoma City Thunder","W",NA,118,111,20,42,"W 2",2017-03-03
+"1211",1211,"Phoenix Suns",63,"Sun Mar 5 2017","vs","Boston Celtics","W",NA,109,106,21,42,"W 3",2017-03-05
+"1212",1212,"Phoenix Suns",64,"Tue Mar 7 2017","vs","Washington Wizards","L",NA,127,131,21,43,"L 1",2017-03-07
+"1213",1213,"Phoenix Suns",65,"Thu Mar 9 2017","vs","Los Angeles Lakers","L",NA,110,122,21,44,"L 2",2017-03-09
+"1214",1214,"Phoenix Suns",66,"Sat Mar 11 2017","@","Dallas Mavericks","W",NA,100,98,22,44,"W 1",2017-03-11
+"1215",1215,"Phoenix Suns",67,"Sun Mar 12 2017","vs","Portland Trail Blazers","L",NA,101,110,22,45,"L 1",2017-03-12
+"1216",1216,"Phoenix Suns",68,"Wed Mar 15 2017","vs","Sacramento Kings","L",NA,101,107,22,46,"L 2",2017-03-15
+"1217",1217,"Phoenix Suns",69,"Fri Mar 17 2017","vs","Orlando Magic","L",NA,103,109,22,47,"L 3",2017-03-17
+"1218",1218,"Phoenix Suns",70,"Sun Mar 19 2017","@","Detroit Pistons","L",NA,95,112,22,48,"L 4",2017-03-19
+"1219",1219,"Phoenix Suns",71,"Tue Mar 21 2017","@","Miami Heat","L",NA,97,112,22,49,"L 5",2017-03-21
+"1220",1220,"Phoenix Suns",72,"Thu Mar 23 2017","@","Brooklyn Nets","L",NA,98,126,22,50,"L 6",2017-03-23
+"1221",1221,"Phoenix Suns",73,"Fri Mar 24 2017","@","Boston Celtics","L",NA,120,130,22,51,"L 7",2017-03-24
+"1222",1222,"Phoenix Suns",74,"Sun Mar 26 2017","@","Charlotte Hornets","L",NA,106,120,22,52,"L 8",2017-03-26
+"1223",1223,"Phoenix Suns",75,"Tue Mar 28 2017","@","Atlanta Hawks","L",NA,91,95,22,53,"L 9",2017-03-28
+"1224",1224,"Phoenix Suns",76,"Thu Mar 30 2017","vs","Los Angeles Clippers","L",NA,118,124,22,54,"L 10",2017-03-30
+"1225",1225,"Phoenix Suns",77,"Sat Apr 1 2017","@","Portland Trail Blazers","L",NA,117,130,22,55,"L 11",2017-04-01
+"1226",1226,"Phoenix Suns",78,"Sun Apr 2 2017","vs","Houston Rockets","L",NA,116,123,22,56,"L 12",2017-04-02
+"1227",1227,"Phoenix Suns",79,"Wed Apr 5 2017","vs","Golden State Warriors","L",NA,111,120,22,57,"L 13",2017-04-05
+"1228",1228,"Phoenix Suns",80,"Fri Apr 7 2017","vs","Oklahoma City Thunder","W",NA,120,99,23,57,"W 1",2017-04-07
+"1229",1229,"Phoenix Suns",81,"Sun Apr 9 2017","vs","Dallas Mavericks","W",NA,124,111,24,57,"W 2",2017-04-09
+"1230",1230,"Phoenix Suns",82,"Tue Apr 11 2017","@","Sacramento Kings","L",NA,104,129,24,58,"L 1",2017-04-11

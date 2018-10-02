@@ -1,0 +1,21 @@
+auto$grouped_years1 <- replace(auto$grouped_years1, auto$model_year < 83, "77-82")
+auto$grouped_years1 <- replace(auto$model_year, auto$model_year < 76, "70-75")
+
+
+regfinal <- lm(log(mpg) ~ horsepower + ind.horsepower + origin1 + acceleration + cylinders_grouped + mass + grouped_years, auto)
+summary(regfinal)
+
+auto$grouped_years1 <- ifelse(auto$model_year < 76, "70-75", "76-82")
+
+regyr <- lm(mpg ~ grouped_years1, auto)
+summary(regyr)
+
+
+ggplot(auto, aes(horsepower, log(mpg))) + geom_point()
+  
+
+regacc <- lm(log(mpg) ~ acceleration, auto)
+summary(regacc)
+
+regcyl <- lm(mpg ~ cylinders, auto)
+linearHypothesis(regcyl, c("cylinders3 = cylinders4", "cylinders4 = cylinders5"))

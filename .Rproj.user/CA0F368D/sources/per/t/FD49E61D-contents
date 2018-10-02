@@ -1,0 +1,51 @@
+### Scripts needed to load the data and define log variables ###
+ins = read.csv(file.choose(), header=T); attach(ins)
+subins = ins[FACE > 0,]; attach(subins)
+logINCOME = log(INCOME); logFACE = log(FACE);
+
+
+### Example showing why indicator variable is needed ###
+plot(CHARITY, logFACE)
+logCHARITY = log(CHARITY+1) ### Differentiate clearly between zero and non-zeros
+                            ### and make the non-zeros spread out nicer
+plot(logCHARITY, logFACE)
+reg.logCHARITY = lm(logFACE ~ logCHARITY)
+summary(reg.logCHARITY)
+abline(reg.logCHARITY)
+
+ind.logCHARITY = logCHARITY > 0
+reg.logCHARITY2 = lm(logFACE ~ logCHARITY + ind.logCHARITY)
+summary(reg.logCHARITY2)    ### Use the coefficients manually for plots below
+x=60:130/10
+points(x,11.11872-3.69824+0.62297*x, type="l", col="red")
+points(0,11.11872, col="red")
+
+
+### Variable selection for termlife.csv data ###
+logTI = log(TOTINCOME + 1)
+ind.logTI = logTI > 0
+# Initial model for stepwise function, try fitting the variables in different order #
+reg = lm(logFACE ~ logTI + ind.logTI + AGE + SAGE + EDUCATION + SEDUCATION + logINCOME + logCHARITY + ind.logCHARITY + NUMHH)
+stepAIC(reg)
+reg.stepAIC = lm(formula = logFACE ~ logTI + AGE + EDUCATION + logINCOME + logCHARITY + ind.logCHARITY + NUMHH)
+summary(reg.stepAIC)
+
+
+### Removing influential points (Better look at the points more closely) ###
+index = 1:275
+I = index(hatvalues(reg.stepAIC) > 2*8/275)
+J = index[cooks.distance(reg.stepAIC) > 4/275]
+K = union(I, J)   ### 25 points in total, marginally OK to delete them since < 10% of total number of data points
+reg.AIC = lm(formula = logFACE[-K] ~ logTI[-K] + AGE[-K] + EDUCATION[-K] + logINCOME[-K] + logCHARITY[-K] + ind.logCHARITY[-K] + NUMHH[-K])
+
+
+### Diagnostic plots ###
+qqnorm(reg.AIC$resid); qqline(reg.AIC$resid)  ### Looks fine
+plot(reg.AIC$fitted, rstandard(reg.AIC))      ### Looks very good
+summary(reg.AIC)
+
+
+### Try best subset regression ###
+library(leaps)
+reg.bestsub = regsubsets(logFACE ~ logTI + ind.logTI + AGE + SAGE + EDUCATION + SEDUCATION + logINCOME + logCHARITY + ind.logCHARITY + NUMHH, data=subins)
+summary(reg.bestsub)   ### The stepAIC function chosen the best model with 7 variables, should look at other "best" models with different number of variables
